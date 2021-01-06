@@ -1,5 +1,6 @@
 module.exports = {
   purge: ['./components/**/*.js', './pages/**/*.js'],
+  darkMode: 'class',
   theme: {
     extend: {
       colors: {
@@ -8,6 +9,9 @@ module.exports = {
         'accent-7': '#333',
         success: '#0070f3',
         cyan: '#79FFE1',
+        gray: {
+          top: '#c0ccda'
+        }
       },
       spacing: {
         28: '7rem',

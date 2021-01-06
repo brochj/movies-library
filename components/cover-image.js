@@ -9,7 +9,7 @@ export default function CoverImage({ title, src, slug, height, width }) {
       alt={`Cover Image for ${title}`}
       className={cn('shadow-sm', {
         'hover:shadow-md transition-shadow duration-200': slug,
-      })}
+      }, 'rounded-t-md')}
       layout="responsive"
       width={width}
       height={height}
