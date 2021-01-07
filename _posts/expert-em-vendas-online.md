@@ -1,6 +1,6 @@
 ---
 title: 'Expert em Vendas Online'
-excerpt: 'Programa de Formação de Consultores e Especialistas em Vendas Online'
+excerpt: 'Programa de Formação de Consultores e Especialistas em Vendas Online. '
 coverImage: '/assets/blog/posts/expert-em-vendas-online.webp'
 date: '2021-01-06T03:00:00.000Z'
 author:
@@ -12,6 +12,7 @@ download:
   url: 'magnet:?xt=urn:btih:89cf6663cd0f4a1da593993d10bad41996e87f9e&amp;dn=Natanael%20Oliveira%20-%20Expert%20em%20vendas%20online%202.0&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" class="w3-btn w3-block w3-red'
 tags: ['vendas']
 ---
+## Descrição
 
 Programa de Formação de Consultores e Especialistas em Vendas Online
 
@@ -43,7 +44,7 @@ Programa de Formação de Consultores e Especialistas em Vendas Online
 ## Informações
 
 **Gênero**: Vendas  
-**Ano** de Lançamento: 2020  
+**Ano de Lançamento**: 2020  
 **Formato**: MP4  
 **Idioma**: Português  
 **Tamanho**: 3,83 GB  
