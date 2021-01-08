@@ -33,23 +33,3 @@ O programa contém 3 cursos que te dão o Mapa completo para ganhar no day trade
 **Idioma**: Português  
 **Tamanho**: 28.37 GB  
 **Servidor**: Torrent  
-
-<div class="download">
-<a class="downloadButton" href="magnet:?xt=urn:btih:3BB15463BA8FDD86CBF2D31E3A7445523A0F71F7&dn=rodnei%20dias%20-%20mapa%20da%20virada&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">Download</a>
-</div>
-
-<style>
-  .downloadButton {
-    background:    #15d798;
-    border-radius: 11px;
-    padding:       20px 45px;
-    color:         #ffffff;
-    display:       inline-block;
-    font:          normal bold 26px/1 "Roboto", sans-serif;
-    text-align:    center;
-  }
-  .downloadButton:hover {
-    background:    #15d798;
-    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.3);
-  }
-</style>

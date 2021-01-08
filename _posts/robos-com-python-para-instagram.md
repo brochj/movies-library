@@ -1,5 +1,5 @@
 ---
-title: 'Curso da Favela pra Bolsa'
+title: 'Criando Robôs com Python – Controlando o Instagram'
 excerpt: 'O objetivo do curso é ensinar você a utilizar um robô escrito em Python para conseguir seguidores reais e segmentados para alavancar o alcance da seu perfil , seja uma empresa, um perfil pessoal ou ambos. O melhor é que tudo será feito de forma automática, com agendamento automático de tarefas, utilizando técnicas que vão acabar com a sua concorrência.'
 coverImage: '/assets/blog/posts/robos-com-python-para-instagram.jpg'
 date: '2020-12-27T03:00:00.000Z'
@@ -37,23 +37,3 @@ Se você pretende aprender o básico do Python e alavancar seu perfil no Instagr
 **Idioma**: Português  
 **Tamanho**: 1.55 GB  
 **Servidor**: Torrent  
-
-<div class="download">
-<a class="downloadButton" href="magnet:?xt=urn:btih:6BB24F82A5FF5239A37242A3B1EB2285C6E9FE08&dn=Udemy%20-%20Criando%20Rob%c3%b4s%20com%20Python%20-%20Controlando%20o%20Instagram&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">Download</a>
-</div>
-
-<style>
-  .downloadButton {
-    background:    #15d798;
-    border-radius: 11px;
-    padding:       20px 45px;
-    color:         #ffffff;
-    display:       inline-block;
-    font:          normal bold 26px/1 "Roboto", sans-serif;
-    text-align:    center;
-  }
-  .downloadButton:hover {
-    background:    #15d798;
-    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.3);
-  }
-</style>
