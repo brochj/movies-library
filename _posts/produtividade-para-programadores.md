@@ -15,7 +15,7 @@ ogImage:
   url: '/assets/blog/posts/produtividade-para-programadores.jpg'
 download:
   url: 'magnet:?xt=urn:btih:6D67220373F32D76E7E96D2D62FBEC00A1BEE204&dn=Produtividade%20para%20Programadores%20-%20Danki%20code&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
-tags: ['produtividade', 'programação']
+tags: ['produtividade', 'programacao']
 ---
 ## Descrição
 

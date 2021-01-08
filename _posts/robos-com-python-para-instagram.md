@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/posts/robos-com-python-para-instagram.jpg'
 download:
   url: 'magnet:?xt=urn:btih:6BB24F82A5FF5239A37242A3B1EB2285C6E9FE08&dn=Udemy%20-%20Criando%20Rob%c3%b4s%20com%20Python%20-%20Controlando%20o%20Instagram&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
-tags: ['programação']
+tags: ['programacao']
 ---
 ## Descrição
 

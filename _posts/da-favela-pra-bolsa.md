@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/posts/da-favela-para-bolsa.jpg'
 download:
   url: 'magnet:?xt=urn:btih:5B3B39F10F8EDF7350D0652AA27A18E64BBD553B&dn=Favela%20Pra%20Bolsa%20-%20Favelado%20Investidor&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
-tags: ['investimento', 'finanças']
+tags: ['investimento', 'financas']
 ---
 ## Descrição
 
