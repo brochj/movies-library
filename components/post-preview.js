@@ -32,7 +32,9 @@ export default function PostPreview({
           <div className="flex mb-4 dark:text-gray-400 text-gray-600 text-lg ">
             <DateFormatter dateString={date} />
           </div>
-        <p className="dark:text-white text-justify text-lg leading-relaxed mb-4">{excerpt}</p>
+        <p className="dark:text-white text-justify text-lg leading-relaxed mb-4">
+          {excerpt.length > 250 ? excerpt.substr(0, 250)+'...' : excerpt}
+        </p>
         <div className="flex flex-wrap">
           {tags.length > 0 && (
                   tags.map((tag)=> (
