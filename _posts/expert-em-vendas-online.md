@@ -49,23 +49,3 @@ Programa de Formação de Consultores e Especialistas em Vendas Online
 **Idioma**: Português  
 **Tamanho**: 3,83 GB  
 **Servidor**: Torrent  
-
-<div class="download">
-<a class="downloadButton" href="magnet:?xt=urn:btih:89cf6663cd0f4a1da593993d10bad41996e87f9e&amp;dn=Natanael%20Oliveira%20-%20Expert%20em%20vendas%20online%202.0&amp;tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&amp;tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce" class="w3-btn w3-block w3-red">Download</a>
-</div>
-
-<style>
-  .downloadButton {
-    background:    #15d798;
-    border-radius: 11px;
-    padding:       20px 45px;
-    color:         #ffffff;
-    display:       inline-block;
-    font:          normal bold 26px/1 "Roboto", sans-serif;
-    text-align:    center;
-  }
-  .downloadButton:hover {
-    background:    #15d798;
-    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.3);
-  }
-</style>

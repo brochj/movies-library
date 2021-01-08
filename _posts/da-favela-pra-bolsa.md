@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/posts/da-favela-para-bolsa.jpg'
 download:
   url: 'magnet:?xt=urn:btih:5B3B39F10F8EDF7350D0652AA27A18E64BBD553B&dn=Favela%20Pra%20Bolsa%20-%20Favelado%20Investidor&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
-tags: ['investimento', 'finanças']
+tags: ['investimento', 'financas']
 ---
 ## Descrição
 
@@ -28,23 +28,3 @@ Aviso Legal: Os resultados podem variar de pessoa para pessoa.
 **Idioma**: Português  
 **Tamanho**: 18.08 GB  
 **Servidor**: Torrent  
-
-<div class="download">
-<a class="downloadButton" href="magnet:?xt=urn:btih:5B3B39F10F8EDF7350D0652AA27A18E64BBD553B&dn=Favela%20Pra%20Bolsa%20-%20Favelado%20Investidor&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce">Download</a>
-</div>
-
-<style>
-  .downloadButton {
-    background:    #15d798;
-    border-radius: 11px;
-    padding:       20px 45px;
-    color:         #ffffff;
-    display:       inline-block;
-    font:          normal bold 26px/1 "Roboto", sans-serif;
-    text-align:    center;
-  }
-  .downloadButton:hover {
-    background:    #15d798;
-    box-shadow: 5px 5px 5px 0px rgba(0,0,0,0.3);
-  }
-</style>

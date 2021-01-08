@@ -1,5 +1,5 @@
-import Avatar from '../components/avatar'
 import DateFormatter from '../components/date-formatter'
+import Tag from "../components/tag";
 import CoverImage from './cover-image'
 import Link from 'next/link'
 
@@ -10,6 +10,7 @@ export default function PostPreview({
   excerpt,
   // author,
   slug,
+  tags
 }) {
   return (
     <div className="dark:bg-gray-700 pb-3 rounded-md hover:shadow-xl">
@@ -28,11 +29,22 @@ export default function PostPreview({
             <a className="hover:no-underline">{title}</a>
           </Link>
         </h3>
-        <div className="dark:text-gray-400 text-gray-600 text-lg mb-4">
-          <DateFormatter dateString={date} />
+          <div className="flex mb-4 dark:text-gray-400 text-gray-600 text-lg ">
+            <DateFormatter dateString={date} />
+          </div>
+        <p className="dark:text-white text-justify text-lg leading-relaxed mb-4">
+          {excerpt.length > 250 ? excerpt.substr(0, 250)+'...' : excerpt}
+        </p>
+        <div className="flex flex-wrap">
+          {tags.length > 0 && (
+                  tags.map((tag)=> (
+                    <div key={tag} className="mb-2 mr-2">
+                    <Tag tag={tag}/>
+                    </div>
+                    ))
+                  )
+                }
         </div>
-        <p className="dark:text-white text-justify text-lg leading-relaxed mb-4">{excerpt}</p>
-        {/* <Avatar name={author.name} picture={author.picture} /> */}
       </div>
     </div>
   )
