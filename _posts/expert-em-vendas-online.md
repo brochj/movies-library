@@ -1,6 +1,11 @@
 ---
 title: 'Expert em Vendas Online'
-excerpt: 'Programa de Formação de Consultores e Especialistas em Vendas Online. '
+excerpt: 'Programa de Formação de Consultores e Especialistas em Vendas Online. Blog de Negócios. 
+Como Criar um Site do Zero em 3 Passos. 
+Facebook Ads. 
+Mapas mentais. 
+Marketing de Conteúdo. 
+Checklist de Linha Editorial.'
 coverImage: '/assets/blog/posts/expert-em-vendas-online.webp'
 date: '2021-01-06T03:00:00.000Z'
 author:
