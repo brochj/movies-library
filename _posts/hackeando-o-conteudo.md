@@ -1,0 +1,16 @@
+---
+title: 'Hackeando o Conteúdo'
+excerpt: 'NOVO LIVRO REVELA: “O QUE NUNCA TE CONTARIAM SOBRE COMO GERAR CONTEÚDO QUE REALMENTE FUNCIONAAtrai seguidores e multiplica sua autoridade…”Eu decidi contar alguns segredos sobre Produção de Conteúdo Estratégico, que constrói as crenças certas e o vínculo emocional entre você e su'
+coverImage: '/assets/blog/posts/hackeando-o-conteudo.png'
+date: '2020-12-16T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/hackeando-o-conteudo.png'
+download:
+  url: 'magnet:?xt=urn:btih:F7C0E4848BE794F0FDB7FFB4C4D78B20688EAD77&dn=Hackers%20do%20Marketing%20-%20Rafael%20Marques&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['marketing']
+---
+<h2>Descrição</h2>
+<p></p><p>NOVO LIVRO REVELA: “O QUE NUNCA TE CONTARIAM SOBRE COMO GERAR CONTEÚDO QUE REALMENTE FUNCIONA<br/>Atrai seguidores e multiplica sua autoridade…”<br/>Eu decidi contar alguns segredos sobre Produção de Conteúdo Estratégico, que constrói as crenças certas e o vínculo emocional entre você e sua audiência em um Livro Digital que vai facilitar tudo para você…<br/>O Livro Digital Hackeando o Conteúdo, onde vou te contar alguns segredinhos sobre conteúdo, que possivelmente você não teria acesso.</p><p>Agora você pode gerar conteúdo que constrói crenças, aquece sua audiência, multiplica sua autoridade e facilita todas as vendas!</p><p>Com o Hackeando O Conteúdo, você não tem mais que perder horas pensando sobre o que vai fazê-los engajar.<br/>Com o Hackeando O Conteúdo, você não terá mais dúvidas sobre o que vai ser realmente relevante para as pessoas, ou se elas vão gostar.<br/>Com o Hackeando O Conteúdo, você aquece sua audiência para receber sua oferta de forma automática.</p><p>Com o Hackeando O Conteúdo, fica mais fácil fazê-los desejar o que você tem para vender, mesmo antes de você oferecer.<br/>Hack 1: Seu principal papel como especialista<br/>Hack 2: Os critérios para escolher uma audiência que compra<br/>Hack 3: Esqueça o Avatar e Persona. Encontre seu “Cliente dos Sonhos”<br/>Hack 4: Pelo que eles estão gritando?<br/>Hack 5: Qual é a única crença que a sua audiência precisa ter?<br/>Hack 6: Os 3 pilares do seu conteúdo. O que você pode ou não entregar grátis<br/>Hack 7: O Script de Pré-frame<br/>Hack 8: Conteúdo de doutrinação ( que constrói crenças )<br/>Hack 9: O Script do conteúdo de doutrinação<br/>Hack 10: Conteúdo de pré-conversão</p><p>E AINDA…<br/>O que falar para atrair o público perfeito.<br/>Porque usar apenas a persona é um erro para fazer vendas online consistentes.<br/>Como se tornar uma autoridade instantânea para as pessoas que te seguem, mesmo se sua audiência for pequena (Na página 30).<br/>​Qual é a única coisa que você precisa provar para a sua audiência para que eles comprem de você (Na página 38).<br/>​O tipo de conteúdo que você mais deve produzir para vender o dobro (Na página 65).<br/>​Como ter ideias infinitas de conteúdo sem ser repetitivo (Na página 68)<br/>​E muito, muito mais…</p><h2>Informações</h2><p>Gênero: Marketing<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 5.52 GB<br/>Servidor: Torrent</p>

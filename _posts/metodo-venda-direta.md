@@ -1,6 +1,6 @@
 ---
 title: 'Método Venda Direta'
-excerpt: 'O QUE VOU APRENDER?<ul>O Método Venda Direta vai te ensinar a…Como se Tornar um(a) Empreendedor(a) Digital de SucessoAdiantando todos os Problemas e evitando-os com MaestriaComo Funciona o Mercado e como devemos Agir para Ganhar muito mai'
+excerpt: 'O QUE VOU APRENDER?  O Método Venda Direta vai te ensinar a… Como se Tornar um(a) Empreendedor(a) Digital de Sucesso Adiantando todos os Problemas e evitando-os com Maestria Como Funciona o Mercado e como devemos Agir para Ganhar muito mai'
 coverImage: '/assets/blog/posts/metodo-venda-direta.jpg'
 date: '2020-09-17T03:00:00.000Z'
 author:

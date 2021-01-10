@@ -1,0 +1,16 @@
+---
+title: 'Curso de Opções'
+excerpt: 'Por oferecerem tantas possibilidades de estratégias, as opções podem ser úteis para praticamente todo tipo de investidor.  Quem tem pouco dinheiro para investir, por exemplo, pode buscar o mercado de opções porque ativos geralmente negociados por centavos podem gerar ganhos alavancado'
+coverImage: '/assets/blog/posts/curso-de-opcoes.jpg'
+date: '2020-05-10T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/curso-de-opcoes.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:7416450F8D3B56349231B0A364B532F99A9BA2CA&dn=Luiz%20Fernando%20Roxo%20-%20B%c3%a1sico%20-%20Avan%c3%a7ado%20-%20Ultimate%20%28Curso%20de%20Op%c3%a7%c3%b5es%29&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['trader']
+---
+<h2>Descrição</h2>
+<p></p><p>Por oferecerem tantas possibilidades de estratégias, as opções podem ser úteis para praticamente todo tipo de investidor.</p><p>Quem tem pouco dinheiro para investir, por exemplo, pode buscar o mercado de opções porque ativos geralmente negociados por centavos podem gerar ganhos alavancados de vários reais.</p><p>Quem tem uma carteira de ações pode rentabilizá-la com operações de venda coberta. Quem tem ações e acha que a Bolsa vai cair pode se proteger comprando opções de venda. Esses são apenas alguns exemplos. Como são centenas de estratégias, também há centenas de motivos para mergulhar no mundo das opções.</p><ul><li>Sobre o Autor:</li></ul><p>Economista e sócio fundador da ZenEconomics. Atua há mais de 20 anos de mercado financeiro. Trabalhou em grandes instituições do país e ministra palestras e cursos sobre investimentos e desenvolvimento pessoal. Escreveu os livros “Comprando ações e vendendo opções” e “Benjamin e o poder do tempo”. Atualmente, apresenta os programas “a hora das o,”os antifrágeis” e apresentou “riqueza pessoal” na Infomoney TV. Além disso, é Gestor de Carteiras de Investimentos autorizado pela CVM. E é referência em Antifragilidade, conceito criado por Nassim Taleb. Conselheiro do instituto Mundo Aflora.</p><p>Trabalho com Opções desde os meus 19 anos. Comecei em 1996 na corretora do banco Bradesco como estagiário na mesa de bolsa. Em poucas semanas, já estava operando derivativos para os clientes. Poucos meses depois tive a sorte de ministrar uma palestra sobre Opções para os gerentes da rede do Banco. Desde então, venho atuando como operador, professor, investidor e gestor de investimentos na área de Opções. Fiz o prefácio do livro mais completo do mercado de Opções – “Mercado de Opções: Conceitos e Estratégias”, Professor Luiz Mauricio. Hoje administro portfólios de investimentos usando Opções no mercado brasileiro e americano. Nesses anos desenvolvemos técnicas estratégicas, ferramentas e uma comunidade de professores e trades que vivem e respiram o mundo das Opções.</p><h2>Informações</h2><p>Autor: Luiz Fernando Roxo<br/>Gênero: Trader<br/>Ano de Lançamento: 2020<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 9.01 GB<br/>Servidor: Torrent</p>

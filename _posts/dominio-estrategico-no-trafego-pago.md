@@ -1,0 +1,16 @@
+---
+title: 'Domínio Estratégico no Tráfego Pago'
+excerpt: 'O dinheiro sempre decidia tudo por mim, determinava onde eu ia comer, os restaurantes que eu escolhia, onde eu ia morar, os lugares que eu podia conhecer. Sempre era onde ou o que eu podia pagar, nem sempre onde eu gostaria de estar.Não era eu quem ditava as regras da minha vida par'
+coverImage: '/assets/blog/posts/dominio-estrategico-no-trafego-pago.jpg'
+date: '2020-11-09T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/dominio-estrategico-no-trafego-pago.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:3D228D88D438F5CA3D5DCAAC0C2A6A081633CA22&dn=GPA%20Dom%c3%adnio%20Estrat%c3%a9gico%20-%20Caio%20Calderaro&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['marketing']
+---
+<h2>Descrição</h2>
+<p></p><p>O dinheiro sempre decidia tudo por mim, determinava onde eu ia comer, os restaurantes que eu escolhia, onde eu ia morar, os lugares que eu podia conhecer. Sempre era onde ou o que eu podia pagar, nem sempre onde eu gostaria de estar.</p><p>Não era eu quem ditava as regras da minha vida para viver os meu próprios sonhos. Era sempre essa trava financeira se colocando em todas decisões que eu tomava diariamente.</p><p>E, em busca de viver tudo o que eu idealizava, eu conheci o mercado de afiliados e o marketing digital. Me encantei com as vendas online e logo vi as infinitas possibilidades que estavam diante de mim.</p><p>Precisava aprender a trabalhar nesse mercado e percebi que grandes empresas utilizavam campanhas no Google ADS para realizar vendas. Assim conheci o maior vendedor do mundo, o próprio Google. Tivemos uma ótima conexão (rs). Estudei muito e me apliquei na ferramenta.</p><p>Essa atividade me lembra muito meu trabalho como engenheiro ao lidar com métricas, tabelas, cálculos, etc. No entanto, agora era eu quem tomava as decisões. Era para mim aquilo. Era o <strong>MEU NEGÓCIO</strong> crescendo dia após dia, dependendo, sim, da minha aplicação e foco no trabalho.</p><p>Em menos de 4 meses eu já havia masterizado a ferramenta e estava atingindo grandes resultados trabalhando como afiliado, utilizando o Google para vender para mim todos os dias. Eu virei a minha empresa.</p><p>Foi aí que criei, testei e comprovei técnicas próprias, resultando na formulação do meu próprio domínio estratégico. E é exatamente isso que eu quero te ensinar. Tudo o que eu fiz, o passo a passo para auxiliar a você também conquistar a sua liberdade e realizar os seus maiores sonhos.</p><p>Não será por sorte, mas sim através do conhecimento aplicado para dominar estrategicamente o vendedor número 1 da internet.</p><p>Lembre que os resultados de qualquer trabalho dependem do nosso empenho. Vou te esinar tudo o que fiz para eu chegar onde cheguei.</p><h2>Informações</h2><p>Gênero: Marketing<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 12.90 GB<br/>Servidor: Torrent</p>

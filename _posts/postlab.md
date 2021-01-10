@@ -1,0 +1,16 @@
+---
+title: 'Postlab'
+excerpt: 'O que você vai aprender?Módulo 1 – Insights e EstratégiasNesse módulo vou compartilhar com vocês diversos insights sobre criação, estratégias de conteúdo e crescimento, dicas, sites, apps, plataformas, entre outros conhecimentos que vão te ajudar a se conhecer'
+coverImage: '/assets/blog/posts/postlab.png'
+date: '2020-12-15T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/postlab.png'
+download:
+  url: 'magnet:?xt=urn:btih:8524A882A61D18AC65F3F868E1FBC62DD72685B8&dn=Postlab%20completo&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['marketing']
+---
+<h2>Descrição</h2>
+<p></p><p>O que você vai aprender?</p><p><strong>Módulo 1 – Insights e Estratégias</strong><br/>Nesse módulo vou compartilhar com vocês diversos insights sobre criação, estratégias de conteúdo e crescimento, dicas, sites, apps, plataformas, entre outros conhecimentos que vão te ajudar a se conhecer melhor e se preparar para colocar o conteúdo do curso em prática.</p><p><strong>Módulo 2 – Photoshop básico</strong><br/>Aqui começa a prática, onde vou te ensinar sobre cada ferramenta do Photosho, mesmo que você nunca tenha aberto o programa. Depois de fazer esse módulo você estará preparado para todo conteúdo mais avançado.</p><p><strong>Módulo 3 – Carrosséis</strong><br/>Nesse módulo vou construir do 0 um carrossel com vocês, com todos insights de criação e técnicas utilizadas, desde a criação do projeto até a publicação no Instagram. Atualmente carrosseis são a melhor forma de compartilhar conteúdo de alto engajamento no Instagram, com esse módulo você vai aprender a criar carrosséis incríveis para você, sua marca ou seus clientes.</p><p><strong>Módulo 4 – After Effects básico</strong><br/>Agora o Postlab fica mais animado! Nesse módulo vou ensinar tudo que eu já aprendi sobre After Effects, além de trazer atualizações sobre novas técnicas e ideias de criação no Motion Design. Você vai conhecer o programa, técnicas, efeitos e plugins, além de aprender a animar suas criações do Photoshop.</p><p><strong>Módulo 5 – Criatividade</strong><br/>Nesse módulo vou mostrar todo processo criativo de diferentes criações, envolvendo o Photoshop e o After Effects, para desenvolver artes incríveis e alguns dos melhores projetos que já fiz e compartilhei nas redes sociais, trabalhos para clientes e todas ideias diferentes e criativas que eu inventar por aqui.</p><p><strong>Módulo 6</strong> – <strong><em>Fotografia (Em breve)</em></strong><br/>Nesse módulo vou compartilhar todas técnicas de edição e tratamento de imagens que aprendi nesses anos como fotógrafo. Desde eventos até fotografia publicitária, vamos utilizar o Lightroom e o Photoshop para edição de fotos</p><p><em><strong>Módulo 7 – Premiere (Em breve)</strong></em><br/>O Premiere é outro programa da Adobe utilizado para edição de vídeos.</p><h2>Informações</h2><p>Gênero: Marketing<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 7.66 GB<br/>Servidor: Torrent</p>

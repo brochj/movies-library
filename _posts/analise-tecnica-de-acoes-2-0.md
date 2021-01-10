@@ -1,0 +1,16 @@
+---
+title: 'Análise Técnica de Ações 2.0'
+excerpt: 'Desenvolva seu conhecimento em Análise Técnica. Entenda a dinâmica da Bolsa de Valores, os tipos de gráficos, seus padrões e os movimentos do mercado para assim obter maiores ganhos em suas operações.  Entenda a dinâmica da Bolsa de Valores, os tipos de gráficos, os padrões de comport'
+coverImage: '/assets/blog/posts/analise-tecnica-de-acoes-2-0.jpg'
+date: '2020-06-01T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/analise-tecnica-de-acoes-2-0.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:F8F8205787DA22F65D8F988699C8229D97B67914&dn=An%c3%a1lise%20T%c3%a9cnica%20de%20A%c3%a7%c3%b5es%202.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['trader']
+---
+<h2>Descrição</h2>
+<p></p><p>Desenvolva seu conhecimento em Análise Técnica. Entenda a dinâmica da Bolsa de Valores, os tipos de gráficos, seus padrões e os movimentos do mercado para assim obter maiores ganhos em suas operações.</p><p>Entenda a dinâmica da Bolsa de Valores, os tipos de gráficos, os padrões de comportamento dos ativos e os movimentos do mercado para obter ganhos em suas operações Ganhos de curto prazo: A análise técnica é muito usada em operações de day trade, em que o investidor visa obter ganhos em alguns minutos ou no máximo poucas horas Operações mais longas: gráficos também podem ser usados para operações em Bolsa com duração de algumas semanas – basta calibrar os indicadores para o swing trade Técnicas consagradas:Você vai ver que as técnicas mais usadas pelos traders para operar na Bolsa são muito fáceis de ser compreendidas e colocadas em prática Riscos calculados:Com algumas técnicas simples de gerenciamento de risco, você poderá limitar o tamanho da perda e prolongar os ganhos o máximo possível</p><p>Com a análise técnica é possível identificar os padrões nos preços dos ativos e prever com um bom nível de acerto as oscilações futuras. Os gráficos podem ser usados para obter ganhos tanto em operações de day trade quanto de swing trade e vão lhe ajudar a identificar os movimentos da Bolsa antes que os demais investidores</p><p>Aulas interativas</p><p>Este é um curso com 6 horas de vídeo aulas-aulas. Todo o conteúdo poderá ser acessado online durante 12 meses, sem limite de número de visualizações.</p><p>Programa diferenciado:</p><p>As aulas são ministradas pelo Analista Técnico, Alyakyn Pereira de Sá, CNPI-T, atuante desde 2008 como trader profissional e professor para operações de curto prazo e médio prazo (Day Trade e Swing Trade) com o uso da análise técnica.</p><p>Super Bônus</p><p>Além das vídeo-aulas o aluno terá acesso a apostila digital do curso, com todo o seu conteúdo.</p><p>Pré-requisito</p><p>Para ingressar nesse curso introdutório sobre Análise Técnica, recomendamos que o aluno já possua conhecimento básico, prático ou teórico, de operações em Bolsa.</p><h2>Informações</h2><p>Autor: XP Educação<br/>Gênero: Trader<br/>Ano de Lançamento: 2019<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 1.82 GB<br/>Servidor: Torrent</p>

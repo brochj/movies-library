@@ -1,0 +1,16 @@
+---
+title: 'Redação Criativa Para Design'
+excerpt: 'Aprenda as técnicas de redação criativa utilizadas pelos mais renomados publicitários do mundo para alavancar a sua carreira como designer independente:Módulo I: Como Entrar Na Mente do Seu Cliente.Você vai entender como extrair do seu cliente as informações ce'
+coverImage: '/assets/blog/posts/redacao-criativa-para-design.png'
+date: '2020-10-14T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/redacao-criativa-para-design.png'
+download:
+  url: 'magnet:?xt=urn:btih:4010D24F6109C62A1660BBC1B3AB9A70D154B580&dn=Reda%c3%a7%c3%a3o%20Criativa%20Para%20Design%20-%20Thomaz%20Vianna&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['marketing']
+---
+<h2>Descrição</h2>
+<p></p><p>Aprenda as técnicas de redação criativa utilizadas pelos mais renomados publicitários do mundo para alavancar a sua carreira como designer independente:</p><p><strong>Módulo I: </strong>Como Entrar Na Mente do Seu Cliente.<br/>Você vai entender como extrair do seu cliente as informações certas na hora do briefing para surpreendê-lo depois na hora da apresentação do projeto. Também veremos como os maiores players do mercado publicitário criam conceitos fortes e virais para grandes marcas e como você pode utilizar os mesmos princípios para os seus clientes, mesmo que eles sejam pequenas empresas ou profissionais autônomos.</p><p><strong>Módulo II: </strong>Desvendando as técnicas por trás das campanhas de sucesso.<br/>Após analisar centenas de campanhas publicitárias, é possível identificar alguns padrões que se repetem na criação dos motes, títulos, slogans e roteiros que fazem com que aquelas criações se tornem bem sucedidas. Você aprenderá oito técnicas matadoras de Redação Criativa para adaptar aos seus projetos, acompanhadas de vários exemplos para facilitar a compreensão.</p><p><strong>Módulo III:</strong> Solucionando problemas com criatividade e pouca verba: Bem-vindo ao mundo real.<br/>É inspirador ver campanhas incríveis na mídia e nos blogs de design por aí, né? Mas e quando o seu cliente não tem verbas milionárias para investir? Na real, a maioria não libera grana nem pra comprar uma imagem no Shutterstock®… Nessas horas, a Redação Criativa literalmente SALVA o job, e eu provo isso mostrando projetos que fiz para clientes reais meus. São exemplos de Redação Criativa para posts e anúncios de redes sociais, campanhas institucionais, reposicionamento de marca e até mesmo para a defesa de uma Identidade Visual, que inclusive foi aprovada em pouco mais de UM MINUTO de apresentação!</p><p><strong>Módulo IV: </strong>Hora do show: Aplicando as técnicas nos Seus Projetos, passo a passo.<br/>Além de dicas importantíssimas que você irá aprender para seguir aperfeiçoando a sua Redação Criativa, você também receberá um Guia de Apoio em PDF, que vai lhe dar um norte pra criar os textos dos seus projetos. Tem todo o conteúdo do curso, com mais alguns conteúdos extras, estruturado em uma sequência lógica de três passos pra você colocar a mão na massa de maneira muito mais eficiente.</p><h2>Informações</h2><p>Gênero: Marketing<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 1.97 GB<br/>Servidor: Torrent</p>
