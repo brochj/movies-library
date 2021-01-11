@@ -3,6 +3,7 @@ import Container from '../../components/container'
 import MoreStories from '../../components/more-stories'
 import Intro from '../../components/intro'
 import Layout from '../../components/layout'
+import TagTitle from '../../components/tag-title'
 import { getAllPostsFromTag, getAllTags } from '../../lib/api'
 import { BLOG_NAME } from '../../lib/constants'
 
@@ -11,11 +12,11 @@ export default function Index({ taggedPosts, tag }) {
     <>
       <Layout>
         <Head>
-          <title>{BLOG_NAME} | {tag.charAt(0).toUpperCase() + tag.slice(1)}</title>
+          <title>{tag.charAt(0).toUpperCase() + tag.slice(1)} | {BLOG_NAME}</title>
         </Head>
         <Container>
           <Intro />
-          
+          <TagTitle tag={tag}/>
           {taggedPosts.length > 0 && <MoreStories posts={taggedPosts} />}
         </Container>
       </Layout>
