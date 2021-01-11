@@ -1,6 +1,6 @@
 ---
 title: 'Curso de Licitações Pública para Engenharia'
-excerpt: '<p class="has-medium-font-size"> Conteúdo:    Apresentação;  Introdução as Licitações;  Obras e Serviços de Engenharia;  Conhecendo a Empresa;  Analise de Edital e Licitação;  Comissão de Licitação e Sessão de Abertura dos Envelopes</'
+excerpt: 'Conteúdo:    Apresentação;  Introdução as Licitações;  Obras e Serviços de Engenharia;  Conhecendo a Empresa;  Analise de Edital e Licitação;  Comissão de Licitação e Sessão de Abertura dos Envelopes'
 coverImage: '/assets/blog/posts/curso-de-licitacoes-publica-para-engenharia.jpg'
 date: '2020-09-27T03:00:00.000Z'
 author:
