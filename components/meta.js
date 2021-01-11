@@ -4,6 +4,7 @@ import { BLOG_NAME, HOME_OG_IMAGE_URL, DESCRIPTION } from '../lib/constants'
 export default function Meta() {
   return (
     <Head>
+      <script data-ad-client="ca-pub-9080032444400275" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       <link
         rel="apple-touch-icon"
         sizes="180x180"
