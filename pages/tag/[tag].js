@@ -4,6 +4,7 @@ import MoreStories from '../../components/more-stories'
 import Intro from '../../components/intro'
 import Layout from '../../components/layout'
 import TagTitle from '../../components/tag-title'
+import Navbar from '../../components/navbar/navbar'
 import { getAllPostsFromTag, getAllTags } from '../../lib/api'
 import { BLOG_NAME } from '../../lib/constants'
 
@@ -14,6 +15,7 @@ export default function Index({ taggedPosts, tag }) {
         <Head>
           <title>{tag.charAt(0).toUpperCase() + tag.slice(1)} | {BLOG_NAME}</title>
         </Head>
+        <Navbar/>
         <Container>
           <Intro />
           <TagTitle tag={tag}/>
