@@ -1,6 +1,6 @@
 ---
 title: 'Curso Empreendedor Digital'
-excerpt: 'VENDA QUALQUER PRODUTO OU SERVIÇO NA INTERNET PARA QUALQUER PESSOA, SEJA A ENTREGA ON-LINE OU OFF-LINEVire uma máquina de vendas AUTOMÁTICAS e fature muito mais.O resultado é RÁPIDO e garantido!Fruto de anos de estudo e PRÁTICA, o “Empreendedor Digital – O guia def'
+excerpt: 'VENDA QUALQUER PRODUTO OU SERVIÇO NA INTERNET PARA QUALQUER PESSOA, SEJA A ENTREGA ON-LINE OU OFF-LINE  Vire uma máquina de vendas AUTOMÁTICAS e fature muito mais. O resultado é RÁPIDO e garantido!  Fruto de anos de estudo e PRÁTICA, o “Empreendedor Digital – O guia def'
 coverImage: '/assets/blog/posts/curso-empreendedor-digital.jpg'
 date: '2019-12-26T03:00:00.000Z'
 author:

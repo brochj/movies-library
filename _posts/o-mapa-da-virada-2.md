@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/posts/o-mapa-da-virada-2.jpg'
 download:
   url: 'magnet:?xt=urn:btih:3BB15463BA8FDD86CBF2D31E3A7445523A0F71F7&dn=rodnei%20dias%20-%20mapa%20da%20virada&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
-tags: ['trade']
+tags: ['trader']
 ---
 ## Descrição
 
