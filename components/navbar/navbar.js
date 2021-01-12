@@ -1,13 +1,11 @@
-import Sidebar from './sidebar';
-
 import React, { useState } from 'react';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
-
 import useScrollTrigger from '@material-ui/core/useScrollTrigger';
 import Container from '@material-ui/core/Container';
 import Slide from '@material-ui/core/Slide';
 import Link from 'next/link'
+import Sidebar from './sidebar';
 import {BLOG_NAME} from '../../lib/constants'
 
 function HideOnScroll(props) {
@@ -30,7 +28,7 @@ export default function Navbar({tags, ...props}) {
     <React.Fragment>
       <HideOnScroll {...props}>
         <AppBar>
-        <Sidebar open={open} setOpen={setOpen}/>
+        <Sidebar tags={tags} open={open} setOpen={setOpen}/>
           <Toolbar className="flex justify-between">
             <Link href="/">
               <p className="px-4 py-2 rounded-md font-bold uppercase text-white text-xl cursor-pointer hover:bg-white hover:bg-opacity-20 transition-opacity">

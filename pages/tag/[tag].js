@@ -8,14 +8,14 @@ import Navbar from '../../components/navbar/navbar'
 import { getAllPostsFromTag, getAllTags } from '../../lib/api'
 import { BLOG_NAME } from '../../lib/constants'
 
-export default function Index({ taggedPosts, tag }) {
+export default function Index({ taggedPosts, tag, tags }) {
   return (
     <>
       <Layout>
         <Head>
           <title>{tag.charAt(0).toUpperCase() + tag.slice(1)} | {BLOG_NAME}</title>
         </Head>
-        <Navbar/>
+        <Navbar tags={tags}/>
         <Container>
           <Intro />
           <TagTitle tag={tag}/>
@@ -34,11 +34,12 @@ export async function getStaticProps({ params }) {
   // params contains the post `id`.
   // If the route is like /posts/1, then params.id is 1
     const taggedPosts = getAllPostsFromTag(params.tag)
+    const tags = getAllTags()
 
     // By returning { props: taggedPosts }, the [tag].js component
   // will receive `taggedPosts` as a prop at build time
   return {
-    props: { taggedPosts, tag: params.tag },
+    props: { taggedPosts, tag: params.tag, tags },
   }
 }
 

@@ -1,26 +1,26 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
+import Head from 'next/head'
 import Container from '../../components/container'
 import PostBody from '../../components/post-body'
 import Header from '../../components/header'
 import PostHeader from '../../components/post-header'
 import DownloadButton from '../../components/download-button'
 import Layout from '../../components/layout'
-import { getPostBySlug, getAllPosts } from '../../lib/api'
+import { getPostBySlug, getAllPosts, getAllTags } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import Navbar from '../../components/navbar/navbar'
-import Head from 'next/head'
 import { BLOG_NAME } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 
-export default function Post({ post, morePosts, preview }) {
+export default function Post({ post, morePosts, preview, tags }) {
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
   }
   return (
     <Layout preview={preview}>
-      <Navbar />
+      <Navbar tags={tags}/>
       <Container>
         <Header />
         {router.isFallback ? (
@@ -52,6 +52,8 @@ export default function Post({ post, morePosts, preview }) {
 }
 
 export async function getStaticProps({ params }) {
+  const tags = getAllTags()
+
   const post = getPostBySlug(params.slug, [
     'title',
     'date',
@@ -67,6 +69,7 @@ export async function getStaticProps({ params }) {
 
   return {
     props: {
+      tags,
       post: {
         ...post,
         content,
