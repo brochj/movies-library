@@ -3,8 +3,8 @@ import SwipeableDrawer from '@material-ui/core/SwipeableDrawer';
 import Button from '@material-ui/core/Button';
 import Link from 'next/link'
 
-export default function Sidebar({ tags }) {
-  const [open, setOpen] = useState(false);
+export default function Sidebar({ tags, open, setOpen }) {
+  // const [open, setOpen] = useState(false);
 
   const exemplos = ['trader', 'programacao', 'financeiro', 'ti', 'marketing', 'produtividade', 'framework', 'vendas', 'eletronica']
   const sorted = exemplos.sort()
@@ -15,7 +15,7 @@ export default function Sidebar({ tags }) {
     >
       <ul>
       {sorted.map((text) => (
-          <Link href={`/tag/${text}`}>
+          <Link key={text} href={`/tag/${text}`}>
             <div key={text}
               className="mb-2 px-20 py-3 rounded-md hover:bg-blue-400 hover:text-gray-50 transition-colors cursor-pointer"
             >
@@ -32,9 +32,7 @@ export default function Sidebar({ tags }) {
 
   return (
     <div>
-      
         <React.Fragment>
-          <Button onClick={() => setOpen(true)}>MENU</Button>
           <SwipeableDrawer
             anchor='right'
             open={open}

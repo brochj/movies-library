@@ -17,7 +17,7 @@ export default function Index({ allPosts, tags }) {
         <Head>
           <title>{BLOG_NAME}</title>
         </Head>
-        <Navbar />
+        <Navbar tags={tags}/>
         <Container>
           {/* <ul>
           {tags.length > 0 && tags.map((tag)=><li>{tag}</li>)}
