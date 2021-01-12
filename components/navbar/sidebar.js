@@ -16,7 +16,7 @@ export default function Sidebar({ tags, open, setOpen }) {
       <ul>
       {sorted.map((text) => (
           <Link key={text} href={`/tag/${text}`}>
-            <div key={text}
+            <div onClick={() => setOpen(false)}key={text}
               className="mb-2 px-20 py-3 rounded-md hover:bg-blue-400 hover:text-gray-50 transition-colors cursor-pointer"
             >
               <a className="h-14 text-md font-semibold ">
