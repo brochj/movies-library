@@ -1,0 +1,16 @@
+---
+title: 'Gatsby: Crie Seu Site Pessoal Usando React'
+excerpt: 'Você tem um site pessoal? Sabia que um site desses é muito importante para sua marca pessoal? O objetivo do curso é publicar o seu site e aprender a usar o Gatsby, framework para criar sites e apps.    Vamos aplicar e usar:   React  Boas práticas de web p'
+coverImage: '/assets/blog/posts/gatsby-crie-seu-site-pessoal-usando-react-2.jpg'
+date: '2019-12-22T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/gatsby-crie-seu-site-pessoal-usando-react-2.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:2F4EBAF0060A0C7D6C8F0BB0E5804D0BB2F2227F&dn=Gatsby%20Crie%20seu%20site%20pessoal%20usando%20React&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['programacao']
+---
+<h2>Descrição</h2>
+<p></p><p>Você tem um site pessoal? Sabia que um site desses é muito importante para sua marca pessoal?<br/>O objetivo do curso é publicar o seu site e aprender a usar o Gatsby, framework para criar sites e apps. <br/><br/><strong>Vamos aplicar e usar:</strong><br/> React<br/> Boas práticas de web performance e otimização<br/> SEO (Search Engine Optimization)<br/> Responsividade<br/> Acessibilidade<br/><br/>Vamos usar o React, mas só o básico dele. Sabendo o conceito de componente, render e state é suficiente. Não precisa saber configuração de Webpack e Babel, o Gatsby já vem com eles configurado.<br/><br/>Vamos usar um framework de CSS, o Bulma, para aplicar responsividade no site. Não precisa conhecer essa ferramenta. Vamos usar para evitar ficar escrevendo muito CSS, deixando nas referências das aulas a documentação. Bulma funciona muito semelhante ao Bootstrap.<br/><br/>Ao longo do curso vamos ver muito sobre desenvolvimento Web moderno, boas práticas, otimizações e desempenho do site.<br/><br/>No final vamos publicar o site usando o GitHub Pages, assim você vai ter um domínio para o seu site.<br/>Então, o que está esperando? Publique seu site hoje mesmo com este curso!<br/><br/> <strong>Para quem é este curso:</strong><br/> Quem ainda não tem seu própio site<br/> Quem já tem um site, mas está abandonado e precisa de um<br/> novo mais moderno<br/> Interessados em aprender Gatsby e suas funcionalidades<br/> Interessados em aprender web performance e otimizações<br/><br/><strong>Requisitos</strong><br/> Experiência básica em desenvolvimento web com HTML, CSS e JavaScript<br/> Instalado Node 8 (ou superior) com npm, recomendado o yarn que é usado no curso<br/> Instalado um editor de código, recomendado o Visual Studio Code que é usado no curso<br/> Recomendado saber o básico de React, vamos focar mais na função de render dele<br/> Recomendado conhecimento básico em ES6</p><h2>Informações</h2><p> <strong>Autor:</strong> Luan Orlandi<br/> <strong>Gênero:</strong> Programação<br/> <strong>Ano de Lançamento:</strong> 2019<br/> <strong>Formato: </strong>MP4<br/> <strong>Idioma: </strong>Português<br/> <strong>Tamanho:</strong> 2.15 GB<br/> <strong>Servidor:</strong> Torrent  </p>
