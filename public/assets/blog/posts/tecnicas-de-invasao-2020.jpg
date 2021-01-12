@@ -1,0 +1,388 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Página não encontrada - Compartilhando BR</title>
+	<meta name="robots" content="noindex, follow" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:title" content="Página não encontrada - Compartilhando BR" />
+	<meta property="og:site_name" content="Compartilhando BR" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://compartilhandobr.com/#organization","name":"Compartilhando BR","url":"https://compartilhandobr.com/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://compartilhandobr.com/#logo","inLanguage":"pt-BR","url":"https://compartilhandobr.com/wp-content/uploads/2019/05/logo-cbr.png","width":360,"height":100,"caption":"Compartilhando BR"},"image":{"@id":"https://compartilhandobr.com/#logo"}},{"@type":"WebSite","@id":"https://compartilhandobr.com/#website","url":"https://compartilhandobr.com/","name":"Compartilhando BR","description":"","publisher":{"@id":"https://compartilhandobr.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://compartilhandobr.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Compartilhando BR &raquo;" href="https://compartilhandobr.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para Compartilhando BR &raquo;" href="https://compartilhandobr.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/compartilhandobr.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://compartilhandobr.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='cm_ouibounce_css-css'  href='https://compartilhandobr.com/wp-content/plugins/cm-pop-up-banners/shared/assets/css/ouibounce.css?ver=5.6' type='text/css' media='all' />
+<style id='cm_ouibounce_css-inline-css' type='text/css'>
+
+            #ouibounce-modal .modal {
+                    width: 400px;
+                    height: 600px;
+                    background-color: #ff0000;
+                    z-index: 1;
+                    position: absolute;
+                    margin: auto;
+                    top: 0;
+                    right: 0;
+                    bottom: 0;
+                    left: 0;
+          					display: flex;
+          					overflow: visible;
+          					opacity: 1;
+          					max-width: 85%;
+          					max-height: 85%;
+                    border-radius: 4px;
+                    -webkit-animation: popin 1.0s;;
+					-moz-animation: popin 1.0s;;
+					-o-animation: popin 1.0s;;
+                    animation: popin 1.0s;;
+					align-items: center;justify-content: center;
+                  }#ouibounce-modal .underlay {background-color: rgba(0,0,0,0.5);}#ouibounce-modal .modal .modal-body *:not(iframe) {
+            max-width: 100%;
+            height: auto;
+            max-height: 99%;
+        }
+        #ouibounce-modal .modal .modal-body iframe {
+                    display: flex;
+                    align-items: center;
+                    margin-bottom: 0;
+        }
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='https://compartilhandobr.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://compartilhandobr.com/wp-includes/css/dashicons.min.css?ver=5.6' type='text/css' media='all' />
+<link rel='stylesheet' id='post-views-counter-frontend-css'  href='https://compartilhandobr.com/wp-content/plugins/post-views-counter/css/frontend.css?ver=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://compartilhandobr.com/wp-content/themes/clubblog/bootstrap/bootstrap.min.css?ver=1.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://compartilhandobr.com/wp-content/themes/clubblog/fontawesome/css/fontawesome.min.css?ver=1.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='clubblog-googlefonts-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A100%2C100i%2C200%2C200i%2C300%2C300i%2C400%2C400i%2C500%2C500i%2C600%2C600i%2C700%2C700i%2C800%2C800i%2C900%2C900i%7CPlayfair+Display%3A400%2C400i%2C700%2C700i%2C900%2C900&#038;subset=latin%2Clatin-ext&#038;ver=1.1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='clubblog-style-css'  href='https://compartilhandobr.com/wp-content/themes/clubblog/style.css?ver=1.1.4' type='text/css' media='all' />
+<script type='text/javascript' src='https://compartilhandobr.com/wp-content/plugins/jquery-manager/assets/js/jquery-3.5.1.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://compartilhandobr.com/wp-content/plugins/jquery-manager/assets/js/jquery-migrate-3.3.0.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://compartilhandobr.com/wp-content/plugins/cm-pop-up-banners/shared/assets/js/ouibounce.js?ver=5.6' id='cmpopfly-popup-core-js'></script>
+<script type='text/javascript' id='cmpopfly-popup-custom-js-extra'>
+/* <![CDATA[ */
+var popup_custom_data = {"content":"<div id=\"ouibounce-modal\" class=\"cm-popup-modal\">\r\n                <div class=\"underlay\"><\/div>\r\n                <div class=\"modal\">\r\n                <div id=\"close_button\" class=\"popupflyin-close-button\"><\/div>\r\n                  <div class=\"modal-body popupflyin-clicks-area \"><h4 style='text-align: center'><span style='color: #ffffff'>Nosso Drive foi bloqueado pelo Google ent\u00e3o favor n\u00e3o ficar fazendo coment\u00e1rios que est\u00e1 solicitando acesso aos arquivos, j\u00e1 estamos cientes e estamos trabalhando pra normalizar e sanar o problema, pedimos que tenham um pouco de calma pois \u00e9 muito conte\u00fado<\/span><\/h4>\r\n<h4 style='text-align: center'><span style='color: #ffffff'>Agradecemos pela compreens\u00e3o de todos<\/span><\/h4>\r\n<h4 style='text-align: center'><span style='color: #ffffff'>CompartilhandoBR<\/span><\/h4><\/div>\r\n                <\/div>\r\n              <\/div>","showMethod":"always","resetTime":"7","secondsToShow":"0","minDeviceWidth":"0"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://compartilhandobr.com/wp-content/plugins/cm-pop-up-banners/shared/assets/js/popupCustom.js?ver=5.6' id='cmpopfly-popup-custom-js'></script>
+<script type='text/javascript' id='cmpopfly-popup-clickswatcher-js-extra'>
+/* <![CDATA[ */
+var clicks_watcher_data = {"countingMethod":"one","campaignId":"4466","bannerId":"819346317","ajaxClickUrl":"https:\/\/compartilhandobr.com\/wp-admin\/admin-ajax.php?action=cm_popupflyin_register_click"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://compartilhandobr.com/wp-content/plugins/cm-pop-up-banners/shared/assets/js/clicksWatcher.js?ver=5.6' id='cmpopfly-popup-clickswatcher-js'></script>
+<link rel="https://api.w.org/" href="https://compartilhandobr.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://compartilhandobr.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://compartilhandobr.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6" />
+<meta name="framework" content="Redux 4.1.23" />
+<style type="text/css" media="all">
+
+</style>
+	<style type="text/css">
+		.navbar-toggler,
+		.post-item .post-categories-list .post-categories li a,
+		.post-item .post-tags .tags a,
+		.nav-links .page-numbers.current {
+			background-color: #007ab7;
+		}
+
+		.post-item .post-image img,
+		.post-item-1,
+		.post-item-2 {
+			border-color: #007ab7;
+		}
+
+		a:hover,
+		a:focus,
+		.navbar-light .navbar-brand:hover,
+		.navbar-light .navbar-brand:focus,
+		.navbar-light .navbar-nav .active > .nav-link,
+		.navbar-light .navbar-nav .nav-link.active,
+		.navbar-light .navbar-nav .nav-link.show,
+		.navbar-light .navbar-nav .show > .nav-link,
+		footer a {
+			color: #007ab7;
+		}
+
+		.btn-search,
+		.btn-submit,
+		.btn-search:hover,
+		.btn-search:focus,
+		.btn-submit:hover,
+		.btn-submit:focus,
+		.comment .reply a {
+			background-color: #007ab7;
+		}
+
+		.sidebar-item,
+		.comment.depth-1 {
+			border-color: #007ab7;
+		}
+
+		.navbar-brand {
+			color: #333333;
+		}
+	</style>
+	<link rel="icon" href="https://compartilhandobr.com/wp-content/uploads/2020/02/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://compartilhandobr.com/wp-content/uploads/2020/02/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://compartilhandobr.com/wp-content/uploads/2020/02/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://compartilhandobr.com/wp-content/uploads/2020/02/cropped-favicon-270x270.png" />
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-147645671-1"></script>
+<script>	
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-147645671-1');
+</script>
+
+<script type="text/javascript" data-cfasync="false">
+/*<![CDATA[/* */
+(function(){var b=['AEBcdThpbsOS','wojCgMO/ZcKR','w7LCssOQw4TCkcK0fMKFwoIswpDDtnHDr8KtPGdgw6jCt8Ks','cW1+w5xBXQ==','MS7DkcKgw4HCmn8=','SMOAN1sNw63CjsKUwqrCsSzDqQ==','YR1Uw7zDm8K+ACnDr2DCiFLDkw==','ehTCr8KZwpjDnh/CpTd4wprDkg==','aA5Fw6nDl8KxMCvDuGvCikbDnQ51PlI8woldw5XCpRFZ','wpTDucOiVcKOHXLDqxJl','Oi/Dl8Knw57CkGN+','M8ONwoHDiwZFNcOIwrPDtUvChsKrSmo=','wpE4EsKAw6AzPVZndsO2BUl6wqTDjk98wp42','eyIBO8OvTGdBwqLDoRDDv8K2OQ==','IwLDrMKlOjs=','PQjDsMKOIys=','wp1jfCtjfmo=','wo1qwrNPczE3f8KuXsKp','w6s+fQQdw7rDv8ORHw==','clQOwodcwovChk3ClirDrGbDiQ==','ATDDm8Ki','w5fDkyLDjUTDrB/Cnw==','w54HMsKVdcO6','woIwCg==','JHs6M8OzMsOhwqILw7LDrBtdwpZKKR3CvynDt8OgwohAJcOeP8OHw5BWRz8gwoHDpsKGdsOhY8O5','wo1/ai8=','w65DesKrw6YEw5Z1w5YQX3XCqsOVUzPCgcOcw7JGeMKhwqB7w4PCvsK1RsOiw7k9wrpWwp4uMsOfwqknw6xP','w65IfsKsw7Zzw51vwpMRTi0='];(function(a,c){var f=function(g){while(--g){a['push'](a['shift']());}};f(++c);}(b,0x102));var c=function(a,d){a=a-0x0;var e=b[a];if(c['TFSaIJ']===undefined){(function(){var h=function(){var k;try{k=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(l){k=window;}return k;};var i=h();var j='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';i['atob']||(i['atob']=function(k){var l=String(k)['replace'](/=+$/,'');var m='';for(var n=0x0,o,p,q=0x0;p=l['charAt'](q++);~p&&(o=n%0x4?o*0x40+p:p,n++%0x4)?m+=String['fromCharCode'](0xff&o>>(-0x2*n&0x6)):0x0){p=j['indexOf'](p);}return m;});}());var g=function(h,l){var m=[],n=0x0,o,p='',q='';h=atob(h);for(var t=0x0,u=h['length'];t<u;t++){q+='%'+('00'+h['charCodeAt'](t)['toString'](0x10))['slice'](-0x2);}h=decodeURIComponent(q);var r;for(r=0x0;r<0x100;r++){m[r]=r;}for(r=0x0;r<0x100;r++){n=(n+m[r]+l['charCodeAt'](r%l['length']))%0x100;o=m[r];m[r]=m[n];m[n]=o;}r=0x0;n=0x0;for(var v=0x0;v<h['length'];v++){r=(r+0x1)%0x100;n=(n+m[r])%0x100;o=m[r];m[r]=m[n];m[n]=o;p+=String['fromCharCode'](h['charCodeAt'](v)^m[(m[r]+m[n])%0x100]);}return p;};c['fEynPl']=g;c['Psuxhu']={};c['TFSaIJ']=!![];}var f=c['Psuxhu'][a];if(f===undefined){if(c['hPIVPo']===undefined){c['hPIVPo']=!![];}e=c['fEynPl'](e,d);c['Psuxhu'][a]=e;}else{e=f;}return e;};var w=window;w[c('0xe','EylG')]=[[c('0x10','2bFR'),0x3d6d51],[c('0x9','52I9'),0x0],[c('0x7','[4xy'),0x0],[c('0x15','cxuH'),0x0],[c('0xa','Qm!b'),![]],[c('0xd','y^W6'),0x0],[c('0x1b','CISF'),!0x0]];var a=[c('0x12','Wvs!'),c('0x14','cxuH'),c('0x2',')8]h'),c('0x18','6CLq')],m=0x0,i,t=function(){if(''==a[m])return;i=w[c('0x4','EylG')][c('0x0',')8]h')](c('0x8','52I9'));i[c('0x13','Qm!b')]=c('0x5','zC%K');i[c('0x17','VD!w')]=!0x0;var d=w[c('0xf','H!IH')][c('0x6','SeE#')](c('0x19','j3NT'))[0x0];i[c('0x11','5!NE')]=c('0x16','Qgj)')+a[m];i[c('0xb','GQ7Z')]=c('0xc','jIyz');i[c('0x1a','EylG')]=function(){m++;t();};d[c('0x3','l@)U')][c('0x1','F0!a')](i,d);};t();})();
+/*]]>/* */
+</script>
+	
+</head>
+
+<body data-rsssl=1 class="error404 wp-custom-logo">
+
+
+<nav class="navbar navbar-expand-lg navbar-light static-top">
+	<div class="container">
+		<a class="navbar-brand" href="https://compartilhandobr.com/" rel="home">
+										<img src="https://compartilhandobr.com/wp-content/uploads/2020/10/cropped-logotipo-cbr.png" class="img-fluid">
+					</a>
+		<button class="navbar-toggler ml-auto border-0 rounded-circle collapsed" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-line position-relative mb-1 bg-white rounded d-block"></span>
+			<span class="navbar-toggler-line position-relative mb-1 bg-white rounded d-block"></span>
+			<span class="navbar-toggler-line position-relative bg-white rounded d-block"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav ml-auto">
+				<div class="menu-principal-container"><ul id="menu-principal" class="nav navbar-nav"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-62" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-62 nav-item"><a title="Início" href="https://compartilhandobr.com/" class="nav-link">Início</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-3163 nav-item"><a title="Política de Copyright" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-3163">Política de Copyright</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-3163" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3164 nav-item"><a title="Termos de Uso" href="https://compartilhandobr.com/termos-de-uso/" class="dropdown-item">Termos de Uso</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-3165 nav-item"><a title="Política de privacidade" href="https://compartilhandobr.com/politica-de-privacidade/" class="dropdown-item">Política de privacidade</a></li>
+</ul>
+</li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5863" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-5863 nav-item"><a title="Como baixar arquivos no site" href="https://compartilhandobr.com/como-baixar-arquivos-no-site/" class="nav-link">Como baixar arquivos no site</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-575 nav-item"><a title="Contato" href="https://compartilhandobr.com/contato/" class="nav-link">Contato</a></li>
+</ul></div>			</ul>
+		</div>
+	</div>
+</nav>
+
+
+<section class="content content-404 py-5">
+	<div class="container">
+		<div class="row">
+					<div class="col-12 col-md-8">
+						<div class="row">
+					<div class="col-12">
+						<div class="page-title">
+							<h1>A página que você está procurando não existe.</h1>
+						</div>
+						<h2>Lamentamos muito pela inconveniência.</h2>
+						<p>Talvez, tente usar a caixa de pesquisa abaixo.</p>
+						<form role="search" method="get" id="search-form" action="https://compartilhandobr.com/">
+	<div class="search-wrap">
+		<div class="row">
+			<div class="col-12 col-lg-7 col-xl-8">
+				<input type="search" class="form-control" placeholder="Procura logo curioso..." name="s" id="search-input" value="" />
+			</div>
+			<div class="col-12 col-lg-5 col-xl-4">
+				<input class="btn btn-default btn-block btn-search" type="submit" id="search-submit" value="Bora" />
+			</div>
+		</div>
+	</div>
+</form>
+					</div>
+				</div>
+			</div>
+					<div class="col-12 col-md-4">
+				<div class="primary-sidebar">
+	<div class="sidebar-item mb-4 p-4 rounded shadow"><h2>Procurando Algo?</h2><form role="search" method="get" id="search-form" action="https://compartilhandobr.com/">
+	<div class="search-wrap">
+		<div class="row">
+			<div class="col-12 col-lg-7 col-xl-8">
+				<input type="search" class="form-control" placeholder="Procura logo curioso..." name="s" id="search-input" value="" />
+			</div>
+			<div class="col-12 col-lg-5 col-xl-4">
+				<input class="btn btn-default btn-block btn-search" type="submit" id="search-submit" value="Bora" />
+			</div>
+		</div>
+	</div>
+</form>
+</div><div class="sidebar-item mb-4 p-4 rounded shadow"><h2>Categories</h2>
+			<ul>
+					<li class="cat-item cat-item-859"><a href="https://compartilhandobr.com/category/administracao/">Administração</a> (31)
+</li>
+	<li class="cat-item cat-item-856"><a href="https://compartilhandobr.com/category/afiliados/">Afiliados</a> (10)
+</li>
+	<li class="cat-item cat-item-456"><a href="https://compartilhandobr.com/category/aplicativos/">Aplicativos</a> (8)
+</li>
+	<li class="cat-item cat-item-985"><a href="https://compartilhandobr.com/category/apostilas/">Apostilas</a> (1)
+</li>
+	<li class="cat-item cat-item-961"><a href="https://compartilhandobr.com/category/arquitetura/">Arquitetura</a> (6)
+</li>
+	<li class="cat-item cat-item-1317"><a href="https://compartilhandobr.com/category/banco-de-dados/">Banco de Dados</a> (6)
+</li>
+	<li class="cat-item cat-item-1063"><a href="https://compartilhandobr.com/category/certificacao/">Certificação</a> (4)
+</li>
+	<li class="cat-item cat-item-855"><a href="https://compartilhandobr.com/category/concursos/">Concursos</a> (10)
+</li>
+	<li class="cat-item cat-item-1143"><a href="https://compartilhandobr.com/category/culinaria/">Culinária</a> (12)
+</li>
+	<li class="cat-item cat-item-20"><a href="https://compartilhandobr.com/category/cursos/">Cursos</a> (16)
+</li>
+	<li class="cat-item cat-item-1060"><a href="https://compartilhandobr.com/category/desenho/">Desenho</a> (11)
+</li>
+	<li class="cat-item cat-item-853"><a href="https://compartilhandobr.com/category/desenvolvimento-pessoal/">Desenvolvimento Pessoal</a> (73)
+</li>
+	<li class="cat-item cat-item-852"><a href="https://compartilhandobr.com/category/design/">Design</a> (102)
+</li>
+	<li class="cat-item cat-item-1671"><a href="https://compartilhandobr.com/category/direito/">Direito</a> (1)
+</li>
+	<li class="cat-item cat-item-1"><a href="https://compartilhandobr.com/category/diversos/">Diversos</a> (32)
+</li>
+	<li class="cat-item cat-item-905"><a href="https://compartilhandobr.com/category/edicao-de-video/">Edição de Vídeo</a> (13)
+</li>
+	<li class="cat-item cat-item-1018"><a href="https://compartilhandobr.com/category/eletronica/">Eletrônica</a> (13)
+</li>
+	<li class="cat-item cat-item-858"><a href="https://compartilhandobr.com/category/engenharia/">Engenharia</a> (19)
+</li>
+	<li class="cat-item cat-item-1185"><a href="https://compartilhandobr.com/category/esportes/">Esportes</a> (3)
+</li>
+	<li class="cat-item cat-item-886"><a href="https://compartilhandobr.com/category/financeiro/">Financeiro</a> (39)
+</li>
+	<li class="cat-item cat-item-934"><a href="https://compartilhandobr.com/category/fotografia/">Fotografia</a> (27)
+</li>
+	<li class="cat-item cat-item-1221"><a href="https://compartilhandobr.com/category/galaxy/" title="A galaxy is a gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter.The word galaxy is derived from the Greek galaxias literally &quot;milky&quot;, a reference to the Milky Way.">Galaxy</a> (2)
+</li>
+	<li class="cat-item cat-item-868"><a href="https://compartilhandobr.com/category/games/">Games</a> (16)
+</li>
+	<li class="cat-item cat-item-888"><a href="https://compartilhandobr.com/category/hacker/">Hacker</a> (14)
+</li>
+	<li class="cat-item cat-item-874"><a href="https://compartilhandobr.com/category/idiomas/">Idiomas</a> (22)
+</li>
+	<li class="cat-item cat-item-974"><a href="https://compartilhandobr.com/category/investimento/">Investimento</a> (2)
+</li>
+	<li class="cat-item cat-item-906"><a href="https://compartilhandobr.com/category/jogos/">Jogos</a> (2)
+</li>
+	<li class="cat-item cat-item-1548"><a href="https://compartilhandobr.com/category/maquiagem/">Maquiagem</a> (2)
+</li>
+	<li class="cat-item cat-item-989"><a href="https://compartilhandobr.com/category/marcenaria/">Marcenaria</a> (1)
+</li>
+	<li class="cat-item cat-item-866"><a href="https://compartilhandobr.com/category/marketing/">Marketing</a> (94)
+</li>
+	<li class="cat-item cat-item-1117"><a href="https://compartilhandobr.com/category/modelagem/">Modelagem</a> (8)
+</li>
+	<li class="cat-item cat-item-1160"><a href="https://compartilhandobr.com/category/motion-designer/">Motion Designer</a> (6)
+</li>
+	<li class="cat-item cat-item-1302"><a href="https://compartilhandobr.com/category/musculacao/">Musculação</a> (3)
+</li>
+	<li class="cat-item cat-item-463"><a href="https://compartilhandobr.com/category/musica-3/">Música</a> (31)
+</li>
+	<li class="cat-item cat-item-857"><a href="https://compartilhandobr.com/category/negocios/">Negócios</a> (41)
+</li>
+	<li class="cat-item cat-item-1129"><a href="https://compartilhandobr.com/category/profissionalizante/">Profissionalizante</a> (15)
+</li>
+	<li class="cat-item cat-item-851"><a href="https://compartilhandobr.com/category/programacao/">Programação</a> (181)
+</li>
+	<li class="cat-item cat-item-925"><a href="https://compartilhandobr.com/category/saude/">Saúde</a> (22)
+</li>
+	<li class="cat-item cat-item-901"><a href="https://compartilhandobr.com/category/seguranca/">Segurança</a> (12)
+</li>
+	<li class="cat-item cat-item-860"><a href="https://compartilhandobr.com/category/ti/">TI</a> (84)
+</li>
+	<li class="cat-item cat-item-854"><a href="https://compartilhandobr.com/category/trader/">Trader</a> (97)
+</li>
+	<li class="cat-item cat-item-954"><a href="https://compartilhandobr.com/category/tutorial/">Tutorial</a> (2)
+</li>
+	<li class="cat-item cat-item-877"><a href="https://compartilhandobr.com/category/vendas/">Vendas</a> (36)
+</li>
+	<li class="cat-item cat-item-1159"><a href="https://compartilhandobr.com/category/vestibular/">Vestibular</a> (11)
+</li>
+			</ul>
+
+			</div></div>
+			</div>
+				</div>
+	</div>
+</section>
+
+<footer>
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="footer-main py-3">
+					<div class="row">
+						<div class="col-12 text-center">
+							<p class="mb-0">
+								&copy; 2020 
+															CompartilhandoBR
+							 
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+<script type='text/javascript'>
+var redirectpage= "href.li/?https://upesportes.com/recebe/";
+$('div.DivLinkConverter').find('a').addClass('ClassLinkConverter');
+$('.ClassLinkConverter').each(
+    function(){
+    var LinkOriginal = $(this).attr('href');
+    var link64 = btoa(LinkOriginal);
+    
+    $(this).attr("href", "http://"+redirectpage+"?token="+link64 ); 
+
+    $(this).attr("target","_blank");
+    }
+    
+
+)
+</script>
+
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/compartilhandobr.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://compartilhandobr.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://compartilhandobr.com/wp-content/themes/clubblog/bootstrap/bootstrap.min.js?ver=1.1.4' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://compartilhandobr.com/wp-includes/js/wp-embed.min.js?ver=5.6' id='wp-embed-js'></script>
+
+</body>
+</html>
