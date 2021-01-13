@@ -7,12 +7,12 @@ export default function Sidebar({ tags, open, setOpen }) {
 
   const list = () => (
     <div
-      className="mx-2 mt-4 mb-8 w-auto"
+      className="mx-2 mt-2 mb-12 w-auto"
     >
       <p className="px-4 py-2 text-center rounded-md font-bold uppercase text-black text-xl">
         Todas as Tags
       </p>
-      <hr className="mt-3 mb-4"/>
+      <hr className="mt-2 mb-3"/>
       <ul>
       {sortedTags.map((text) => (
           <Link key={text} href={`/tag/${text}`}>
@@ -38,6 +38,13 @@ export default function Sidebar({ tags, open, setOpen }) {
             onClose={() => setOpen(false)}
             onOpen={() => setOpen(true)}
           >
+            <div className="flex justify-center py-1 bg-blue-500 shadow-lg">
+              <Link href="/">
+                <a className="px-9 py-3 text-gray-50 font-bold uppercase text-xl ">
+                  Página Inicial
+                </a>
+              </Link>
+            </div>
             {list()}
           </SwipeableDrawer>
         </React.Fragment>

@@ -1,4 +1,6 @@
 import Head from 'next/head'
+import { useRouter } from 'next/router'
+import ErrorPage from 'next/error'
 import Container from '../../components/container'
 import MoreStories from '../../components/more-stories'
 import Intro from '../../components/intro'
@@ -9,6 +11,14 @@ import { getAllPostsFromTag, getAllTags } from '../../lib/api'
 import { BLOG_NAME } from '../../lib/constants'
 
 export default function Index({ taggedPosts, tag, tags }) {
+  const router = useRouter()
+	if(router.isFallback) {
+		return <h1>Loading...</h1>
+	}
+	
+	if(!taggedPosts){
+		return <ErrorPage statusCode={404} />
+	}
   return (
     <>
       <Layout>

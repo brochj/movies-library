@@ -4,11 +4,13 @@ import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
 import Navbar from '../components/navbar/navbar'
+import Pagination from '../components/pagination'
 import { getAllPosts, getAllTags } from '../lib/api'
+import { config } from '../lib/config'
 import Head from 'next/head'
 import { BLOG_NAME } from '../lib/constants'
 
-export default function Index({ allPosts, tags }) {
+export default function Index({ allPosts, tags, pagination }) {
   const heroPost = allPosts[0]
   const morePosts = allPosts.slice(1)
   return (
@@ -19,21 +21,26 @@ export default function Index({ allPosts, tags }) {
         </Head>
         <Navbar tags={tags}/>
         <Container>
-          {/* <ul>
-          {tags.length > 0 && tags.map((tag)=><li>{tag}</li>)}
-          </ul> */}
           <Intro />
           {heroPost && (
             <HeroPost
-              title={heroPost.title}
-              coverImage={heroPost.coverImage}
-              date={heroPost.date}
-              author={heroPost.author}
-              slug={heroPost.slug}
-              excerpt={heroPost.excerpt}
+            title={heroPost.title}
+            coverImage={heroPost.coverImage}
+            date={heroPost.date}
+            author={heroPost.author}
+            slug={heroPost.slug}
+            excerpt={heroPost.excerpt}
             />
-          )}
+            )}
           {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+          <Pagination 
+            current={pagination.current}
+            pages={pagination.pages}
+            link={{
+              href: (page) => (page === 1 ? "/" : "/posts/page/" + page),
+              as: (page) => (page === 1 ? null : "/posts/page/" + page),
+            }}
+          />
         </Container>
       </Layout>
     </>
@@ -51,8 +58,17 @@ export async function getStaticProps() {
     'excerpt',
     'tags'
   ])
+  console.log(allPosts.length);
+  const pagination = {
+    current: 1,
+    pages: Math.ceil(allPosts.length / config.posts_per_page),
+  };
 
   return {
-    props: { allPosts, tags },
+    props: { 
+      allPosts: allPosts.slice(0, config.posts_per_page),
+      tags,
+      pagination
+    },
   }
 }

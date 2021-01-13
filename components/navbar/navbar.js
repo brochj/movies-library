@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import useScrollTrigger from '@material-ui/core/useScrollTrigger';
-import Container from '@material-ui/core/Container';
 import Slide from '@material-ui/core/Slide';
 import Link from 'next/link'
 import Sidebar from './sidebar';
@@ -10,7 +9,7 @@ import {BLOG_NAME} from '../../lib/constants'
 
 function HideOnScroll(props) {
   const { children } = props;
-    const trigger = useScrollTrigger();
+  const trigger = useScrollTrigger();
 
   return (
     <Slide appear={false} direction="down" in={!trigger}>
@@ -18,8 +17,6 @@ function HideOnScroll(props) {
     </Slide>
   );
 }
-
-
 
 export default function Navbar({tags, ...props}) {
   const [open, setOpen] = useState(false);
@@ -48,9 +45,6 @@ export default function Navbar({tags, ...props}) {
           </Toolbar>
         </AppBar>
       </HideOnScroll>
-      <Container>
-       
-      </Container>
     </React.Fragment>
   );
 }
