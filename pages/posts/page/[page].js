@@ -87,8 +87,6 @@ export async function getStaticPaths() {
 		])
 	const numberOfPages = Math.ceil(allPosts.length / config.posts_per_page);
 	let pages = Array.from(Array(numberOfPages+1).keys()).slice(1)
-	console.log(numberOfPages);
-	console.log(pages);   
   return {
     paths: pages.map((page) => {
 			return {

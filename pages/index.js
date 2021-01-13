@@ -58,7 +58,6 @@ export async function getStaticProps() {
     'excerpt',
     'tags'
   ])
-  console.log(allPosts.length);
   const pagination = {
     current: 1,
     pages: Math.ceil(allPosts.length / config.posts_per_page),
