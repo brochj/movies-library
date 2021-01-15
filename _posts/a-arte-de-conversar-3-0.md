@@ -1,0 +1,16 @@
+---
+title: 'A Arte de Conversar 3.0'
+excerpt: 'CONHECENDO A SI MESMO  Nessa primeira parte eu vou te mostrar como pegar assuntos da sua própria vida e usar nas conversas de uma forma atraente. Vai ser uma jornada profunda na sua vida, para que você se conheça completamente e saiba descobrir se aquela mulher que você'
+coverImage: '/assets/blog/posts/a-arte-de-conversar-3-0.jpg'
+date: '2019-12-19T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/a-arte-de-conversar-3-0.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:38C73DE79A920277D2AA54807299CB6B93CA76B1&dn=A%20Arte%20de%20Conversar%203.0&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['desenvolvimento-pessoal']
+---
+<h2>Descrição</h2>
+<p></p><p><strong>CONHECENDO A SI MESMO</strong><br/>Nessa primeira parte eu vou te mostrar como pegar assuntos da sua própria vida e usar nas conversas de uma forma atraente. Vai ser uma jornada profunda na sua vida, para que você se conheça completamente e saiba descobrir se aquela mulher que você acabou de conhecer faz o seu tipo. Você vai descobrir até mesmo assuntos que você não imaginava que tinha depois de fazer esses exercícios.<br/><br/><strong>INVESTIMENTO E CONEXÃO</strong><br/>Aqui você vai aprender todos os meus segredos para criar conexão com qualquer mulher. Você vai aprender técnicas que vão fazer ela se abrir com você e investir na conversa. Você vai se aprofundar nos assuntos preferidos dela, fazendo ela investir emocionalmente em você. Eu vou te passar também a forma certa de fazer perguntas em cada assunto, quais perguntas fazer e como explorar o potencial máximo de cada resposta que ela te der.<br/><br/><strong>DESENVOLVENDO A CONVERSA</strong><br/>Eu vou te ensinar minha estratégia pessoal para improvisar em qualquer conversa e nunca mais ficar calado em um ambiente sem saber o que falar. Você vai conseguir falar por horas seguidas se quiser, só aplicando uma das técnicas que vou ensinar nesse módulo. Eu vou te ensinar também quais assuntos você deve evitar e como entrar em assuntos pessoais dela de uma forma leve que ela nem vai perceber.<br/><br/><strong>FERRAMENTAS DA CONVERSA</strong><br/>Nessa parte você vai aprender todos os segredos para contar uma história cativante e conseguir a atenção dela enquanto você fala. Vou te ensinar também algumas técnicas para gerar atração e humor na interação. Você já ouviu falar que as mulheres adoram dar risada né? Depois de aplicar essas técnicas, suas interações vão ficar muito mais divertidas, e isso funciona mesmo se você nunca contou uma piada na vida. Isso vai evitar que você fique preso em uma conversa chata e consiga um investimento gigantesco dela logo nos primeiros minutos de conversa</p><h2>Informações</h2><p><strong>Gênero:</strong> Desenvolvimento Pessoal<br/><strong>Formato: </strong>MP4<br/><strong>Idioma: </strong>Português<br/><strong>Tamanho:</strong> 1.12 GB<br/><strong>Servidor:</strong> Torrent</p>

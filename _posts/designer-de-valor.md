@@ -1,6 +1,6 @@
 ---
 title: 'Designer de Valor'
-excerpt: 'Conteúdo do cursoPhotoshopManipulação de Imagens, Retoque de Pele, Retoque de Produtos, Gerenciamento de Cores e Efeitos.Criação de LogotiposGestalt, Princípios do Design, Teoria da Cor, Tipografia e Criação de Logo com Proporção Áurea.Cinema 4D (3D)Prin'
+excerpt: 'Conteúdo do curso  Photoshop Manipulação de Imagens, Retoque de Pele, Retoque de Produtos, Gerenciamento de Cores e Efeitos.  Criação de Logotipos Gestalt, Princípios do Design, Teoria da Cor, Tipografia e Criação de Logo com Proporção Áurea.  Cinema 4D (3D) Prin'
 coverImage: '/assets/blog/posts/designer-de-valor.jpg'
 date: '2020-05-08T03:00:00.000Z'
 author:

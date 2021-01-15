@@ -1,0 +1,16 @@
+---
+title: 'UI Design: Design de Interfaces com foco em Projetos Web'
+excerpt: 'No curso “UI Design: Design de Interfaces com foco em projetos Web” você vai adquirir todo o conhecimento dos fundamentos básicos e avançados em Design de Interface (UI Design), visando desenvolver sua capacidade crítica, técnica e criativa.  Este treinamento foi desenvolvido para que'
+coverImage: '/assets/blog/posts/ui-design-design-de-interfaces-com-foco-em-projetos-web.jpg'
+date: '2020-08-21T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/ui-design-design-de-interfaces-com-foco-em-projetos-web.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:46F1BE51EC0E79BC16B44840A23FBF32C81C4361&dn=Udemy%20-%20UI%20Design%20Design%20de%20Interfaces%20com%20foco%20em%20Projetos%20Web&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['design']
+---
+<h2>Descrição</h2>
+<p></p><p>No curso “UI Design: Design de Interfaces com foco em projetos Web” você vai adquirir todo o conhecimento dos fundamentos básicos e avançados em Design de Interface (UI Design), visando desenvolver sua capacidade crítica, técnica e criativa.</p><p>Este treinamento foi desenvolvido para quem quer se inserir no mercado ou para profissionais de diversas outras áreas, como UI/UX Designers, Front-ends, Designers Gráficos, Web Designers e Publicitários que querem adquirir novos conhecimentos e migrar para UI Design.</p><p><strong>O que você aprenderá</strong></p><ul><li>Criar interfaces web incríveis do absoluto zero utilizando os fundamentos e elementos do design de interfaces como Cores, Tipografia, Botões, Hierarquia Visual, Grids, etc.</li><li>Dominar tipografia avançada para UI Design: Classificações tipográficas, anatomia dos tipos, variáveis tipográficas, sobreposição de textos e etc.</li><li>Desenvolver protótipos utilizando o Marvel para apresentar o projeto aos clientes.</li><li>Desenvolver Wireframes de baixa fidelidade (papel e caneta) e alta fidelidade (Photoshop).</li><li>Desenvolver interfaces responsivas que se adaptam a qualquer dispositivo (mobile ou desktop).</li><li>Dominar os princípios do design em User Interface.</li></ul><p><strong>Para quem é este curso:</strong></p><ul><li>Designer Gráfico que querem migrar do off-line para o digital</li><li>Iniciantes que querem criar Websites</li><li>Front-end’s que desejam adquirir mais conhecimentos de interfaces para aplicar em seus projetos.</li><li>UI Designers</li></ul><p><strong>Requisitos</strong></p><ul><li>Você não precisa ser designer para iniciar o curso.</li><li>Você precisará do Adobe Photoshop e Illustrator instalado em seu computador. Uma avaliação gratuita pode ser baixada no site da Adobe.</li><li>Nenhuma habilidade anterior de design é necessária, vou te ensinar tudo o que precisa saber para criar interfaces incríveis.</li></ul><h2>Informações</h2><p>Autor: Lucas Assis<br/>Gênero: Design<br/>Ano de Lançamento: 2019<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 11.93 GB<br/>Servidor: Torrent</p>

@@ -1,0 +1,16 @@
+---
+title: 'Inteligência Emocional'
+excerpt: 'Ao todo, são sete módulos que abordam as habilidades interpessoais, ou “softskills”, que são práticas ligadas às emoções e que não estão nas disciplinas do ensino tradicional. Temas como autoconhecimento, gestão de emoções, liderança, empatia e sociabilidade no ambiente de trabalho estão n'
+coverImage: '/assets/blog/posts/inteligencia-emocional.jpg'
+date: '2021-01-03T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/inteligencia-emocional.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:7D68C46E0A130A87F135478330D2085084DEC2C2&dn=Conquer%20I.E&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['desenvolvimento-pessoal']
+---
+<h2>Descrição</h2>
+<p></p><p>Ao todo, são sete módulos que abordam as habilidades interpessoais, ou “softskills”, que são práticas ligadas às emoções e que não estão nas disciplinas do ensino tradicional. Temas como autoconhecimento, gestão de emoções, liderança, empatia e sociabilidade no ambiente de trabalho estão na programação.</p><h4>Ementa do Curso:</h4><p><strong>01 – PILARES DA INTELIGÊNCIA EMOCIONAL</strong><br/>58% do desempenho de qualquer profissional está relacionado a Inteligência Emocional, segundo pesquisa realizada pela TalentSmart. Descubra nessa aula porque a IE é fundamental no ambiente de trabalho, quais são os seus 4 pilares e as 12 competências para desenvolvê-los.</p><p><strong>02 – ANTIFRÁGIL E ADAPTABILIDADE EM TEMPOS DE CRISE</strong><br/>Adaptabilidade é crucial para o momento que estamos vivendo. Descubra nessa aula como lidar com crises e exaltar o protagonismo do antifrágil.</p><p><strong>03 – AUTOCONHECIMENTO E AUTOGESTÃO</strong><br/>Embarque em uma jornada de autoconhecimento estruturada para entender melhor a si mesmo e a gerir as próprias emoções. Identifique quais são as suas paixões, forças, seus inimigos internos e externos, seus sabotadores e seus sentimentos!</p><p><strong>04 – EMPATIA: O QUE REALMENTE É E COMO DESENVOLVÊ-LA</strong><br/>Empatia é aquilo de usar os sapatos dos outros certo? Errado! Nessa aula você vai entender de fato o que é empatia, quais os bloqueios que podemos desenvolver a ela e como ser de fato mais empático.</p><p><strong>05 – A CIÊNCIA DA FELICIDADE</strong><br/>Baseada em uma das aulas mais procuradas em Harvard, nessa aula você vai conhecer a ciência da felicidade, quais as técnicas para a felicidade e como colocá-las em prática na sua vida.</p><p><strong>06 – GERENCIAMENTO DE RELACIONAMENTOS</strong><br/>Quantos tipos de relacionamentos temos durante toda a nossa vida? Aprenda quais são os tipos de relações, quais os padrões de relacionamentos e domine na prática as técnicas de comunicação mais assertivas para gerenciar conflitos e ser mais influente.</p><p><strong>07 – LIDERANDO EM TEMPOS DE INCERTEZA</strong><br/>Convidamos profissionais de referência no mercado para falar o que eles pensam sobre o momento que estamos vivendo e dar dicas valiosas de como liderar em tempos de incerteza.</p><p><strong>Bônus:</strong> Masterclass exclusiva</p><h2>Informações</h2><p>Gênero: Desenvolvimento Pessoal<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 5.91 GB<br/>Servidor: Torrent</p>

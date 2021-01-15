@@ -1,0 +1,16 @@
+---
+title: 'Habilidade Oculta: O Fim da Procrastinação'
+excerpt: 'O curso proporciona uma técnica completa e diretamente aplicável para reduzir drasticamente a procrastinação. Para isso, aborda-se exatamente como criar um planejamento de metas gamificado e como lidar com os pensamentos de auto-sabotagem e fuga.  Com o curso você aprenderá, de modo p'
+coverImage: '/assets/blog/posts/habilidade-oculta-o-fim-da-procrastinacao.jpg'
+date: '2020-08-01T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/habilidade-oculta-o-fim-da-procrastinacao.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:4916F828C03EFE9084C8EFBC240CA52287F7DBFF&dn=HABILIDADE%20OCULTA%20-%20O%20FIM%20DA%20PROCRASTINA%c3%87%c3%83O&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['desenvolvimento-pessoal']
+---
+<h2>Descrição</h2>
+<p></p><p>O curso proporciona uma técnica completa e diretamente aplicável para reduzir drasticamente a procrastinação. Para isso, aborda-se exatamente como criar um planejamento de metas gamificado e como lidar com os pensamentos de auto-sabotagem e fuga.</p><p>Com o curso você aprenderá, de modo prático e objetivo:</p><ul><li>Como organizar objetivos e metas.</li><li>Como organizar seu dia.</li><li>Como identificar auto-sabotagem, justificativas e padrões de fuga.</li><li>Quais tarefas fazer no final e começo do dia para ser mais produtivo (Rituais).</li><li>Como e quando utilizar hacks mentais.</li><li>Como reduzir MUITO a ansiedade e angústia diária (esse é um fortíssimo efeito “colateral” do curso).</li></ul><p><strong>Rota do curso:</strong><br/>Inicialmente, apresenta-se uma maneira gamificada de organizar os objetivos mensais, semanais e diários. O instrutor oferece explicações práticas e exemplos do cotidiano para justificar a necessidade do uso da técnica. Essa mesma técnica, oferece maneiras de auto-ajuste, ou seja, é possível mensurar como está sendo o progresso e fazer alterações no decorrer do tempo. Além do mais, ela entrelaça objetivos e reduz de modo considerável os danos causados por um dos principais males da nossa geração: a dúvida.</p><p>Posteriormente, o instrutor aborda uma série de esquemas mentais e hacks que, literalmente, chutam a procrastinação para longe. Nesses tópicos, são apresentadas maneiras de pensar que colocam a procrastinação na parede, como é o caso do Hack da Motivação dos Urubus. Nesse hack, o instrutor apresenta um padrão de pensamento que contrapõe a inércia do não fazer com o próprio orgulho.</p><p>Após passar diversos hacks, o instrutor entra em territórios profundos da psique humana. Nessa parte, o aluno entenderá como funciona as justificativas procrastinadoras e como neutralizá-las. Além de evitar a procrastinação, o aluno terá base para desenvolver uma rotina produtiva e com bastante clareza nas tarefas.</p><p>Toda informação passada no curso tem lastro de explicações dos motivos pelos quais funcionam e as referências, que vão desde Osho, Sun Tzu, até Napoleon Hill e Richard Bandler.</p><h2>Informações</h2><p>Autor: Hackers do Estudo<br/>Gênero: Desenvolvimento Pessoal<br/>Ano de Lançamento: 2018<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 2.88 GB<br/>Servidor: Torrent</p>
