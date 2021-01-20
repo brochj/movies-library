@@ -1,0 +1,16 @@
+---
+title: 'Curso Completo de Redes TCP/IP'
+excerpt: 'Aprenda sobre redes TCP/IP com um dos maiores especialistas brasileiros no assunto, Gabriel Torres, autor de 25 livros sobre tecnologia. Neste curso você aprenderá o embasamento teórico necessário para aprofundar seus estudos em cursos avançados. Você aprenderá, entre outros assuntos, sobr'
+coverImage: '/assets/blog/posts/curso-completo-de-redes-tcp-ip.jpg'
+date: '2020-04-21T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/curso-completo-de-redes-tcp-ip.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:BF2D9D65E3FEDDFDD795BC36E1764B98557FCD38&dn=Curso%20-%20Completo%20de%20Redes%20TCP-IP&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['ti']
+---
+<h2>Descrição</h2>
+<p></p><p>Aprenda sobre redes TCP/IP com um dos maiores especialistas brasileiros no assunto, Gabriel Torres, autor de 25 livros sobre tecnologia. Neste curso você aprenderá o embasamento teórico necessário para aprofundar seus estudos em cursos avançados. Você aprenderá, entre outros assuntos, sobre endereçamento IPv4 e IPv6, portas, tradução de endereços (NAT), protocolos de aplicação (HTTP, DNS, FTP, email, etc.), protocolos de transporte (TCP e UDP), protocolos de rede (IPv4, IPv6, IPsec e ICMP), protocolos de roteamento, segurança e muito mais!</p><p>Preparatório para concursos públicos que contenham, em seus editais, o tema “TCP/IP”.</p><p>Base teórica que o auxiliará em seus estudos para exames de certificação Cisco, como CCENT, CCT, CCNA e CCNP.</p><p>Este curso é ideal para estudantes e profissionais que desejam aprofundar seus conhecimentos em redes de computadores. O mercado está em constante evolução; garanta a qualidade do seu conhecimento e seja um profissional de sucesso!</p><p>O curso Redes TCP/IP é uma continuação do curso “Arquitetura de Redes” do mesmo professor e, desta forma, é recomendado que você já tenha feito o curso anterior para conseguir acompanhar esse curso.</p><p><strong>Para quem é este curso:</strong></p><ul><li>Estudantes, profissionais e usuários entusiastas das áreas de redes e tecnologia que queiram se especializar ou aprimorar seus conhecimentos sobre redes e segurança.</li></ul><div class="su-spoiler su-spoiler-style-fancy su-spoiler-icon-plus su-spoiler-closed" data-anchor-in-url="no" data-scroll-offset="0"><div class="su-spoiler-title" role="button" tabindex="0"><span class="su-spoiler-icon"></span>Entre outros assuntos, você aprenderá, em profundidade, sobre:</div><div class="su-spoiler-content su-u-clearfix su-u-trim">* Endereçamento IPv4 e IPv6 * Portas TCP e UDP * Tradução de endereços (NAT) * Estrutura e funcionamento de protocolos da camada de rede (IPv4, IPv6, IPsec e ICMP) * Estrutura e funcionamento de protocolos da camada de transporte (TCP e UDP) * Estrutura e funcionamento de protocolos da camada de aplicação (DNS, FTP, HTTP, e-mail, etc.) (em breve) * Estrutura e funcionamento de protocolos de roteamento (RIP, EIGRP, OSPF e BGP) (em breve) * Segurança (em breve) * Análise de questões de concursos públicos</div></div><h2>Informações</h2><p>Gênero: TI<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 4.54<br/>Servidor: Torrent</p>

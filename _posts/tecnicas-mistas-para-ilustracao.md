@@ -1,0 +1,16 @@
+---
+title: 'Técnicas Mistas para Ilustração'
+excerpt: 'O curso apresentará técnicas mistas de ilustração, que vão do tradicional até o digital. Nele, o(a) aluno(a) aprenderá a usar diferentes materiais e aplicá-los a ilustrações, seja para fins comerciais ou apenas para representar seu universo pessoal. E, principalmente, irá colocar em prátic'
+coverImage: '/assets/blog/posts/tecnicas-mistas-para-ilustracao.jpg'
+date: '2020-06-22T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/tecnicas-mistas-para-ilustracao.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:95BD2463C88CA0E8AAB62134EC777AD9E7E0B3ED&dn=T%c3%a9cnicas%20Mistas%20Para%20Ilustra%c3%a7%c3%a3o%20-%20Gabi%20Tozati&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['desenho']
+---
+<h2>Descrição</h2>
+<p></p><p>O curso apresentará técnicas mistas de ilustração, que vão do tradicional até o digital. Nele, o(a) aluno(a) aprenderá a usar diferentes materiais e aplicá-los a ilustrações, seja para fins comerciais ou apenas para representar seu universo pessoal. E, principalmente, irá colocar em prática o processo de planejamento de uma ilustração desde o zero — da conceitualização à finalização.<br/>O mais importante é que o(a) aluno(a) abandone o medo de errar, saiba que os resultados vêm através da prática e se divirta muito!</p><h4><strong>O que este curso inclui?</strong></h4><ul><li>Técnicas para perder o medo do desenho e síntese.</li><li>Exploraremos materiais como lápis e canetas, aquarelas, lápis de cor e como utilizar ferramentas digitais.</li><li>Aprenda a trabalhar da miniatura ao esboço, o lineart final e as diferentes técnicas de cores.</li><li>Explore diferentes temas: de autorretrato, fanart, exercícios criativos gratuitos e até design de personagens.</li><li>Por fim, conheça o trabalho de ilustração digital no Photoshop e como obter um acabamento semelhante ao tradicional.</li></ul><h4><strong>Requisitos</strong></h4><ul><li>Os materiais que você deseja explorar!</li><li>A Gabi usa lápis e canetas, aquarelas e lápis de cor.</li><li>Para o último módulo, um computador com Photoshop e um tablet digital.</li><li>Este curso é para você, se…</li></ul><p>… quer aprender a como utilizar os materiais para ter uma variedade de abordagens criativas ao explorar seu universo e expressão pessoal</p><p><strong>No final deste curso, você terá:</strong> muito mais controle e conhecimento sobre como manusear, com certeza, diversos tipos de materiais artísticos para transmitir suas ideias e entender mais até onde sua criatividade pode chegar! E, eventualmente, iniciar sua carreira profissional.</p><p>Este curso é <strong>introdutório</strong>, porque não necessita de um conhecimento extenso sobre ilustração para poder utilizar os materiais! Você aprenderá como gerenciar o medo e as expectativas, a usar ferramentas básicas e a apresentar espaços diferentes no desenho (design de personagens, retrato, fanart etc).</p><h2>Informações</h2><p><strong>Autor:</strong> Gabi Tozati<br/><strong>Gênero:</strong> Desenho<br/><strong>Ano de Lançamento:</strong> 2019<br/><strong>Formato:</strong> MP4<br/><strong>Idioma:</strong> Português<br/><strong>Tamanho:</strong> 2.69 GB<br/><strong>Servidor:</strong> Torrent</p>
