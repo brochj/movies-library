@@ -1,0 +1,16 @@
+---
+title: 'Criação de lojas virtuais com WooCommerce'
+excerpt: 'O Woocommerce é um plugin que permite transformar o WordPress em uma ferramenta completa de comercio eletrônico.   Ele possui toda as ferramentas necessárias para atender pequenas e médias lojas de forma simples e muito funcional. Uma das principais vantagens do Woocommerce está no fa'
+coverImage: '/assets/blog/posts/criacao-de-lojas-virtuais-com-woocommerce.jpg'
+date: '2021-01-29T03:00:00.000Z'
+author:
+  name: Joe Haddad
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/criacao-de-lojas-virtuais-com-woocommerce.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:37EFB4297B2BB24B0FE3B3EE4E012CEADCE4DDA7&dn=Wordpress%20-%20Cria%c3%a7%c3%a3o%20de%20lojas%20virtuais%20com%20WooCommerce%20%5bTreinaWeb%5d&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['programacao']
+---
+<h2>Descrição</h2>
+<p></p><p>O Woocommerce é um plugin que permite transformar o WordPress em uma ferramenta completa de comercio eletrônico. </p><p>Ele possui toda as ferramentas necessárias para atender pequenas e médias lojas de forma simples e muito funcional. Uma das principais vantagens do Woocommerce está no fato dele ser instalado sobre o WordPress. </p><p>Isso garante muita flexibilidade, já que existem milhares de temas e plugins que podem ser instalados no WordPress e consequentemente na loja. </p><p>Outro ponto interessante é que ele utiliza mesma interface de administração do WordPress, facilitando para os milhares de usuários que já possuem conhecimento nele.</p><p><strong>O que irá aprender?</strong><br/>Nesse curso, mostraremos tudo que precisa saber para administrar lojas que utilizam o Woocommerce. Através da construção de uma loja de artigos esportivos de exemplo você aprenderá na prática os recursos mais importantes da ferramenta.</p><p><strong>Nesse curso, dentre várias outras coisas você aprenderá:</strong></p><ul><li>Instalar o Woocommerce e aparências visuais especificas;</li><li>Quais os tipos de produto disponíveis e qual utilizar;</li><li>Gerenciar toda a parte de catalogo como produtos, categorias, atributo e etiquetas;</li><li>Configurar aspectos da loja como entrega, estoque e exibição de produtos;</li><li>Instalar e configurar os métodos de entrega dos Correios;</li><li>Instalar, configurar e usar de modo prático o gateway de pagamento na loja;</li><li>Administrar o fluxo de pedidos e estoque da loja.</li></ul><p><strong>Pra quem é esse curso?</strong><br/>Esse curso é destinado a alunos com ou sem conhecimento técnico que desejam criar ou administrar lojas online usando uma plataforma simples e funcional.</p><p><strong>Quais os pré-requisitos para esse curso?</strong><br/>Os pré-requisitos não são obrigatórios, são apenas sugestões. Eles dão uma base de parte do conhecimento que é interessante ter para um bom aproveitamento nesse curso.</p><h2>Informações</h2><p>Gênero: Programação<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 525 MB<br/>Servidor: Torrent</p>
