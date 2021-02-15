@@ -1,0 +1,16 @@
+---
+title: 'Laravel Framework PHP: Parte 1, 2 e 3'
+excerpt: 'Nesse curso mostraremos a base do MVC construindo um conhecimento solido que facilitará a introdução de assuntos mais avançados nos próximos módulos. Através de conteúdo apostilado e vídeos aulas você verá o inicio de um projeto prático de um software de gerenciamento de tarefas, onde aprenderá n'
+coverImage: '/assets/blog/posts/laravel-framework-php-parte-1-2-e-3.jpg'
+date: '2020-06-03T03:00:00.000Z'
+author:
+  name: Download Cursos
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/laravel-framework-php-parte-1-2-e-3.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:02A62B7075CFAE669232400C5491552FD8B5AAB1&dn=TreinaWeb%20-%20Laravel%20Forma%c3%a7%c3%a3o%201%2c%202%20e%203&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['programacao']
+---
+<h2>Descrição</h2>
+<p>Nesse curso mostraremos a base do MVC construindo um conhecimento solido que facilitará a introdução de assuntos mais avançados nos próximos módulos. Através de conteúdo apostilado e vídeos aulas você verá o inicio de um projeto prático de um software de gerenciamento de tarefas, onde aprenderá na prática cada parte do processo, além de responder exercícios que ajudam na fixação do conteúdo.</p><p><strong>Dentre várias outras coisas, você aprenderá os tópicos abaixo:</strong></p><p>– Instalar e configurar o Homestead;<br/> – Diferentes modos de criar um novo projeto Laravel;<br/> – A estrutura básica de uma aplicação web;<br/> – Toda a parte de roteamento do Framework;<br/> – Utilização do Blade (template engine);<br/> – A trabalhar com controllers;<br/> – Utilizar a classe de request;<br/> – Trabalhar com os models do Eloquent.<br/> – Modos de realizar validação de dados no Laravel;<br/> – Como criar regras personalizadas de validação;<br/> – Trabalhar com sessão e configurar o redis como drive de sessão;<br/> – O que são middlewares e como utilizar na prática;<br/> – Funcionamento básico da autenticação e autorização;<br/> – Como funciona o service container e injeção de dependências;<br/> – Services Providers, Binds, Facedes e Contracts;<br/> – Instalação e utilização de packages no Laravel.<br/> – Aspectos avançados do Eloquent e suas relações;<br/> – Geração de dados de modelo usando seed e model factory;<br/> – Utilização do Query Builder do Laravel;<br/> – Paginação no Eloquent e Quert Builder;<br/> – Uso de repositórios e como eles podem ajudar no desacoplamento;<br/> – Como trabalhar com a classe de response do Laravel;<br/> – Exemplo prático de como fazer requisições AJAX para o Laravel;<br/> – A construção de uma API simplificada;<br/> – Fazer o Deploy da aplicação desenvolvida no curso para Digital Ocean.</p><h2>Informações</h2><p><strong>Autor:</strong> TreinaWeb<br/> <strong>Gênero:</strong> Programação<br/> <strong>Ano de Lançamento:</strong> 2019<br/> <strong>Formato:</strong> MP4<br/> <strong>Idioma:</strong> Português<br/> <strong>Tamanho:</strong> 5,11 GB<br/> <strong>Servidor:</strong> GDrive / Torrent<br/> <strong>Senha:</strong> ConhecimentoLivre</p>

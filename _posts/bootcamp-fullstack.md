@@ -1,10 +1,10 @@
 ---
 title: 'Bootcamp FullStack'
-excerpt: 'Desenvolvedor(a) FullStack Conheça técnicas de construção de uma aplicação passando por todas as suas camadas lógicas – backend, frontend, persistência de dados NoSQL, controle de versionamento de código com Git e implantação em nuvem – habilitando-se para atuar profissionalmente na área.<'
+excerpt: 'Desenvolvedor(a) FullStack Conheça técnicas de construção de uma aplicação passando por todas as suas camadas lógicas – backend, frontend, persistência de dados NoSQL, controle de versionamento de código com Git e implantação em nuvem – habilitando-se para atuar profissionalmente na área.'
 coverImage: '/assets/blog/posts/bootcamp-fullstack.jpg'
 date: '2020-09-07T03:00:00.000Z'
 author:
-  name: Joe Haddad
+  name: Download Cursos
   picture: '/assets/blog/authors/joe.jpeg'
 ogImage:
   url: '/assets/blog/posts/bootcamp-fullstack.jpg'
@@ -13,4 +13,4 @@ download:
 tags: ['programacao']
 ---
 <h2>Descrição</h2>
-<p></p><p>Desenvolvedor(a) FullStack Conheça técnicas de construção de uma aplicação passando por todas as suas camadas lógicas – backend, frontend, persistência de dados NoSQL, controle de versionamento de código com Git e implantação em nuvem – habilitando-se para atuar profissionalmente na área.</p><h2>Informações</h2><p>Autor: IGTI<br/>Gênero: Programação<br/>Ano de Lançamento: 2020<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 17.99 GB<br/>Servidor: Torrent</p>
+<p>Desenvolvedor(a) FullStack Conheça técnicas de construção de uma aplicação passando por todas as suas camadas lógicas – backend, frontend, persistência de dados NoSQL, controle de versionamento de código com Git e implantação em nuvem – habilitando-se para atuar profissionalmente na área.</p><h2>Informações</h2><p><strong>Autor:</strong> Raphael Gomide<br/> <strong>Gênero:</strong> Programação<br/> <strong>Ano de Lançamento:</strong> 2020<br/> <strong>Formato:</strong> MP4<br/> <strong>Idioma:</strong> Português<br/> <strong>Tamanho:</strong> 17,9 GB<br/> <strong>Servidor:</strong> Torrent</p>

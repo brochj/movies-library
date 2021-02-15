@@ -1,10 +1,10 @@
 ---
 title: 'Python para Todos, Aprenda a Criar Diversas Aplicações'
-excerpt: 'Este curso é para quem não sabe programar e quer ingressar no mundo da programação e também para quem já é programador e deseja aprender uma nova linguagem.  Você desenvolverá dezenas de aplicações no decorrer do curso.  Este curso aborda desde conceitos básicos como preparação d'
+excerpt: 'Este curso é para quem não sabe programar e quer ingressar no mundo da programação e também para quem já é programador e deseja aprender uma nova linguagem.  Você desenvolverá dezenas de aplicações no decorrer do curso.  Este curso aborda desde conceitos básicos como preparação do ambie'
 coverImage: '/assets/blog/posts/python-para-todos-aprenda-a-criar-diversas-aplicacoes.jpg'
-date: '2020-12-10T03:00:00.000Z'
+date: '2020-12-12T03:00:00.000Z'
 author:
-  name: Joe Haddad
+  name: Download Cursos
   picture: '/assets/blog/authors/joe.jpeg'
 ogImage:
   url: '/assets/blog/posts/python-para-todos-aprenda-a-criar-diversas-aplicacoes.jpg'
@@ -13,4 +13,4 @@ download:
 tags: ['programacao']
 ---
 <h2>Descrição</h2>
-<p></p><p>Este curso é para quem não sabe programar e quer ingressar no mundo da programação e também para quem já é programador e deseja aprender uma nova linguagem.</p><p>Você desenvolverá dezenas de aplicações no decorrer do curso.</p><p>Este curso aborda desde conceitos básicos como preparação do ambiente, criação de programas simples, definição de variáveis, estruturas condicionais, funções, passando por Orientação a Objetos, testes automatizados, threads, criação de aplicações com acesso a banco de dados, criação de aplicações com interface gráfica, programação para dispositivos móveis, processamento distribuído e aplicações web.</p><h2>Informações</h2><p>Gênero: Programação<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 5.92 GB<br/>Servidor: Torrent</p>
+<p>Este curso é para quem não sabe programar e quer ingressar no mundo da programação e também para quem já é programador e deseja aprender uma nova linguagem.</p><p>Você desenvolverá dezenas de aplicações no decorrer do curso.</p><p>Este curso aborda desde conceitos básicos como preparação do ambiente, criação de programas simples, definição de variáveis, estruturas condicionais, funções, passando por Orientação a Objetos, testes automatizados, threads, criação de aplicações com acesso a banco de dados, criação de aplicações com interface gráfica, programação para dispositivos móveis, processamento distribuído e aplicações web.</p><h2>Informações</h2><p><strong>Gênero:</strong> Programação<br/> <strong>Ano de Lançamento:</strong> 2020<br/> <strong>Formato:</strong> MP4<br/> <strong>Idioma:</strong> Português<br/> <strong>Tamanho:</strong> 5,92 GB<br/> <strong>Servidor:</strong> Torrent</p>

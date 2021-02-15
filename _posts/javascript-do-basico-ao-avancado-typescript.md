@@ -1,0 +1,16 @@
+---
+title: 'JavaScript do Básico ao Avançado + TypeScript'
+excerpt: 'Curso de JavaScript e TypeScript do básico ao avançado – Atualizado para 2020  Aprenda Javascript moderno (ES6+) para front-end (com Webpack, babel, React, React Hooks e Redux) e back-end (com Node, Express, MySQL e MongoDB) e se torne um(a) desenvolvedor(a) full stack.  Este curso incl'
+coverImage: '/assets/blog/posts/javascript-do-basico-ao-avancado-typescript.jpg'
+date: '2020-07-28T03:00:00.000Z'
+author:
+  name: Download Cursos
+  picture: '/assets/blog/authors/joe.jpeg'
+ogImage:
+  url: '/assets/blog/posts/javascript-do-basico-ao-avancado-typescript.jpg'
+download:
+  url: 'magnet:?xt=urn:btih:28dacce523819b825a4f8652dc3de6e519cf3f3d&dn=Curso%20de%20JavaScript%20e%20TypeScript%20do%20b%c3%a1sico%20ao%20avan%c3%a7ado%202020&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce'
+tags: ['programacao']
+---
+<h2>Descrição</h2>
+<p>Curso de JavaScript e TypeScript do básico ao avançado – Atualizado para 2020</p><p>Aprenda Javascript moderno (ES6+) para front-end (com Webpack, babel, React, React Hooks e Redux) e back-end (com Node, Express, MySQL e MongoDB) e se torne um(a) desenvolvedor(a) full stack.</p><p>Este curso inclui <strong>JavaScript</strong> e <strong>TypeScript</strong>, você vai aprender ambas as linguagens.</p><p><strong>Fundamentos</strong></p><p>Inicialmente, o aluno aprenderá a utilizar recursos nativos do JavaScript sem a necessidade de utilizar frameworks ou bibliotecas adicionais (Javascript puro, conhecido como Vanilla JS).</p><p><strong>O que você aprenderá</strong><br/> – JavaScript Básico, Funcional e Orientado a Objetos (ES6+)<br/> – NodeJS, Express, MongoDB, Sequelize (Back-end)<br/> – Webpack e Babel (Front-end)<br/> – Sistema de login com session<br/> – Sistema de login com JWT<br/> – Criação de um projeto com arquitetura MVC<br/> – Configuração de um servidor Linux para Deploy (Ubuntu Server)<br/> – Configurações de segurança para o servidor (SSH e TLS – Https)<br/> – Utilização de noSQL com mongoose (MongoDB)<br/> – Utilização de SQL com sequelize (MySQL/MariaDB)<br/> – Criação de API Rest para Back-end com Node + Express + Sequelize<br/> – React JS (Básico)<br/> – React JS (Avançado) com React Hooks + Redux com Redux Saga<br/> – TypeScript – um superset do JavaScript com tipagem estática<br/> – Princípios da programação orientada a objetos<br/> – Princípios S.O.L.I.D<br/> – Testes automatizados com o Jest<br/> – Curso com atualizações para 2020<br/> – Expressões Regulares (Bônus)<br/> – Padrões de projeto – Design Patterns (Bônus)</p><h2>Informações</h2><p><strong>Autor:</strong> Luiz Otávio Miranda<br/> <strong>Gênero:</strong> Programação<br/> <strong>Ano de Lançamento:</strong> 2020<br/> <strong>Formato:</strong> MP4<br/> <strong>Idioma:</strong> Português<br/> <strong>Tamanho:</strong> 36,68 GB<br/> <strong>Servidor:</strong> GDrive / Torrent<br/> <strong>Senha:</strong> ConhecimentoLivre</p>

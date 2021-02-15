@@ -1,10 +1,10 @@
 ---
-title: 'Produtividade para Programadores'
-excerpt: 'Durante o curso você aprenderá:    Como manter uma rotina saudável e 100% produtiva.  Os melhores exercícios para produzir serotonina! E “O que diabos é serotonina?  “Metodologias para melhorar seu desempenho: Pomodoro e muito mais.  A importân'
+title: 'Produtividade Para Programadores'
+excerpt: 'Durante o curso você aprenderá:  Informações   Gênero:  Programação   Ano de Lançamento:  2020   Formato:  MP4   Idioma:  Português   Tamanho:  648 MB   Servidor:</st'
 coverImage: '/assets/blog/posts/produtividade-para-programadores.jpg'
-date: '2021-01-06T03:00:00.000Z'
+date: '2021-01-07T03:00:00.000Z'
 author:
-  name: Joe Haddad
+  name: Download Cursos
   picture: '/assets/blog/authors/joe.jpeg'
 ogImage:
   url: '/assets/blog/posts/produtividade-para-programadores.jpg'
@@ -13,4 +13,4 @@ download:
 tags: ['programacao']
 ---
 <h2>Descrição</h2>
-<p></p><p><strong>Durante o curso você aprenderá:</strong></p><ul><li>Como manter uma rotina saudável e 100% produtiva.</li><li>Os melhores exercícios para produzir serotonina! E “O que diabos é serotonina?</li><li>“Metodologias para melhorar seu desempenho: Pomodoro e muito mais.</li><li>A importância da sensação de bem-estar no seu dia-a-dia como programador.</li><li>Como evitar o isolamento natural da vida de programador.E muito mais!</li></ul><h2>Informações</h2><p>Gênero: Programação<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 648 MB<br/>Servidor: Torrent</p>
+<p><strong>Durante o curso você aprenderá:</strong></p><h2>Informações</h2><p><strong>Gênero:</strong> Programação<br/> <strong>Ano de Lançamento:</strong> 2020<br/> <strong>Formato:</strong> MP4<br/> <strong>Idioma:</strong> Português<br/> <strong>Tamanho:</strong> 648 MB<br/> <strong>Servidor:</strong> Torrent</p>

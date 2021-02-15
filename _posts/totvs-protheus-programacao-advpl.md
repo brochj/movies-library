@@ -1,10 +1,10 @@
 ---
 title: 'TOTVS Protheus: Programação ADVPL'
-excerpt: 'Linha Protheus é o mais completo ERP do mercado com funcionalidades e rotinas que automatizam toda a gestão da sua empresa, seja ela pequena, média ou grande, além de atender aos diversos setores da economia, permitindo mais eficiência e produtividade.  Neste treinamento você aprender'
+excerpt: 'Linha Protheus é o mais completo ERP do mercado com funcionalidades e rotinas que automatizam toda a gestão da sua empresa, seja ela pequena, média ou grande, além de atender aos diversos setores da economia, permitindo mais eficiência e produtividade.  Neste treinamento você aprenderá o des'
 coverImage: '/assets/blog/posts/totvs-protheus-programacao-advpl.jpg'
-date: '2020-09-26T03:00:00.000Z'
+date: '2020-09-27T03:00:00.000Z'
 author:
-  name: Joe Haddad
+  name: Download Cursos
   picture: '/assets/blog/authors/joe.jpeg'
 ogImage:
   url: '/assets/blog/posts/totvs-protheus-programacao-advpl.jpg'
@@ -13,4 +13,4 @@ download:
 tags: ['programacao']
 ---
 <h2>Descrição</h2>
-<p></p><p>Linha Protheus é o mais completo ERP do mercado com funcionalidades e rotinas que automatizam toda a gestão da sua empresa, seja ela pequena, média ou grande, além de atender aos diversos setores da economia, permitindo mais eficiência e produtividade.</p><p>Neste treinamento você aprenderá o desenvolvimento e aplicações da linguagem de programação ADVPL, própria do Protheus;<br/>Utilização de funções e uso de sintaxes da linguagem; Tipos de telas para cadastros; utilização de ferramentas para desenho de interface;<br/>Inicialização a programação orientada a objetos e personalização do sistema de acordo com as necessidades da sua empresa.</p><h2>Informações</h2><p>Gênero: Programação<br/>Ano de Lançamento: 2017<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 21.15 GB<br/>Servidor: Torrent</p>
+<p>Linha Protheus é o mais completo ERP do mercado com funcionalidades e rotinas que automatizam toda a gestão da sua empresa, seja ela pequena, média ou grande, além de atender aos diversos setores da economia, permitindo mais eficiência e produtividade.</p><p>Neste treinamento você aprenderá o desenvolvimento e aplicações da linguagem de programação ADVPL, própria do Protheus;</p><p>Utilização de funções e uso de sintaxes da linguagem; Tipos de telas para cadastros; utilização de ferramentas para desenho de interface;</p><p>Inicialização a programação orientada a objetos e personalização do sistema de acordo com as necessidades da sua empresa.</p><h2>Informações</h2><p><strong>Gênero:</strong> Programação<br/> <strong>Ano de Lançamento:</strong> 2020<br/> <strong>Formato:</strong> MP4<br/> <strong>Idioma:</strong> Português<br/> <strong>Tamanho:</strong> 21,1 GB<br/> <strong>Servidor:</strong> Torrent</p>
