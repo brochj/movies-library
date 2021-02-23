@@ -8,9 +8,10 @@ import Layout from '../../components/layout'
 import TagTitle from '../../components/tag-title'
 import Navbar from '../../components/navbar/navbar'
 import { getAllPostsFromTag, getAllTags } from '../../lib/api'
-import { BLOG_NAME } from '../../lib/constants'
+import { BLOG_NAME, HOME_URL, OG_IMAGES } from '../../lib/constants'
 
 export default function Index({ taggedPosts, tag, tags }) {
+  const capitalizedTag = tag.charAt(0).toUpperCase() + tag.slice(1)
   const router = useRouter()
 	if(router.isFallback) {
 		return <h1>Loading...</h1>
@@ -23,7 +24,14 @@ export default function Index({ taggedPosts, tag, tags }) {
     <>
       <Layout>
         <Head>
-          <title>{tag.charAt(0).toUpperCase() + tag.slice(1)} | {BLOG_NAME}</title>
+          <title>{capitalizedTag} | {BLOG_NAME}</title>
+          <meta name="title" content={`${capitalizedTag} | ${BLOG_NAME}`} key="title" />
+          <meta name="description" content={`Veja os cursos classificados com a tag ${tag}`} key="description" />
+          {/* OPEN GRAPH DATA */}
+          <meta property="og:title" content={`${capitalizedTag} | ${BLOG_NAME}`} key="og:title"/>
+          <meta property="og:description" content={`Veja os cursos classificados com a tag: ${tag}`} key="og:description"/>
+          <meta property="og:image" content={`${OG_IMAGES}/home.png`} key="og:image" />
+          <meta property="og:url" content={`${HOME_URL}/tag/${tag}`} key="og:url" />
         </Head>
         <Navbar tags={tags}/>
         <Container>
