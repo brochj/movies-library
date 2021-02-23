@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { BLOG_NAME, HOME_OG_IMAGE_URL, DESCRIPTION } from '../lib/constants'
+import { BLOG_NAME, HOME_OG_IMAGE_URL, DESCRIPTION, HOME_URL } from '../lib/constants'
 import { GA_TRACKING_ID } from '../lib/gtag'
 
 export default function Meta() {
@@ -57,11 +57,17 @@ export default function Meta() {
       <meta name="msapplication-config" content="/favicon/browserconfig.xml" />
       <meta name="theme-color" content="#000" />
       <link rel="alternate" type="application/rss+xml" href="/feed.xml" />
-      <meta
-        name="description"
-        content={`${BLOG_NAME} | ${DESCRIPTION}`}
-      />
-      <meta property="og:image" content={HOME_OG_IMAGE_URL} />
+
+      <meta name="title" content={BLOG_NAME} key="title" />
+      <meta name="description" content={`${BLOG_NAME} | ${DESCRIPTION}`} key="description" />
+
+      {/* OPEN GRAPH DATA */}
+      <meta property="og:title" content={BLOG_NAME} key="og:title"/>
+      <meta property="og:description" content={DESCRIPTION} key="og:description"/>
+      <meta property="og:type" content="website" key="og:type"/>
+      <meta property="og:image" content={HOME_OG_IMAGE_URL} key="og:image" />
+      <meta property="og:url" content={HOME_URL} key="og:url" />
+      <meta property="og:locale" content="pt_BR" />
     </Head>
   )
 }

@@ -10,7 +10,7 @@ import Layout from '../../components/layout'
 import { getPostBySlug, getAllPosts, getAllTags } from '../../lib/api'
 import PostTitle from '../../components/post-title'
 import Navbar from '../../components/navbar/navbar'
-import { BLOG_NAME } from '../../lib/constants'
+import { BLOG_NAME, HOME_URL } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
 
 export default function Post({ post, morePosts, preview, tags }) {
@@ -32,7 +32,14 @@ export default function Post({ post, morePosts, preview, tags }) {
                 <title>
                   {post.title} | {BLOG_NAME}
                 </title>
-                <meta property="og:image" content={post.ogImage.url} />
+                <meta name="title" content={post.title} key="title" />
+                <meta name="description" content={post.excerpt} key="description" />
+                {/* OPEN GRAPH DATA */}
+                <meta property="og:title" content={post.title} key="og:title"/>
+                <meta property="og:description" content={post.excerpt} key="og:description"/>
+                <meta property="og:type" content="article" key="og:type"/>
+                <meta property="og:image" content={`${HOME_URL}${post.ogImage.url}`} key="og:image" />
+                {/* <meta property="og:url" content={`${HOME_URL}/posts/${post.slug}`} key="og:url" /> */}
               </Head>
               <PostHeader
                 title={post.title}
