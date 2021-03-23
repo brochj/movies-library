@@ -1,6 +1,6 @@
 ---
 title: 'Motibus Animação 2D Cut-Out'
-excerpt: 'Informações  Gênero: Design Formato: MP4 Idioma: Português Tamanho: 4.99 GB Servidor: Torrent'
+excerpt: 'APRENDA ANIMAÇÃO 2D CUTOUT DO ZERO E COM QUEM FAZ NA PRÁTICA!  Se você quer aprender a animar 2D com a técnica mais utilizada da indústria atualmente, você chegou ao lugar certo! Neste animado curso, Alisson vai te ensinar do mais básico e o mais útil no processo de desenvolviment'
 coverImage: '/assets/blog/posts/motibus-animacao-2d-cut-out.jpg'
 date: '2021-03-13T03:00:00.000Z'
 author:
@@ -13,4 +13,4 @@ download:
 tags: ['design']
 ---
 <h2>Descrição</h2>
-<h2>Informações</h2><p>Gênero: Design<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 4.99 GB<br/>Servidor: Torrent</p>
+<p></p><p>APRENDA ANIMAÇÃO 2D CUTOUT DO ZERO<br/>E COM QUEM FAZ NA PRÁTICA!</p><p>Se você quer aprender a animar 2D com a técnica mais utilizada da indústria atualmente, você chegou ao lugar certo! Neste animado curso, Alisson vai te ensinar do mais básico e o mais útil no processo de desenvolvimento de uma animação, focando em personagens.</p><p>Você não precisa saber desenhar e nem animar para fazer esse curso – só precisa ter um grande ímpeto de aprender e bastante paciência – animação dá um trabalho que não é brincadeira!</p><h2>Informações</h2><p>Gênero: Design<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 4.99 GB<br/>Servidor: Torrent</p>

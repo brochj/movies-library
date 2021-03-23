@@ -1,6 +1,6 @@
 ---
 title: 'Fotografia Fine Art e Produção'
-excerpt: 'Informações  Gênero: Fotografia Formato: MP4 Idioma: Português Tamanho: 4.82 GB Servidor: Torrent'
+excerpt: 'Uma boa produção pode transformar uma foto em uma obra de arte. Neste curso de produção para fotografia, o fará por meio do fine art.  Uma produção de fine art não é completa sem um conceito. Os recursos, modelo, cenário e direção dependem disso.   Neste curso de fotografia vai t'
 coverImage: '/assets/blog/posts/fotografia-fine-art-e-producao.jpg'
 date: '2021-03-14T03:00:00.000Z'
 author:
@@ -13,4 +13,4 @@ download:
 tags: ['fotografia']
 ---
 <h2>Descrição</h2>
-<h2>Informações</h2><p>Gênero: Fotografia<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 4.82 GB<br/>Servidor: Torrent</p>
+<p></p><p>Uma boa produção pode transformar uma foto em uma obra de arte. Neste curso de produção para fotografia, o fará por meio do fine art.</p><p>Uma produção de fine art não é completa sem um conceito. Os recursos, modelo, cenário e direção dependem disso. </p><p>Neste curso de fotografia vai ter um papel ativo na produção, estará envolvido do início ao fim em sua sessão de fotos e poderá responder a qualquer desafio criativo.</p><h2>Informações</h2><p>Gênero: Fotografia<br/>Formato: MP4<br/>Idioma: Português<br/>Tamanho: 4.82 GB<br/>Servidor: Torrent</p>
