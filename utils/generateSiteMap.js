@@ -27,7 +27,7 @@ async function generateSiteMap() {
         const route = path === '/index' ? '' : path
         return `
   <url>
-    <loc>${`https://download-cursos.vercel.app/${route}`}</loc>
+    <loc>${`https://download-filmes.vercel.app/${route}`}</loc>
     <lastmod>${time}</lastmod>
   </url>
             `
