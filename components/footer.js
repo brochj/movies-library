@@ -4,7 +4,7 @@ import { BLOG_NAME } from '../lib/constants'
 
 export default function Footer() {
   return (
-    <footer className="bg-accent-1 border-t border-accent-2 dark:bg-gray-800 dark:border-gray-600">
+    <footer className="bg-gray-500 border-t border-gray-200 dark:bg-gray-800 dark:border-gray-600">
       <Container>
         <div className="py-16 flex flex-col lg:flex-row items-center">
           <div className="lg:w-1/2 lg:flex lg:justify-center">

@@ -4,14 +4,75 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        'accent-1': '#FAFAFA',
-        'accent-2': '#EAEAEA',
-        'accent-7': '#333',
+      
+        'primary': '#EF444C',
+        'secondary': '#f9a825',
+        'background': '#FFFFFF',
+        'surface': '#DBDBDB',
+        'error': '#cf6679',
+
+        'onPrimary': '#000000',
+        'onSecondary': '#000000',
+        'onBackground': '#FFFFFF',
+        'onSurface': '#FFFFFF',
+        'onError': '#000000',
         success: '#0070f3',
-        cyan: '#79FFE1',
-        gray: {
-          top: '#c0ccda'
-        }
+
+        'primary': {
+          default: '#EF444C',
+          '50': '#FDEDEE',
+          '100': '#FCDADC',
+          '200': '#F9B5B8',
+          '300': '#F58F94',
+          '400': '#F26A70',
+          '500': '#EF444C',
+          '600': '#ED2831',
+          '700': '#E2131D',
+          '800': '#C61119',
+          '900': '#AA0F16'
+        },
+
+        'secondary': {
+          default: '#F9A825',
+          '50': '#FEEFD8',
+          '100': '#FDE7C4',
+          '200': '#FCD89C',
+          '300': '#FBC874',
+          '400': '#FAB84D',
+          '500': '#F9A825',
+          '600': '#E08D06',
+          '700': '#A96A05',
+          '800': '#734803',
+          '900': '#3C2602'
+        },
+
+        'dark': {
+
+          'primary': '#EF444C',
+          'secondary': '#f9a825',
+          'background': '#121212',
+          'surface': '#121212',
+          'error': '#cf6679',
+  
+          'onPrimary': '#FFFFFF',
+          'onSecondary': '#FFFFFF',
+          'onBackground': '#000000',
+          'onSurface': '#000000',
+          'onError': '#FFFFFF',
+          primary: {
+            default: '#EF444C',
+            '50': '#FDEDEE',
+            '100': '#FCDADC',
+            '200': '#F9B5B8',
+            '300': '#F58F94',
+            '400': '#F26A70',
+            '500': '#EF444C',
+            '600': '#ED2831',
+            '700': '#E2131D',
+            '800': '#C61119',
+            '900': '#AA0F16'
+          },
+        },
       },
       spacing: {
         28: '7rem',

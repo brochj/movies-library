@@ -5,24 +5,22 @@ import Intro from '../components/intro'
 import Layout from '../components/layout'
 import Navbar from '../components/navbar/navbar'
 import Pagination from '../components/pagination'
-import { getAllPosts, getAllTags } from '../lib/api'
+import { getAllMovies } from '../lib/movies'
 import { config } from '../lib/config'
 import Head from 'next/head'
 import { BLOG_NAME } from '../lib/constants'
 
-export default function Index({ allPosts, tags, pagination }) {
-  const heroPost = allPosts[0]
-  const morePosts = allPosts.slice(1)
+export default function Index({ allMovies, tags, pagination }) {
   return (
     <>
       <Layout>
         <Head>
           <title>{BLOG_NAME}</title>
         </Head>
-        <Navbar tags={tags}/>
+        {/* <Navbar tags={tags}/> */}
         <Container>
           <Intro />
-          {heroPost && (
+          {/* {heroPost && (
             <HeroPost
             title={heroPost.title}
             coverImage={heroPost.coverImage}
@@ -31,8 +29,8 @@ export default function Index({ allPosts, tags, pagination }) {
             slug={heroPost.slug}
             excerpt={heroPost.excerpt}
             />
-            )}
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+            )} */}
+          {allMovies.length > 0 && <MoreStories movies={allMovies} />}
           <Pagination 
             current={pagination.current}
             pages={pagination.pages}
@@ -48,25 +46,28 @@ export default function Index({ allPosts, tags, pagination }) {
 }
 
 export async function getStaticProps() {
-  const tags = getAllTags()
-  const allPosts = getAllPosts([
+  // const tags = getAllTags()
+  // console.log('allMovies');
+  const allMovies = getAllMovies([
     'title',
     'date',
+    'synopsis',
+    'quality',
+    'audio',
+    'images',
+    'genre',
+    'tags',
     'slug',
-    'author',
-    'coverImage',
-    'excerpt',
-    'tags'
   ])
   const pagination = {
     current: 1,
-    pages: Math.ceil(allPosts.length / config.posts_per_page),
+    pages: Math.ceil(allMovies.length / config.posts_per_page),
   };
 
   return {
     props: { 
-      allPosts: allPosts.slice(0, config.posts_per_page),
-      tags,
+      allMovies: allMovies.slice(0, config.posts_per_page),
+      // tags,
       pagination
     },
   }

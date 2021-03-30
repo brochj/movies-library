@@ -1,43 +1,44 @@
 ---
 ############### General Info ############################
-id: ''
-type: '' # Filme, Série, Anime
-title: ''
-synopsis: ['']
-originalTitle: ''
+id: '21321312sdffsf'
+type: 'movie' # Filme, Série, Anime
+title: 'Matrix'
+synopsis: ['Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.']
+originalTitle: 'The Matrix'
 date: '2021-01-17T03:00:00.000Z'
 update: '2021-01-17T03:00:00.000Z'
-releaseDate: '2021-01-17T03:00:00.000Z'
+releaseDate: '1999-01-17T03:00:00.000Z'
 imdb:
-  - rating: '' # 8.5
-  - id: '' # tt0470752
-duration: ''
+  - rating: '8.7' # 8.5
+  - id: 'tt0133093' # tt0470752
+duration: '123'
 trailer:
   urls: [
-    '',
+    'm8e-FF8MsqU',
   ]
-genre: [''] #  
+tags: ['1080p', '720p']
+genre: ['Sci-Fi, Action'] #  
 quality: '' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: '' # MKV, MP4, TS
-audio: '' # Português, Inglês, 
+audio: '' # Dublado, Legendado, Dual Audio
 subtitle: '' # Português, inglês, 
 size: '' # 4.8 GB
 audioQuality: 10
 videoQuality: 10
 directors: 
-  - name: ''
+  - name: 'Lana Wachowski'
     image: ''
-    characterName: ''
+  - name: 'Lilly Wachowski'
+    image: ''
 cast: 
-  - name: ''
+  - name: 'Keanu Reeves'
     image: ''
-    characterName: ''
+    characterName: 'Neo'
 writers: 
   - name: ''
     image: ''
-    characterName: ''
 maturityRating:
-  age: '' # L , 10, 12, 14, 16, 18
+  age: '14' # L , 10, 12, 14, 16, 18
   topics: [''] # Violence, Illegal drugs, Inappropriate Language, Legal Drugs, Sexual Content, Extreme Violence
 ###########################################
 download:
@@ -48,8 +49,8 @@ download:
     quality: '' # BluRay, WEB-DL
     format: '' # MKV
 images:
-  cover: 'assets/'
-  background: 'assets/'
+  cover: '/assets/movies/matrix/cover-matrix.jpg'
+  background: '/assets/'
 ###########################################
 
 
