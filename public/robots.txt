@@ -1,1 +1,1 @@
-Sitemap: https://download-cursos.vercel.app/sitemap.xml
+Sitemap: https://download-filmes.vercel.app/sitemap.xml
