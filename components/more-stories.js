@@ -3,7 +3,13 @@ import MovieCard from '../components/movie/movie-card'
 export default function MoreStories({ movies }) {
   return (
     <section>
-      <div className="mb-14 grid grid-cols-1 gap-y-14 md:grid-cols-2 md:gap-x-10 lg:grid-cols-3 lg:gap-x-10 2xl:grid-cols-4 2xl:gap-x-10">
+      <div className="mb-14 grid 
+      grid-cols-2 gap-x-3 gap-y-11 
+      sm:grid-cols-3 sm:gap-x-5 
+      md:grid-cols-4 md:gap-x-5 
+      lg:grid-cols-5 lg:gap-x-5 
+      2xl:grid-cols-6 2xl:gap-x-5">
+
         {movies.map((movie) => (
           <MovieCard
             key={movie.slug}

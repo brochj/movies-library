@@ -1,50 +1,52 @@
-import DateFormatter from '../../components/date-formatter'
-import Tag from "../../components/tag";
+// import DateFormatter from '../../components/date-formatter'
+// import Tag from "../../components/tag";
 import CoverImage from '../../components/cover-image'
 import Link from 'next/link'
 
 export default function MovieCard({
   title,
-  date,
-  synopsis,
-  quality,
-  audio,
+  // date,
+  // synopsis,
+  // quality,
+  // audio,
   images,
-  genre,
-  tags,
+  // genre,
+  // tags,
   slug,
 }) {
   return (
-    <div className="dark:bg-gray-700 pb-3 rounded-md hover:shadow-xl">
-      <div className="mb-5">
+    <div className="bg-surface dark:bg-dark-surface rounded-md hover:shadow-xl">
+      <div className="relative">
         <CoverImage
           slug={slug}
           title={title}
           src={images.cover}
-          height={300}
-          width={210}
+          height={200}
+          width={140}
         />
+      
+      <div className="flex absolute top-0 left-0 ">
+        <p className="px-3 py-1 mr-1 text-onPrimary dark:text-dark-onPrimary bg-primary-700 rounded-lg text-sm font-bold leading-snug tracking-wide">
+          Dublado
+        </p>
+        <p className="px-3 py-1 text-onPrimary dark:text-dark-onPrimary bg-primary-700 rounded-lg text-sm font-bold leading-snug tracking-wide">
+          1999
+        </p>
       </div>
-      <div className="px-3">
-        <h3 className="text-onSecondary dark:text-dark-onSecondary text-3xl mb-3 leading-snug">
+      <div className="px-2 flex absolute bottom-0 right-0 bg-uniques-imdb rounded-md">
+        <p className="mr-2 text-onSecondary dark:text-dark-black  text-md sm:text-sm font-extrabold leading-normal tracking-tighter">
+          IMDb
+        </p>
+        <p className="text-onSecondary dark:text-dark-black text-md sm:text-sm font-bold tracking-wide">
+          8.9
+        </p>
+      </div>      
+      </div>
+      <p className="ml-3 my-2 text-onSecondary dark:text-dark-onSecondary text-lg leading-snug">
           <Link as={`/posts/${slug}`} href="/posts/[slug]">
-            <a className="hover:no-underline">{title}</a>
+            <a className="hover:no-underline">{title.length > 25 ? title.substr(0, 25)+'...' : title}</a>
           </Link>
-        </h3>
-        {/* <p className="text-onSecondary dark:text-dark-onSecondary text-justify text-lg leading-relaxed mb-4">
-          {synopsis.length > 250 ? synopsis.substr(0, 250)+'...' : synopsis}
-        </p> */}
-        <div className="flex flex-wrap">
-          {tags.length > 0 && (
-                  tags.map((tag)=> (
-                    <div key={tag} className="mb-2 mr-2">
-                    <Tag tag={tag}/>
-                    </div>
-                    ))
-                  )
-                }
-        </div>
-      </div>
+        </p>
     </div>
   )
 }
