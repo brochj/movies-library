@@ -10,6 +10,8 @@ import PostTitle from '../components/post-title'
 import Navbar from '../components/navbar/navbar'
 import { BLOG_NAME, HOME_URL } from '../lib/constants'
 import markdownToHtml from '../lib/markdownToHtml'
+import FileInfo from '../components/movie/file-info'
+import MovieInfo from '../components/movie/movie-info'
 
 export default function Post({ movie, preview, tags }) {
   const router = useRouter()
@@ -39,7 +41,26 @@ export default function Post({ movie, preview, tags }) {
                 <meta property="og:image" content={`${HOME_URL}${movie.images.cover}`} key="og:image" />
                 {/* <meta property="og:url" content={`${HOME_URL}/movies/${movie.slug}`} key="og:url" /> */}
               </Head>
-
+              <FileInfo 
+                quality={movie.quality}
+                format={movie.format}
+                audio={movie.audio}
+                subtitle={movie.subtitle}
+                size={movie.size}
+                audioQuality={movie.audioQuality}
+                videoQuality={movie.videoQuality}
+              />
+              <MovieInfo 
+                title={movie.title}
+                synopsis={movie.synopsis}
+                originalTitle={movie.originalTitle}
+                releaseDate={movie.releaseDate}
+                imdb={movie.imdb}
+                duration={movie.duration}
+                trailer={movie.trailer}
+                tags={movie.tags}
+                genre={movie.genre}
+              />
             </article>
           </>
         )}
