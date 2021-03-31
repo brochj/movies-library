@@ -2,15 +2,15 @@
 ############### General Info ############################
 id: '21321312sdffsf'
 type: 'movie' # Filme, Série, Anime
-title: 'Matrix'
+title: 'The Matrix: O retorno Parte 2 agora vai '
 synopsis: ['Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity (Carrie-Anne Moss), a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.']
 originalTitle: 'The Matrix'
-date: '2021-01-17T03:00:00.000Z'
+date: '2021-03-17T03:00:00.000Z'
 update: '2021-01-17T03:00:00.000Z'
 releaseDate: '1999-01-17T03:00:00.000Z'
 imdb:
-  - rating: '8.7' # 8.5
-  - id: 'tt0133093' # tt0470752
+  rating: '8.7' # 8.5
+  id: 'tt0133093' # tt0470752
 duration: '123'
 trailer:
   urls: [
@@ -20,7 +20,7 @@ tags: ['1080p', '720p']
 genre: ['Sci-Fi, Action'] #  
 quality: '' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: '' # MKV, MP4, TS
-audio: '' # Dublado, Legendado, Dual Audio
+audio: 'Legendado' # Dublado, Legendado, Dual Audio, Dub & Leg
 subtitle: '' # Português, inglês, 
 size: '' # 4.8 GB
 audioQuality: 10

@@ -18,6 +18,8 @@ export default function MoreStories({ movies }) {
             date={movie.date}
             genre={movie.genre}
             images={movie.images}
+            imdb={movie.imdb}
+            releaseDate={movie.releaseDate}
             quality={movie.quality}
             slug={movie.slug}
             synopsis={movie.synopsis}
