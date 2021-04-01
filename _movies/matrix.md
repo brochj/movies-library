@@ -7,7 +7,7 @@ synopsis: ['Neo (Keanu Reeves) believes that Morpheus (Laurence Fishburne), an e
 originalTitle: 'The Matrix'
 date: '2021-03-17T03:00:00.000Z'
 update: '2021-01-17T03:00:00.000Z'
-releaseDate: '1999-01-17T03:00:00.000Z'
+releaseDate: '2021-03-03T03:00:00.000Z'
 imdb:
   rating: '8.7' # 8.5
   id: 'tt0133093' # tt0470752
@@ -18,11 +18,11 @@ trailer:
   ]
 tags: ['1080p', '720p']
 genre: ['Sci-Fi, Action'] #  
-quality: '' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
-format: '' # MKV, MP4, TS
+quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
+format: 'MKV' # MKV, MP4, TS
 audio: 'Dub & Leg' # Dublado, Legendado, Dual Audio, Dub & Leg
-subtitle: '' # Português, inglês, 
-size: '' # 4.8 GB
+subtitle: 'inglês' # Português, inglês, 
+size: '4.8 GB' # 4.8 GB
 audioQuality: 10
 videoQuality: 10
 directors: 

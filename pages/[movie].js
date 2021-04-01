@@ -1,6 +1,8 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Head from 'next/head'
+import AccessTimeIcon from '@material-ui/icons/AccessTime';
+
 import Container from '../components/container'
 import Header from '../components/header'
 import Layout from '../components/layout'
@@ -12,6 +14,8 @@ import { BLOG_NAME, HOME_URL } from '../lib/constants'
 import markdownToHtml from '../lib/markdownToHtml'
 import FileInfo from '../components/movie/file-info'
 import MovieInfo from '../components/movie/movie-info'
+import MovieCover from '../components/movie/movie-cover'
+import ImdbTag from '../components/imdb-tag'
 
 export default function Post({ movie, preview, tags }) {
   const router = useRouter()
@@ -41,6 +45,23 @@ export default function Post({ movie, preview, tags }) {
                 <meta property="og:image" content={`${HOME_URL}${movie.images.cover}`} key="og:image" />
                 {/* <meta property="og:url" content={`${HOME_URL}/movies/${movie.slug}`} key="og:url" /> */}
               </Head>
+              <h1 className="mb-6 font-bold text-2xl lg:text-3xl xl:text-4xl dark:text-dark-onPrimary">{movie.title}</h1>
+
+              <AccessTimeIcon style={{color: '#F1F1F1', height: '15px', width: '15px'}} />
+              <div className="flex flex-col items-center md:flex-row">
+                <MovieCover title={movie.title} src={movie.images.cover}/>
+                <MovieInfo 
+                  title={movie.title}
+                  synopsis={movie.synopsis}
+                  originalTitle={movie.originalTitle}
+                  releaseDate={movie.releaseDate}
+                  imdb={movie.imdb}
+                  duration={movie.duration}
+                  trailer={movie.trailer}
+                  tags={movie.tags}
+                  genre={movie.genre}
+                />
+              </div>
               <FileInfo 
                 quality={movie.quality}
                 format={movie.format}
@@ -50,17 +71,8 @@ export default function Post({ movie, preview, tags }) {
                 audioQuality={movie.audioQuality}
                 videoQuality={movie.videoQuality}
               />
-              <MovieInfo 
-                title={movie.title}
-                synopsis={movie.synopsis}
-                originalTitle={movie.originalTitle}
-                releaseDate={movie.releaseDate}
-                imdb={movie.imdb}
-                duration={movie.duration}
-                trailer={movie.trailer}
-                tags={movie.tags}
-                genre={movie.genre}
-              />
+              <ImdbTag imdb={movie.imdb} />
+              
             </article>
           </>
         )}

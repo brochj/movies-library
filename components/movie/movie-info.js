@@ -1,3 +1,10 @@
+import { dateFormat } from '../../utils/date-formatter'
+import VideocamIcon from '@material-ui/icons/Videocam';
+import AccessTimeIcon from '@material-ui/icons/AccessTime';
+import StarIcon from '@material-ui/icons/Star';
+import DateRangeIcon from '@material-ui/icons/DateRange';
+
+
 export default function MovieInfo({
   title,
   synopsis,
@@ -9,14 +16,37 @@ export default function MovieInfo({
   tags,
   genre,
 }) {
+
+  function Item({ label, value, children }) {
+    return (
+      <div className="flex mb-1 mx-3">
+        {children}
+        <p className="pl-2 font-bold dark:text-dark-onPrimary">
+          <span className="font-normal dark:text-gray-300">
+            {label}
+          </span>
+          {value}
+        </p>
+
+      </div>
+    )
+  }
+
   return (
-    <div>
-      <p className="font-bold dark:text-dark-onPrimary"><span className="font-normal dark:text-dark-onPrimary"></span>{title}</p>
-      <p className="font-bold dark:text-dark-onPrimary"><span className="font-normal dark:text-dark-onPrimary">Título Original: </span>{originalTitle}</p>
-      <p className="font-bold dark:text-dark-onPrimary"><span className="font-normal dark:text-dark-onPrimary">Data de Lançamento: </span>{releaseDate}</p>
-      <p className="font-bold dark:text-dark-onPrimary"><span className="font-normal dark:text-dark-onPrimary">IMDb: </span>{imdb.rating}</p>
-      <p className="font-bold dark:text-dark-onPrimary"><span className="font-normal dark:text-dark-onPrimary">Duração: </span>{duration}</p>
-      <p className="font-bold dark:text-dark-onPrimary"><span className="font-normal dark:text-dark-onPrimary"></span>{synopsis}</p>
+    <div className="mt-5 md:ml-6">
+      <Item label={'Título Original: '} value={originalTitle} >
+        <VideocamIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+      </Item>
+      <Item label={'Lançamento: '} value={dateFormat(releaseDate)}>
+        <DateRangeIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+      </Item>
+      <Item label={'IMDb: '} value={imdb.rating}>
+        <StarIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+      </Item>
+      <Item label={'Duração: '} value={duration}>
+        <AccessTimeIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+      </Item>
+      <p className="py-5 dark:text-dark-onPrimary tracking-wide">{synopsis}</p>
     </div>
   )
 }
