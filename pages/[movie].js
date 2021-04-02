@@ -16,6 +16,7 @@ import FileInfo from '../components/movie/file-info'
 import MovieInfo from '../components/movie/movie-info'
 import MovieCover from '../components/movie/movie-cover'
 import ImdbTag from '../components/imdb-tag'
+import TrailerModal from '../components/movie/trailer-modal'
 
 export default function Post({ movie, preview, tags }) {
   const router = useRouter()
@@ -47,10 +48,13 @@ export default function Post({ movie, preview, tags }) {
               </Head>
               <h1 className="mb-6 font-bold text-2xl lg:text-3xl xl:text-4xl dark:text-dark-onPrimary">{movie.title}</h1>
 
-              <AccessTimeIcon style={{color: '#F1F1F1', height: '15px', width: '15px'}} />
-              <div className="flex flex-col items-center md:flex-row">
-                <MovieCover title={movie.title} src={movie.images.cover}/>
+              <div className="my-3 flex flex-col items-center md:flex-row">
+                <div className="md:">
+                  <MovieCover title={movie.title} src={movie.images.cover}/>
+                  <TrailerModal videoId={movie.trailer.urls[0]}/>
+                </div>
                 <MovieInfo 
+                  className="mt-5 md:ml-6 md:w-2/3" 
                   title={movie.title}
                   synopsis={movie.synopsis}
                   originalTitle={movie.originalTitle}
@@ -71,7 +75,8 @@ export default function Post({ movie, preview, tags }) {
                 audioQuality={movie.audioQuality}
                 videoQuality={movie.videoQuality}
               />
-              <ImdbTag imdb={movie.imdb} />
+
+              {/* <ImdbTag imdb={movie.imdb} /> */}
               
             </article>
           </>

@@ -15,6 +15,7 @@ export default function MovieInfo({
   trailer,
   tags,
   genre,
+  ...props
 }) {
 
   function Item({ label, value, children }) {
@@ -33,7 +34,7 @@ export default function MovieInfo({
   }
 
   return (
-    <div className="mt-5 md:ml-6">
+    <div {...props}>
       <Item label={'Título Original: '} value={originalTitle} >
         <VideocamIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
       </Item>
