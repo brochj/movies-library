@@ -17,6 +17,8 @@ import MovieInfo from '../components/movie/movie-info'
 import MovieCover from '../components/movie/movie-cover'
 import ImdbTag from '../components/imdb-tag'
 import TrailerModal from '../components/movie/trailer-modal'
+import DownloadMovie from '../components/movie/download-movie'
+
 
 export default function Post({ movie, preview, tags }) {
   const router = useRouter()
@@ -67,6 +69,7 @@ export default function Post({ movie, preview, tags }) {
                 />
               </div>
               <FileInfo 
+                className="md:flex md:flex-col md:justify-center md:items-center"
                 quality={movie.quality}
                 format={movie.format}
                 audio={movie.audio}
@@ -75,7 +78,7 @@ export default function Post({ movie, preview, tags }) {
                 audioQuality={movie.audioQuality}
                 videoQuality={movie.videoQuality}
               />
-
+              <DownloadMovie download={movie.download}/>
               {/* <ImdbTag imdb={movie.imdb} /> */}
               
             </article>

@@ -42,12 +42,30 @@ maturityRating:
   topics: [''] # Violence, Illegal drugs, Inappropriate Language, Legal Drugs, Sexual Content, Extreme Violence
 ###########################################
 download:
-  - url: ''
+  - url: '500'
     resolution: '720p' # 720p, 1080p, 4K,
-    audio: '' # Dublado, Legendado, Dual Audio
-    size: '' # 4.8 GB
-    quality: '' # BluRay, WEB-DL
-    format: '' # MKV
+    audio: 'Dublado' # Dublado, Legendado, Dual Audio
+    size: '4.8 GB' # 4.8 GB
+    quality: 'BluRay' # BluRay, WEB-DL
+    format: 'MKV' # MKV
+  - url: '501'
+    resolution: '1080p' # 720p, 1080p, 4K,
+    audio: 'Dual Audio' # Dublado, Legendado, Dual Audio
+    size: '4.8 GB' # 4.8 GB
+    quality: 'BluRay' # BluRay, WEB-DL
+    format: 'MKV' # MKV
+  - url: '502'
+    resolution: '4k' # 720p, 1080p, 4K,
+    audio: 'Legendado' # Dublado, Legendado, Dual Audio
+    size: '7.8 GB' # 4.8 GB
+    quality: 'BluRay' # BluRay, WEB-DL
+    format: 'MKV' # MKV
+  - url: '503'
+    resolution: '1080p' # 720p, 1080p, 4K,
+    audio: 'Dublado' # Dublado, Legendado, Dual Audio
+    size: '1.8 GB' # 4.8 GB
+    quality: 'WEB-DL' # BluRay, WEB-DL
+    format: 'MP4' # MKV
 images:
   cover: '/assets/movies/matrix/cover-matrix.jpg'
   background: '/assets/'

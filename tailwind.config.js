@@ -52,8 +52,8 @@ module.exports = {
   
           'onPrimary': '#FFFFFF',
           'onSecondary': '#FFFFFF',
-          'onBackground': '#000000',
-          'onSurface': '#000000',
+          'onBackground': '#FFFFFF',
+          'onSurface': '#FFFFFF',
           'onError': '#FFFFFF',
           primary: {
             DEFAULT: '#EF444C',

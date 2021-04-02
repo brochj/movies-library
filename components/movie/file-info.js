@@ -14,6 +14,7 @@ export default function FileInfo({
   size,
   audioQuality,
   videoQuality,
+  ...props
  }) {
 
   function Item({ label, value, children }) {
@@ -32,28 +33,30 @@ export default function FileInfo({
   }
 
   return(
-    <div>
-      <Item label={'Qualidade: '} value={quality} >
-        <EqualizerIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
-      </Item>
-      <Item label={'Formato: '} value={format} >
-        <InfoIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
-      </Item>
-      <Item label={'Áudio: '} value={audio} >
-        <SpeakerIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
-      </Item>
-      <Item label={'Legenda: '} value={subtitle} >
-        <SubtitlesIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
-      </Item>
-      <Item label={'Tamanho: '} value={size} >
-        <StorageIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
-      </Item>
-      <Item label={'Qualidade de Áudio: '} value={audioQuality} >
-        <GraphicEqIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
-      </Item>
-      <Item label={'Qualidade de Video: '} value={videoQuality} >
-        <PersonalVideoIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
-      </Item>
+    <div {...props}>
+      <div>
+        <Item label={'Qualidade: '} value={quality} >
+          <EqualizerIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+        </Item>
+        <Item label={'Formato: '} value={format} >
+          <InfoIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+        </Item>
+        <Item label={'Áudio: '} value={audio} >
+          <SpeakerIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+        </Item>
+        <Item label={'Legenda: '} value={subtitle} >
+          <SubtitlesIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+        </Item>
+        <Item label={'Tamanho: '} value={size} >
+          <StorageIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+        </Item>
+        <Item label={'Qualidade de Áudio: '} value={audioQuality} >
+          <GraphicEqIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+        </Item>
+        <Item label={'Qualidade de Video: '} value={videoQuality} >
+          <PersonalVideoIcon fontSize="small" style={{color: '#EF444C', marginTop: '1px'}}/>
+        </Item>
+      </div>
     </div>
   )
 }
