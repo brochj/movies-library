@@ -10,8 +10,10 @@ async function generateSiteMap() {
     '!pages/**/[slug].js',
     '!pages/**/[tag].js',
     '!pages/**/[page].js',
+    '!pages/**/[movie].js',
+    '!pages/[movie].js',
     '!pages/api',
-    '_posts/*.md'
+    '_movies/*.md',
   ])
 
   const sitemap = 
@@ -20,7 +22,8 @@ async function generateSiteMap() {
     ${pages
       .map(page => {
         const path = page
-          .replace('_posts', 'posts')
+          .replace('_movies/', '')
+          .replace('/filmes/index', 'filmes')
           .replace('pages', '')
           .replace('.js', '')
           .replace('.md', '')
