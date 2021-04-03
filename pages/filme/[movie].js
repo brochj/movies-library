@@ -1,21 +1,26 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Head from 'next/head'
+import AccessTimeIcon from '@material-ui/icons/AccessTime';
+
 import Container from '../../components/container'
-import PostBody from '../../components/post-body'
 import Header from '../../components/header'
-import PostHeader from '../../components/post-header'
-import DownloadButton from '../../components/download-button'
 import Layout from '../../components/layout'
 // import { getPostBySlug, getAllPosts, getAllTags } from '../../lib/api'
 import { getAllMovies, getMovieBySlug } from '../../lib/movies'
 import PostTitle from '../../components/post-title'
-// import Navbar from '../../components/navbar/navbar'
+import Navbar from '../../components/navbar/navbar'
 import { BLOG_NAME, HOME_URL } from '../../lib/constants'
 import markdownToHtml from '../../lib/markdownToHtml'
+import FileInfo from '../../components/movie/file-info'
+import MovieInfo from '../../components/movie/movie-info'
+import MovieCover from '../../components/movie/movie-cover'
+import ImdbTag from '../../components/imdb-tag'
+import TrailerModal from '../../components/movie/trailer-modal'
+import DownloadMovie from '../../components/movie/download-movie'
+
 
 export default function Post({ movie, preview, tags }) {
-  console.log('ENTRO NO COMPONENTE\n\n\n');
   const router = useRouter()
   if (!router.isFallback && !movie?.slug) {
     return <ErrorPage statusCode={404} />
@@ -43,15 +48,39 @@ export default function Post({ movie, preview, tags }) {
                 <meta property="og:image" content={`${HOME_URL}${movie.images.cover}`} key="og:image" />
                 {/* <meta property="og:url" content={`${HOME_URL}/movies/${movie.slug}`} key="og:url" /> */}
               </Head>
-              {/* <PostHeader
-                title={movie.title}
-                coverImage={movie.images.cover}
-                date={movie.date}
-                author={movie.title}
-                // tags={movie.tags}
-              /> */}
-              {/* <PostBody content={movie.content} />
-              <DownloadButton url={movie.download.url} /> */}
+              <h1 className="mb-6 font-bold text-2xl lg:text-3xl xl:text-4xl dark:text-dark-onPrimary">{movie.title}</h1>
+
+              <div className="my-3 flex flex-col items-center md:flex-row">
+                <div className="md:">
+                  <MovieCover title={movie.title} src={movie.images.cover}/>
+                  <TrailerModal videoId={movie.trailer.urls[0]}/>
+                </div>
+                <MovieInfo 
+                  className="mt-5 md:ml-6 md:w-2/3" 
+                  title={movie.title}
+                  synopsis={movie.synopsis}
+                  originalTitle={movie.originalTitle}
+                  releaseDate={movie.releaseDate}
+                  imdb={movie.imdb}
+                  duration={movie.duration}
+                  trailer={movie.trailer}
+                  tags={movie.tags}
+                  genre={movie.genre}
+                />
+              </div>
+              <FileInfo 
+                className="md:flex md:flex-col md:justify-center md:items-center"
+                quality={movie.quality}
+                format={movie.format}
+                audio={movie.audio}
+                subtitle={movie.subtitle}
+                size={movie.size}
+                audioQuality={movie.audioQuality}
+                videoQuality={movie.videoQuality}
+              />
+              <DownloadMovie download={movie.download}/>
+              {/* <ImdbTag imdb={movie.imdb} /> */}
+              
             </article>
           </>
         )}
@@ -61,9 +90,8 @@ export default function Post({ movie, preview, tags }) {
 }
 
 export async function getStaticProps({ params }) {
-  console.log('getStaticProps ENTROOOOOOOOOOOOOOOOOOO');
   // const tags = getAllTags()
-  console.log(params);
+
   const movie = getMovieBySlug(params.movie, [
     'id',
     'type',
@@ -108,9 +136,7 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  console.log('ENTRO NO getStaticPaths');
   const posts = getAllMovies(['slug'])
-  console.log(posts);
 
   return {
     paths: posts.map((post) => {
