@@ -18,7 +18,7 @@ export default function CoverCard({ title, src, slug, height, width }) {
   return (
     <div className="sm:mx-0">
       {slug ? (
-        <Link as={`/${slug}`} href="/[movie]">
+        <Link as={`/filme/${slug}`} href="/filme/[movie]">
           <a aria-label={title}>{image}</a>
         </Link>
       ) : (

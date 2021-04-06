@@ -25,8 +25,8 @@ export default function Index({ allMovies, tags, pagination }) {
             current={pagination.current}
             pages={pagination.pages}
             link={{
-              href: (page) => (page === 1 ? "/" : "/posts/page/" + page),
-              as: (page) => (page === 1 ? null : "/posts/page/" + page),
+              href: (page) => (page === 1 ? "/" : "/filmes/page/" + page),
+              as: (page) => (page === 1 ? null : "/filmes/page/" + page),
             }}
           />
         </Container>

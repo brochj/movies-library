@@ -45,7 +45,7 @@ export default function MovieCard({
       </div>      
       </div>
       <p className="ml-3 my-2 text-onSecondary dark:text-dark-onSecondary text-lg leading-snug">
-          <Link as={`/posts/${slug}`} href="/posts/[slug]">
+          <Link as={`/filme/${slug}`} href="/filme/[slug]">
             <a className="hover:no-underline">{title.length > 25 ? title.substr(0, 25)+'...' : title}</a>
           </Link>
         </p>
