@@ -15,68 +15,93 @@ export default function Footer() {
                     </h2>
                     <ul>
                         <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
+                            <a href="/filmes/genero/acao">
                                 Ação
                             </a>
                         </li>
                         <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
+                            <a href="/filmes/genero/animacao">
+                                Animação
+                            </a>
+                        </li>
+                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
+                            <a href="/filmes/genero/aventura">
                                 Aventura
                             </a>
                         </li>
                         <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Drama
+                            <a href="/filmes/genero/biografia">
+                                Biografia
                             </a>
                         </li>
                         <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Fantasia
-                            </a>
-                        </li>
-                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Ficção Científica
-                            </a>
-                        </li>
-                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Guerra
-                            </a>
-                        </li>
-                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
+                            <a href="/filmes/genero/comedia">
                                 Comédia
                             </a>
                         </li>
                         <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
+                            <a href="/filmes/genero/crime">
                                 Crime
                             </a>
                         </li>
                         <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
+                            <a href="/filmes/genero/documentario">
+                                Documentário
+                            </a>
+                        </li>
+                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
+                            <a href="/filmes/genero/drama">
+                                Drama
+                            </a>
+                        </li>
+                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
+                            <a href="/filmes/genero/fantasia">
+                                Fantasia
+                            </a>
+                        </li>
+                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
+                            <a href="/filmes/genero/faroeste">
+                                Faroeste
+                            </a>
+                        </li>
+                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
+                            <a href="/filmes/genero/ficcao-cientifica">
+                                Ficção Científica
+                            </a>
+                        </li>
+                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
+                            <a href="/filmes/genero/guerra">
+                                Guerra
+                            </a>
+                        </li>
+                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
+                            <a href="/filmes/genero/historia">
                                 História
                             </a>
                         </li>
                         <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
+                            <a href="/filmes/genero/misterio">
                                 Mistério
                             </a>
                         </li>
                         <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
+                            <a href="/filmes/genero/musical">
+                                Musical
+                            </a>
+                        </li>
+                        <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
+                            <a href="/filmes/genero/romance">
                                 Romance
                             </a>
                         </li>
                         <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Terror
+                            <a href="/filmes/genero/suspense">
+                                Suspense
                             </a>
                         </li>
                         <li className="mb-4 hover:text-gray-800 dark:hover:text-white transition-colors duration-200">
-                            <a href="#">
-                                Suspense
+                            <a href="/filmes/genero/terror">
+                                Terror
                             </a>
                         </li>
                     </ul>

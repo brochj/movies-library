@@ -17,7 +17,7 @@ trailer:
     'm8e-FF8MsqU',
   ]
 tags: ['1080p', '720p']
-genre: ['Sci-Fi, Action'] #  
+genre: ['Ficcão Científica'] #  
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'MKV' # MKV, MP4, TS
 audio: 'Dub & Leg' # Dublado, Legendado, Dual Audio, Dub & Leg
