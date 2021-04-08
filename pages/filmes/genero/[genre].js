@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { useState } from 'react'
 import Container from '../../../components/container'
 import MoreStories from '../../../components/more-stories'
 import Intro from '../../../components/intro'
@@ -10,7 +11,12 @@ import { config } from '../../../lib/config'
 import { BLOG_NAME } from '../../../lib/constants'
 import { stringToSlug } from '../../../utils/string-formatter'
 
-export default function Genre({ allMovies, genre, pagination }) {
+export default function Genre({ allMovies, genre }) {
+  const [ postNum, setPostNum] = useState(30); // Default number of posts displayed
+
+  function handleClick() {
+    setPostNum(prevPostNum => prevPostNum + 30) // 3 is the number of posts you want to load per click
+  }
   return (
     <>
       <Layout>
@@ -20,15 +26,16 @@ export default function Genre({ allMovies, genre, pagination }) {
         {/* <Navbar tags={tags}/> */}
         <Container>
           <Intro />
-          {allMovies.length > 0 && <MoreStories movies={allMovies} />}
-          <Pagination 
-            current={pagination.current}
-            pages={pagination.pages}
-            link={{
-              href: (page) => (page === 1 ? "/" : `/filmes/genero/${genre}/page/${page}`),
-              as: (page) =>  (page === 1 ? null : `/filmes/genero/${genre}/page/${page}`),
-            }}
-          />
+          {allMovies.length > 0 && <MoreStories movies={allMovies.slice(0, postNum)} /> }
+          {allMovies.length > postNum &&
+            <div className="my-5 flex justify-center items-center">
+              <button className="py-2 px-5 text-lg rounded-sm font-semibold tracking-wide border border-dark-primary-500 dark:bg-dark-primary-500 dark:text-white dark:hover:bg-transparent transition-colors" onClick={handleClick}>Carregar mais</button>
+            </div>
+          }
+          {allMovies.length <= postNum &&
+            <p className="mb-5 flex justify-center items-center text-2xl font-semibold uppercase dark:text-gray-500">Acabou os Filmes</p>
+          }
+
         </Container>
       </Layout>
     </>
@@ -43,26 +50,34 @@ export async function getStaticProps({ params }) {
   // If the route is like /posts/1, then params.id is 1
     const allMoviesFromGenre = getAllMoviesFromGenre(params.genre)
 
-    const pagination = {
-      current: 1,
-      pages: Math.ceil(allMoviesFromGenre.length / config.posts_per_page),
-    };
+    // const pagination = {
+    //   current: 1,
+    //   pages: Math.ceil(allMoviesFromGenre.length / config.posts_per_page),
+    // };
+    // console.log("params: ", JSON.stringify(params));
+    // const page = parseInt(params.page) || 2;
+    // const pagination = {
+    //   current: page,
+    //   pages: Math.ceil(allMoviesFromGenre.length / config.posts_per_page),
+    // };
+    // const startPostIndex = (page - 1) * config.posts_per_page
+    // const endPostIndex = startPostIndex + config.posts_per_page
 
   return {
     props: { 
-      allMovies: allMoviesFromGenre.slice(0, config.posts_per_page),
+      allMovies: allMoviesFromGenre,
+      // allMovies: allMoviesFromGenre.slice(startPostIndex, endPostIndex),
+      // allMovies: allMoviesFromGenre.slice(0, config.posts_per_page),
       genre: params.genre,
-      pagination,
+      // pagination,
     },
   }
 }
 
 export async function getStaticPaths() {
-  // console.log("entrou no getStaticPaths()");
   const allGenres = getAllGenres()
   return {
     paths: allGenres.map((genre) => {
-      console.log(genre, stringToSlug(genre));
       return {
         params: {
           genre: stringToSlug(genre), // [genre].js é necessário ser genre: 

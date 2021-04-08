@@ -61,6 +61,8 @@ export async function getStaticProps({ params }) {
     'tags',
     'slug',
   ])
+  console.log("params: ", JSON.stringify(params))
+  
   const page = parseInt(params.page);
   const pagination = {
     current: page,
