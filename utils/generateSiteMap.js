@@ -11,6 +11,7 @@ async function generateSiteMap() {
     '!pages/**/[tag].js',
     '!pages/**/[page].js',
     '!pages/**/[movie].js',
+    '!pages/**/[genre].js',
     '!pages/[movie].js',
     '!pages/api',
     '_movies/*.md',

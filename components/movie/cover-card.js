@@ -9,7 +9,7 @@ export default function CoverCard({ title, src, slug, height, width }) {
       alt={`Imagem da capa do filme ${title}`}
       className={cn('shadow-sm', {
         'hover:opacity-60 transition-opacity duration-200': slug,
-      }, 'rounded-t-md')}
+      }, 'rounded-md')}
       layout="responsive"
       width={width}
       height={height}

@@ -4,9 +4,9 @@ export default function MoreStories({ movies }) {
   return (
     <section>
       <div className="mb-14 grid 
-      grid-cols-2 gap-x-3 gap-y-11 
-      sm:grid-cols-3 sm:gap-x-5 
-      md:grid-cols-4 md:gap-x-5 
+      grid-cols-2 gap-x-3 gap-y-3 
+      sm:grid-cols-3 sm:gap-x-4 sm:gap-y-4
+      md:grid-cols-4 md:gap-x-5 md:gap-y-5
       lg:grid-cols-5 lg:gap-x-5 
       2xl:grid-cols-6 2xl:gap-x-5">
 

@@ -28,27 +28,28 @@ export default function MovieCard({
         />
       
       <div className="flex absolute top-0 left-0 ">
-        <p className="px-3 py-1 mr-1 text-onPrimary dark:text-dark-onPrimary bg-primary-700 rounded-lg text-sm font-semibold leading-snug tracking-wide">
+        <p className="hidden 2xl:block px-3 py-1 mr-1 text-onPrimary dark:text-dark-onPrimary bg-black bg-opacity-60 rounded-tl-md rounded-br-md text-sm font-semibold leading-snug tracking-wide">
           {audio}
         </p>
-        <p className="px-3 py-1 text-onPrimary dark:text-dark-onPrimary bg-primary-700 rounded-lg text-sm font-semibold leading-snug tracking-wide">
+
+      </div>
+        <p className="absolute px-3 py-1 top-0 right-0 text-xs lg:text-sm text-onPrimary dark:text-dark-onPrimary bg-opacity-50 bg-black rounded-tr-md rounded-bl-md font-semibold leading-snug tracking-wide">
           {releaseDate.substr(0, 4)}
         </p>
-      </div>
-      <div className="px-2 flex absolute bottom-0 right-0 bg-uniques-imdb rounded-md">
-        <p className="mr-2 text-onSecondary dark:text-dark-black  text-md sm:text-sm font-extrabold leading-normal tracking-tighter">
+      <div className="px-2 flex absolute bottom-0 right-0 bg-uniques-imdb rounded-tl-md rounded-br-md">
+        <p className="hidden lg:block mr-2 text-onSecondary dark:text-dark-black  text-sm lg:text-base font-extrabold leading-normal tracking-tighter">
           IMDb
         </p>
-        <p className="text-onSecondary dark:text-dark-black text-md sm:text-sm font-bold tracking-wide">
+        <p className="text-onSecondary dark:text-dark-black text-sm lg:text-base font-bold tracking-wide">
           {imdb.rating}
         </p>
       </div>      
       </div>
-      <p className="ml-3 my-2 text-onSecondary dark:text-dark-onSecondary text-lg leading-snug">
+      {/* <p className="ml-3 my-2 hidden lg:block text-base text-onSecondary dark:text-gray-400 leading-snug">
           <Link as={`/filme/${slug}`} href="/filme/[slug]">
-            <a className="hover:no-underline">{title.length > 25 ? title.substr(0, 25)+'...' : title}</a>
+            <a className="hover:no-underline">{title.length > 25 ? title.substr(0, 20)+' ...' : title}</a>
           </Link>
-        </p>
+        </p> */}
     </div>
   )
 }
