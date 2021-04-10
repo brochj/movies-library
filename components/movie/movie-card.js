@@ -17,7 +17,7 @@ export default function MovieCard({
   slug,
 }) {
   return (
-    <div className="bg-surface dark:bg-dark-surface rounded-md hover:shadow-xl">
+    <div className="bg-surface dark:bg-dark-surface rounded-md hover:shadow-xl transition duration-200 transform shadow-lg hover:-translate-y-2">
       <div className="relative">
         <CoverCard
           slug={slug}
