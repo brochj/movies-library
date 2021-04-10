@@ -1,43 +1,36 @@
+import Head from 'next/head'
 import Container from '../../components/container'
-import MoreStories from '../../components/more-stories'
-import HeroPost from '../../components/hero-post'
 import Intro from '../../components/intro'
 import Layout from '../../components/layout'
-import Navbar from '../../components/navbar/navbar'
+import MoreStories from '../../components/more-stories'
 import Pagination from '../../components/pagination'
-import { getAllMovies } from '../../lib/movies'
-import { config } from '../../lib/config'
-import Head from 'next/head'
 import { BLOG_NAME } from '../../lib/constants'
+import { config } from '../../lib/config'
+import { getAllMovies } from '../../lib/movies'
 
-export default function Index({ allMovies, tags, pagination }) {
+export default function Index({ allMovies, pagination }) {
   return (
-    <>
-      <Layout>
-        <Head>
-          <title>{BLOG_NAME}</title>
-        </Head>
-        {/* <Navbar tags={tags}/> */}
-        <Container>
-          <Intro />
-          {allMovies.length > 0 && <MoreStories movies={allMovies} />}
-          <Pagination 
-            current={pagination.current}
-            pages={pagination.pages}
-            link={{
-              href: (page) => (page === 1 ? "/" : "/filmes/page/" + page),
-              as: (page) => (page === 1 ? null : "/filmes/page/" + page),
-            }}
-          />
-        </Container>
-      </Layout>
-    </>
+    <Layout>
+      <Head>
+        <title>Todos os Filmes | {BLOG_NAME}</title>
+      </Head>
+      <Container>
+        <Intro />
+        {allMovies.length > 0 && <MoreStories movies={allMovies} />}
+        <Pagination 
+          current={pagination.current}
+          pages={pagination.pages}
+          link={{
+            href: (page) => (page === 1 ? "/" : "/filmes/page/" + page),
+            as: (page) => (page === 1 ? null : "/filmes/page/" + page),
+          }}
+        />
+      </Container>
+    </Layout>
   )
 }
 
 export async function getStaticProps() {
-  // const tags = getAllTags()
-  // console.log('allMovies');
   const allMovies = getAllMovies([
     'title',
     'date',
@@ -59,7 +52,6 @@ export async function getStaticProps() {
   return {
     props: { 
       allMovies: allMovies.slice(0, config.posts_per_page),
-      // tags,
       pagination
     },
   }
