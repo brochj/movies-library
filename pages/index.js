@@ -1,12 +1,12 @@
+import Head from 'next/head'
 import Container from '../components/container'
-import MoreStories from '../components/more-stories'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
+import MoreStories from '../components/more-stories'
 import Pagination from '../components/pagination'
-import { getAllMovies } from '../lib/movies'
-import { config } from '../lib/config'
-import Head from 'next/head'
 import { BLOG_NAME } from '../lib/constants'
+import { config } from '../lib/config'
+import { getAllMovies } from '../lib/movies'
 
 export default function Index({ allMovies, pagination }) {
   return (
