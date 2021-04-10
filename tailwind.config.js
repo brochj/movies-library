@@ -46,14 +46,14 @@ module.exports = {
 
         'dark': {
 
-          'background': '#121212',
+          'background': '#141414',
           'surface': '#282828',
           'error': '#cf6679',
   
           'onPrimary': '#FFFFFF',
           'onSecondary': '#FFFFFF',
-          'onBackground': '#FFFFFF',
-          'onSurface': '#FFFFFF',
+          'onBackground': '#e5e5e5',
+          'onSurface': '#e5e5e5',
           'onError': '#FFFFFF',
           primary: {
             DEFAULT: '#EF444C',
