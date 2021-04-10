@@ -9,7 +9,7 @@ export default function Intro() {
           {BLOG_NAME}
         </h1>
       </Link>
-      <h4 className="text-center text-lg md:text-xl lg:text-2xl md:text-left mt-5 md:pl-8">
+      <h4 className="text-center dark:text-white text-lg md:text-xl lg:text-2xl md:text-left mt-5 md:pl-8">
         {DESCRIPTION}
       </h4>
     </section>
