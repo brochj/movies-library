@@ -1,15 +1,15 @@
 import Head from "next/head";
 import {useRouter} from 'next/router'
 import ErrorPage from 'next/error'
-import Layout from "../../../components/layout";
-import Container from '../../../components/container'
-import MoreStories from '../../../components/more-stories'
-import Intro from '../../../components/intro'
-// import Navbar from '../../../components/navbar/navbar'
-import Pagination from '../../../components/pagination'
+
 import { BLOG_NAME } from '../../../lib/constants'
 import { config } from "../../../lib/config";
 import { getAllMovies } from '../../../lib/movies'
+import Container from '../../../components/container'
+import Intro from '../../../components/intro'
+import Layout from "../../../components/layout";
+import MoreStories from '../../../components/more-stories'
+import Pagination from '../../../components/pagination'
 
 
 export default function Page({ allMovies, pagination, page }) {
@@ -23,12 +23,10 @@ export default function Page({ allMovies, pagination, page }) {
 	}
 
   return (
-    <>
     <Layout>
       <Head>
-        <title>{BLOG_NAME} | Página {page}</title>
+        <title>Filmes | Página {page}</title>
       </Head>
-      {/* <Navbar tags={tags}/> */}
       <Container>
 			<Intro />
         {allMovies.length > 0 && <MoreStories movies={allMovies} />}
@@ -42,12 +40,10 @@ export default function Page({ allMovies, pagination, page }) {
           />
       </Container>
     </Layout>
-  </>
   );
 }
 
 export async function getStaticProps({ params }) {
-  // const tags = getAllTags()
   const allMovies = getAllMovies([
     'title',
     'date',
@@ -74,7 +70,6 @@ export async function getStaticProps({ params }) {
       page,
       allMovies: allMovies.slice(startPostIndex, endPostIndex),
       pagination,
-      // tags,
     },
   };
 };
