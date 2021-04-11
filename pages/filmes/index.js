@@ -15,6 +15,7 @@ export default function Index({ allMovies, pagination }) {
         <title>Todos os Filmes | {BLOG_NAME}</title>
       </Head>
       <Container>
+      <h1 className="mt-8 mb-6 font-bold text-2xl lg:text-3xl xl:text-4xl dark:text-dark-onPrimary">Últimos Filmes Adicionados</h1>  
         {allMovies.length > 0 && <MoreStories movies={allMovies} />}
         <Pagination 
           current={pagination.current}
