@@ -12,7 +12,6 @@ import Header from '../components/header'
 import Layout from '../components/layout'
 import MovieCover from '../components/movie/movie-cover'
 import MovieInfo from '../components/movie/movie-info'
-import PostTitle from '../components/post-title'
 import TrailerModal from '../components/movie/trailer-modal'
 
 
@@ -26,7 +25,7 @@ export default function Post({ movie, preview }) {
       <Container>
         <Header />
         {router.isFallback ? (
-          <PostTitle>Loading…</PostTitle>
+          <p>Loading…</p>
         ) : (
           <article className="mb-32">
             <Head>
