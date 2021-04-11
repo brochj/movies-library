@@ -3,10 +3,9 @@ import Head from 'next/head'
 
 import { BLOG_NAME } from '../../../lib/constants'
 import { getAllGenres, getAllMoviesFromGenre } from '../../../lib/movies'
-import { stringToSlug } from '../../../utils/string-formatter'
+import { stringToSlug, genreSlugToString } from '../../../utils/string-formatter'
 
 import Container from '../../../components/container'
-import Intro from '../../../components/intro'
 import Layout from '../../../components/layout'
 import MoreStories from '../../../components/more-stories'
 
@@ -22,7 +21,9 @@ export default function Genre({ allMovies, genre }) {
         <title>{BLOG_NAME}</title>
       </Head>
       <Container>
-        <Intro />
+        <h1 className="mt-8 mb-6 font-bold text-2xl lg:text-4xl xl:text-5xl dark:text-dark-onPrimary">
+          Filmes de {genre.string}
+        </h1>
         {allMovies.length > 0 && <MoreStories movies={allMovies.slice(0, postNum)} /> }
         {allMovies.length > postNum &&
           <div className="my-5 flex justify-center items-center">
@@ -49,7 +50,8 @@ export async function getStaticProps({ params }) {
   return {
     props: { 
       allMovies: allMoviesFromGenre,
-      genre: params.genre,
+      // genre: params.genre
+      genre: { slug: params.genre, string: genreSlugToString(params.genre) }
     },
   }
 }

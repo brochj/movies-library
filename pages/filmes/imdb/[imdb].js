@@ -6,7 +6,6 @@ import { getAllMoviesFromImdb } from '../../../lib/movies'
 import { imdbRatingsSlug, imdbRatingsObject } from '../../../lib/imdb'
 import CloudTag from '../../../components/cloud-tag'
 import Container from '../../../components/container'
-import Intro from '../../../components/intro'
 import Layout from '../../../components/layout'
 import MoreStories from '../../../components/more-stories'
 
@@ -29,8 +28,7 @@ export default function Genre({ allMovies, imdb }) {
         <title>Filmes com IMDb {imdb.replace("-", ".")} | {BLOG_NAME}</title>
       </Head>
       <Container>
-        <Intro />
-        <h1 className="mb-6 font-bold text-2xl lg:text-3xl xl:text-4xl dark:text-dark-onPrimary">Filmes com IMDb: {imdb.replace("-", ".")}</h1>
+        <h1 className="mt-8 mb-6 font-bold text-2xl lg:text-3xl xl:text-4xl dark:text-dark-onPrimary">Filmes com IMDb: {imdb.replace("-", ".")}</h1>
         {allMovies.length > 0 && <MoreStories movies={allMovies.slice(0, postNum)} /> }
         {allMovies.length > postNum &&
           <div className="my-5 flex justify-center items-center">

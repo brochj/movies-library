@@ -23,7 +23,6 @@ export default function Post({ movie, preview }) {
   return (
     <Layout preview={preview}>
       <Container>
-        <Header />
         {router.isFallback ? (
           <p>Loading…</p>
         ) : (
@@ -41,7 +40,7 @@ export default function Post({ movie, preview }) {
               <meta property="og:image" content={`${HOME_URL}${movie.images.cover}`} key="og:image" />
               {/* <meta property="og:url" content={`${HOME_URL}/movies/${movie.slug}`} key="og:url" /> */}
             </Head>
-            <h1 className="mb-6 font-bold text-2xl lg:text-3xl xl:text-4xl dark:text-dark-onPrimary">{movie.title}</h1>
+            <h1 className="text-center text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight md:tracking-tighter leading-tight mb-10 mt-3 dark:text-dark-onPrimary">{movie.title}</h1>
 
             <div className="my-3 flex flex-col items-center md:flex-row">
               <div className="md:">

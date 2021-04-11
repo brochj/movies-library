@@ -5,7 +5,6 @@ import ErrorPage from 'next/error'
 import { config } from "../../../lib/config";
 import { getAllMovies } from '../../../lib/movies'
 import Container from '../../../components/container'
-import Intro from '../../../components/intro'
 import Layout from "../../../components/layout";
 import MoreStories from '../../../components/more-stories'
 import Pagination from '../../../components/pagination'
@@ -27,8 +26,8 @@ export default function Page({ allMovies, pagination, page }) {
         <title>Filmes | Página {page}</title>
       </Head>
       <Container>
-			<Intro />
-        {allMovies.length > 0 && <MoreStories movies={allMovies} />}
+      <h1 className="mt-8 mb-6 font-bold text-2xl lg:text-3xl xl:text-4xl dark:text-dark-onPrimary">Últimos Filmes Adicionados - Página {page}</h1>
+      {allMovies.length > 0 && <MoreStories movies={allMovies} />}
 			<Pagination 
             current={pagination.current}
             pages={pagination.pages}

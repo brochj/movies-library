@@ -5,11 +5,11 @@ import cn from 'classnames'
 export default function Pagination({ current, pages, link }) {
   const pagination = generatePagination(current, pages);
   return (
-    <ul className="flex flex-wrap justify-center mb-2">
+    <ul className="flex flex-wrap justify-center mb-2 space-x-3">
       {pagination.map((it, i) => (
         <li 
           key={i}
-          className="flex text-gray-600 text-2xl"
+          className="flex dark:text-gray-100 text-2xl"
         >
           {it.excerpt ? (
             <p className="px-2 py-2">...</p>
@@ -18,7 +18,7 @@ export default function Pagination({ current, pages, link }) {
               <a 
                 className={
                   cn(it.page === current ? "active" : null, 
-                  "px-4 py-2 rounded-md hover:bg-blue-400 hover:text-gray-50 transition-colors"
+                  "px-4 py-2 rounded-md hover:bg-primary hover:text-gray-50 transition-colors"
                   )
                 }>
                 {it.page}
@@ -30,7 +30,7 @@ export default function Pagination({ current, pages, link }) {
       <style jsx>{`
 
         a.active {
-          color: #222;
+          color: #fff;
           font-weight: bold;
           cursor: not-allowed;
           pointer-events: none;

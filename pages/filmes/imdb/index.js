@@ -8,7 +8,6 @@ import { imdbRatingsObject } from '../../../lib/imdb'
 
 import CloudTag from '../../../components/cloud-tag'
 import Container from '../../../components/container'
-import Intro from '../../../components/intro'
 import Layout from '../../../components/layout'
 import MoreStories from '../../../components/more-stories'
 
@@ -27,8 +26,7 @@ export default function Index({ allMovies }) {
         <title>Melhores Filmes | {BLOG_NAME}</title>
       </Head>
       <Container>
-        <Intro />
-        <h2 className="mb-6 font-bold text-2xl lg:text-3xl xl:text-4xl dark:text-dark-onPrimary">Filmes filtrado por notas</h2>
+        <h2 className="mt-8 mb-6 font-bold text-2xl lg:text-3xl xl:text-4xl dark:text-dark-onPrimary">Filmes filtrado por notas</h2>
 
         <CloudTag className="my-5"
           url="/filmes/imdb/" tags={notes.slice(0, rateNum)} 
