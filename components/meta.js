@@ -5,7 +5,6 @@ import { GA_TRACKING_ID } from '../lib/gtag'
 export default function Meta() {
   return (
     <Head>
-      <meta name="google-site-verification" content="Rnad0Z5iZGyXCeCBuafdKLBdkO8bQI67fjH1hvjA3KQ" />
       {/* Google Adsense */}
       {/* <script data-ad-client="ca-pub-9080032444400275" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> */}
       {/*  Google Tag Manager */}
