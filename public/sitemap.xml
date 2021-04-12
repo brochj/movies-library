@@ -1,1379 +1,1377 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://brokfilmes.vercel.app/</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
+  </url>
+          
+  <url>
+    <loc>https://brokfilmes.vercel.app/filmes</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
+  </url>
+          
+  <url>
+    <loc>https://brokfilmes.vercel.app/filmes/imdb</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
+  </url>
+          
     
   <url>
-    <loc>https://download-filmes.vercel.app/</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/10-horas-para-o-natal</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/filmes</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/100-lobo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app//filmes/imdb/index</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/40-dias-o-milagre-da-vida</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app//filmes/imdb/[imdb]</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-arte-de-ser-adulto</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/10-horas-para-o-natal</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-arvore-dos-desejos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/100-lobo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-assistente</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/40-dias-o-milagre-da-vida</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-bruxa-da-casa-ao-lado</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-arte-de-ser-adulto</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-cabeca-de-gumercindo-saraiva</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-arvore-dos-desejos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-cor-que-caiu-do-espaco</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-assistente</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-escavacao</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-bruxa-da-casa-ao-lado</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-face-da-verdade</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-cabeca-de-gumercindo-saraiva</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-febre</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-cor-que-caiu-do-espaco</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-fera-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-escavacao</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-flor-mortal</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-face-da-verdade</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-galeria-dos-coracoes-partidos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-febre</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-garota-invisivel</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-fera-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-garota-no-trem</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-flor-mortal</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-inquilina</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-galeria-dos-coracoes-partidos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-ira-de-cain</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-garota-invisivel</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-ligacao</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-garota-no-trem</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-maldicao-do-espelho</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-inquilina</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-porteira</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-ira-de-cain</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-rosa-venenosa</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-ligacao</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-semana-da-minha-vida</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-maldicao-do-espelho</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-sentinela</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-porteira</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-tabacaria</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-rosa-venenosa</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-vida-em-um-ano</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-semana-da-minha-vida</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/a-vinganca-da-baba</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-sentinela</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/acredite-em-mim-a-historia-de-lisa-mcvey</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-tabacaria</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/adeus-professor</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-vida-em-um-ano</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/agencia-secreta-de-controle-de-magias</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/a-vinganca-da-baba</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/agentes-vanguard</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/acredite-em-mim-a-historia-de-lisa-mcvey</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ak-47-a-arma-que-mudou-o-mundo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/adeus-professor</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/alem-da-liberdade</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/agencia-secreta-de-controle-de-magias</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/alex-camera-10</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/agentes-vanguard</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/alguem-avisa</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ak-47-a-arma-que-mudou-o-mundo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/aliados</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/alem-da-liberdade</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/alleycats-uma-corrida-pela-vida</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/alex-camera-10</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/alma-de-cowboy</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/alguem-avisa</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ameaca-no-espaco</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/aliados</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/amizade-maldita</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/alleycats-uma-corrida-pela-vida</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/amor%c2%b2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/alma-de-cowboy</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/amor-de-balada</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ameaca-no-espaco</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ana</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/amizade-maldita</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/apenas-diga-sim</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/amor%c2%b2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/archive</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/amor-de-balada</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/as-cegas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ana</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/as-faces-do-demonio</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/apenas-diga-sim</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/as-fantasias-de-nicolas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/archive</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/assassinos-sadicos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/as-cegas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ate-o-ceu</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/as-faces-do-demonio</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ava</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/as-fantasias-de-nicolas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/bad-trip</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/assassinos-sadicos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/banana-split</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ate-o-ceu</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/barbie-aventura-da-princesa</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ava</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/batman-alma-do-dragao</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/bad-trip</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/becky</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/banana-split</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/beleza-negra-uma-amizade-verdadeira</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/barbie-aventura-da-princesa</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/bia-um-mundo-do-avesso</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/batman-alma-do-dragao</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/big-pai-big-filho-big-familia</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/becky</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/big-time-adolescence</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/beleza-negra-uma-amizade-verdadeira</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/bill-ted-encare-a-musica</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/bia-um-mundo-do-avesso</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/billy-the-kid-o-fora-da-lei</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/big-pai-big-filho-big-familia</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/blackout-a-batalha-final</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/big-time-adolescence</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/blind-eu-estou-aqui</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/bill-ted-encare-a-musica</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/bliss-em-busca-da-felicidade</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/billy-the-kid-o-fora-da-lei</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/bombay-rose</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/blackout-a-batalha-final</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/brahms-boneco-do-mal-ii</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/blind-eu-estou-aqui</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/brinquedos-do-terror</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/bliss-em-busca-da-felicidade</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/cabana-da-possessao</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/bombay-rose</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/capital-humano</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/brahms-boneco-do-mal-ii</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ceu-em-chamas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/brinquedos-do-terror</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/cherry-inocencia-perdida</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/cabana-da-possessao</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/cidade-sob-ameaca</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/capital-humano</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/como-casar-com-um-milionario</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ceu-em-chamas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/como-sair-de-buffalo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/cherry-inocencia-perdida</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/contra-o-relogio</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/cidade-sob-ameaca</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/convencao-das-bruxas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/como-casar-com-um-milionario</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/crime-e-desejo-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/como-sair-de-buffalo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/cut-throat-city</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/contra-o-relogio</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/de-volta-a-casa-da-colina-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/convencao-das-bruxas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/deixe-o-partir</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/crime-e-desejo-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/destemida</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/cut-throat-city</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/destruicao-final-o-ultimo-refugio</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/de-volta-a-casa-da-colina-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/dia-do-sim</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/deixe-o-partir</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/dificil-de-matar</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/destemida</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/don-oscar</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/destruicao-final-o-ultimo-refugio</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/duas-tias-loucas-de-ferias</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/dia-do-sim</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/duelo-no-asfalto</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/dificil-de-matar</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/eleicoes</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/don-oscar</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/elliot-uma-historia-de-natal</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/duas-tias-loucas-de-ferias</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/em-busca-da-fama</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/duelo-no-asfalto</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/em-busca-de-um-milagre</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/eleicoes</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/em-busca-de</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/elliot-uma-historia-de-natal</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/em-um-relacionamento-serio</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/em-busca-da-fama</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/encontro-criminoso</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/em-busca-de-um-milagre</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/enquanto-estivermos-juntos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/em-busca-de</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/entre-armas-e-brinquedos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/em-um-relacionamento-serio</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/escuridao-mortal</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/encontro-criminoso</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/espantalho</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/enquanto-estivermos-juntos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/espontanea</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/entre-armas-e-brinquedos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/eu-me-importo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/escuridao-mortal</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/eurotrip-passaporte-para-a-confusao</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/espantalho</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/face-oculta</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/espontanea</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/fada-madrinha</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/eu-me-importo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/feitico-do-tempo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/eurotrip-passaporte-para-a-confusao</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/feitico</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/face-oculta</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/filhos-de-istambul</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/fada-madrinha</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/flops-agentes-nada-secretos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/feitico-do-tempo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/flora-e-ulysses</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/feitico</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/fluidity</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/filhos-de-istambul</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/forca-da-natureza</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/flops-agentes-nada-secretos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/forcas-malignas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/flora-e-ulysses</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/fracao-de-segundos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/fluidity</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/freaky-no-corpo-de-um-assassino</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/forca-da-natureza</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/free-fire-o-tiroteio-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/forcas-malignas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/fuja</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/fracao-de-segundos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/fukushima-ameaca-nuclear</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/freaky-no-corpo-de-um-assassino</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/furia-incontrolavel</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/free-fire-o-tiroteio-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/georgetown</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/fuja</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/godzilla-vs-kong</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/fukushima-ameaca-nuclear</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/guerra-sem-fim-a-espada-e-a-lei</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/furia-incontrolavel</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/high-school-musical-o-musical-especial-de-festas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/georgetown</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/horas-decisivas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/godzilla-vs-kong</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/infiltrada-no-natal</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/guerra-sem-fim-a-espada-e-a-lei</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/instinto</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/high-school-musical-o-musical-especial-de-festas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/invasao-zumbi-2-peninsula</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/horas-decisivas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ip-man-kung-fu-master</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/infiltrada-no-natal</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/irresistivel</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/instinto</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/isolado-na-pandemia</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/invasao-zumbi-2-peninsula</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/jiu-jitsu</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ip-man-kung-fu-master</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/jogo-assassino</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/irresistivel</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/jogos-entre-amigos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/isolado-na-pandemia</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/jovens-bruxas-nova-irmandade</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/jiu-jitsu</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/justica-brutal</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/jogo-assassino</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/kaleb-o-cao-heroi</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/jogos-entre-amigos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/lar-doce-lar-ou-nao</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/jovens-bruxas-nova-irmandade</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/legado-de-violencia</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/justica-brutal</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/legado-explosivo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/kaleb-o-cao-heroi</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/legado-italiano</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/lar-doce-lar-ou-nao</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/liga-da-justica-de-zack-snyder-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/legado-de-violencia</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/loucura-de-amor</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/legado-explosivo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/loucuras-de-verao</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/legado-italiano</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/lucicreide-vai-pra-marte</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/liga-da-justica-de-zack-snyder-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ludo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/loucura-de-amor</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/m-8-quando-a-morte-socorre-a-vida</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/loucuras-de-verao</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/mais-outro-filho</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/lucicreide-vai-pra-marte</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/mais-um-verao-com-mamae</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ludo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/malcolm-e-marie</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/m-8-quando-a-morte-socorre-a-vida</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/matrix</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/mais-outro-filho</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/medo-da-chuva</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/mais-um-verao-com-mamae</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/mestre-z-o-legado-de-ip-man</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/malcolm-e-marie</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/minha-querida-nora</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/matrix</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/monster-hunter</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/medo-da-chuva</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/mortal</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/mestre-z-o-legado-de-ip-man</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/moxie-quando-as-garotas-vao-a-luta</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/minha-querida-nora</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/mulher-maravilha-1984</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/monster-hunter</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/murilo-couto-2020</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/mortal</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/na-mesma-onda</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/moxie-quando-as-garotas-vao-a-luta</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/natal-sempre-e-para-sempre</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/mulher-maravilha-1984</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ninguem-brinca-com-jesus-quintana</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/murilo-couto-2020</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/nos-bracos-de-um-assassino</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/na-mesma-onda</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/nova-ordem-espacial</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/natal-sempre-e-para-sempre</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-3o-andar-terror-na-rua-malasana</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ninguem-brinca-com-jesus-quintana</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-amor-de-sylvie</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/nos-bracos-de-um-assassino</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-barco</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/nova-ordem-espacial</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-cacador-de-recompensas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-3o-andar-terror-na-rua-malasana</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-caminho-de-volta</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-amor-de-sylvie</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-candidato</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-barco</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-cara-perfeito</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-cacador-de-recompensas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-caso-collini</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-caminho-de-volta</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-cemiterio-das-almas-perdidas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-candidato</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-chale</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-cara-perfeito</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-cobrador-de-impostos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-caso-collini</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-desaparecimento-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-cemiterio-das-almas-perdidas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-dom-da-serpente</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-chale</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-espelho-tem-duas-faces</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-cobrador-de-impostos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-falcao-manteiga-de-amendoim</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-desaparecimento-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-grande-mestre-4-a-batalha-final</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-dom-da-serpente</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-guardiao-dos-mundos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-espelho-tem-duas-faces</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-homem-certo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-falcao-manteiga-de-amendoim</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-jardim-secreto</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-grande-mestre-4-a-batalha-final</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-jovem-kieslowski</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-guardiao-dos-mundos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-mal-esta-ao-seu-lado</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-homem-certo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-mapa-das-pequenas-coisas-perfeitas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-jardim-secreto</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-mediador</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-jovem-kieslowski</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-misterio-de-block-island</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-mal-esta-ao-seu-lado</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-misterio-do-convento-2-cacadora-de-almas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-mapa-das-pequenas-coisas-perfeitas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-preco-da-ajuda</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-mediador</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-preco-do-talento</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-misterio-de-block-island</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-principe-esquecido</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-misterio-do-convento-2-cacadora-de-almas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-recepcionista</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-preco-da-ajuda</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-refugio</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-preco-do-talento</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-sequestro-de-eden</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-principe-esquecido</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-som-e-a-furia</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-recepcionista</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/o-ultimo-paraiso</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-refugio</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/octonautas-e-o-circulo-de-fogo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-sequestro-de-eden</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/os-croods-2-uma-nova-era</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-som-e-a-furia</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/os-novos-mutantes</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/o-ultimo-paraiso</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/os-segredos-de-madame-claude</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/octonautas-e-o-circulo-de-fogo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/pacarrete</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/os-croods-2-uma-nova-era</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/palavras-de-familia</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/os-novos-mutantes</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/palavras-nas-paredes-do-banheiro</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/os-segredos-de-madame-claude</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/palmer</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/pacarrete</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/panico-abaixo-de-zero</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/palavras-de-familia</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/para-garotas-de-cor</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/palavras-nas-paredes-do-banheiro</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/para-todos-os-garotos-agora-e-para-sempre</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/palmer</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/pele</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/panico-abaixo-de-zero</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/pieces-of-a-woman</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/para-garotas-de-cor</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/pinoquio</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/para-todos-os-garotos-agora-e-para-sempre</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/poder-sem-limites-versao-estendida</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/pele</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/pole-dance-danca-do-poder</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/pieces-of-a-woman</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ponto-vermelho</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/pinoquio</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/por-tras-da-inocencia</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/poder-sem-limites-versao-estendida</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/posto-de-combate</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/pole-dance-danca-do-poder</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/presente-de-natal</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ponto-vermelho</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/prison-break-o-resgate-final</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/por-tras-da-inocencia</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/procurada</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/posto-de-combate</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/professora</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/presente-de-natal</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/psych-2-lassie-esta-de-volta</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/prison-break-o-resgate-final</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/quando-voce-chegou</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/procurada</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/que-familia-e-essa</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/professora</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/querencia</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/psych-2-lassie-esta-de-volta</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/raizes-do-amor</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/quando-voce-chegou</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/raya-e-o-ultimo-dragao</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/que-familia-e-essa</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/relatos-do-mundo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/querencia</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/reza-a-lenda</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/raizes-do-amor</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/rogue-warfare-2-a-cacada</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/raya-e-o-ultimo-dragao</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/rogue-warfare-ameaca-global</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/relatos-do-mundo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/ronaldo</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/reza-a-lenda</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/sapatinho-vermelho-e-os-sete-anoes-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/rogue-warfare-2-a-cacada</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/scooby-doo-e-a-espada</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/rogue-warfare-ameaca-global</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/sem-filhos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/ronaldo</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/silenciadas</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/sapatinho-vermelho-e-os-sete-anoes-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/skull-a-mascara-de-anhanga</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/scooby-doo-e-a-espada</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/sombras-do-terror</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/sem-filhos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/sonhos-de-uma-vida-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/silenciadas</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/sou-sua-mulher</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/skull-a-mascara-de-anhanga</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/spycies-agentes-selvagens</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/sombras-do-terror</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/stalingrado-a-batalha-final</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/sonhos-de-uma-vida-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/submissao</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/sou-sua-mulher</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/super-urso-um-resgate-na-cidade-grande</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/spycies-agentes-selvagens</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/tenet</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/stalingrado-a-batalha-final</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/terra-e-luz</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/submissao</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/terra-selvagem-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/super-urso-um-resgate-na-cidade-grande</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/terror-em-sutterville</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/tenet</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/the-forty-year-old-version</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/terra-e-luz</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/the-silencing</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/terra-selvagem-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/tio-frank</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/terror-em-sutterville</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/todos-os-meus-amigos-estao-mortos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/the-forty-year-old-version</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/todos-os-mortos</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/the-silencing</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/tom-jerry-o-filme</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/tio-frank</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/trolls-2-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/todos-os-meus-amigos-estao-mortos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/trovao-tropical</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/todos-os-mortos</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/tubarao-assassino</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/tom-jerry-o-filme</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/um-beijo-antes-de-morrer</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/trolls-2-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/um-brinde-ao-natal</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/trovao-tropical</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/um-caso-de-detetive</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/tubarao-assassino</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/um-detetive-em-chinatown</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/um-beijo-antes-de-morrer</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/um-dia-de-chuva-em-nova-york</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/um-brinde-ao-natal</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/um-principe-em-nova-york-2</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/um-caso-de-detetive</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/um-verao-para-recordar</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/um-detetive-em-chinatown</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/uma-noite-em-miami</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/um-dia-de-chuva-em-nova-york</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/uma-sereia-em-paris</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/um-principe-em-nova-york-2</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/uma-ultima-vez</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/um-verao-para-recordar</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/voce-deveria-ter-partido</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/uma-noite-em-miami</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/vovo-saiu-do-armario</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/uma-sereia-em-paris</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/vozes</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/uma-ultima-vez</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/xico-o-cachorro-magico</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/voce-deveria-ter-partido</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/zeroville</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
   <url>
-    <loc>https://download-filmes.vercel.app/vovo-saiu-do-armario</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
+    <loc>https://brokfilmes.vercel.app/filme/zona-de-combate</loc>
+    <lastmod>2021-04-12T14:04:22.462Z</lastmod>
   </url>
             
-  <url>
-    <loc>https://download-filmes.vercel.app/vozes</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
-  </url>
-            
-  <url>
-    <loc>https://download-filmes.vercel.app/xico-o-cachorro-magico</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
-  </url>
-            
-  <url>
-    <loc>https://download-filmes.vercel.app/zeroville</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
-  </url>
-            
-  <url>
-    <loc>https://download-filmes.vercel.app/zona-de-combate</loc>
-    <lastmod>2021-04-12T12:48:53.238Z</lastmod>
-  </url>
-            
+
+    
 </urlset>
