@@ -9,7 +9,7 @@ date: '2021-04-05T17:47:24.000Z'
 update: '2021-04-05T17:47:24.000Z'
 releaseDate: '2020-04-24T03:00:00.000Z'
 imdb:
-  rating: 'n/A' # 8.5
+  rating: '6' # 8.5
   id: '' # tt0470752
 duration: '1h 30 Min'
 trailer:

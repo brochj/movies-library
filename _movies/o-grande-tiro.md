@@ -49,6 +49,6 @@ download:
     quality: '' # BluRay, WEB-DL
     format: '' # MKV
 images:
-  cover: '/assets/movies/%e5%a4%a7%e4%ba%ba%e7%89%a9.jpg'
+  cover: '/assets/movies/o-grande-tiro.jpg'
   background: '/assets/movies/'
 ---

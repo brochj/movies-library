@@ -32,7 +32,7 @@ export default function Meta() {
       <link
         rel="apple-touch-icon"
         sizes="180x180"
-        href="/favicon/apple-touch-icon.png"
+        href="/favico6pple-touch-icon.png"
       />
       <link
         rel="icon"

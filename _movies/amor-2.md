@@ -50,6 +50,6 @@ download:
     quality: '' # BluRay, WEB-DL
     format: '' # MKV
 images:
-  cover: '/assets/movies/amor%c2%b2.jpg'
+  cover: '/assets/movies/amor-2.jpg'
   background: '/assets/movies/'
 ---
