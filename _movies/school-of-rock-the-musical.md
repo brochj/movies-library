@@ -6,7 +6,7 @@ synopsis: []
 originalTitle: "School of Rock: The Musical"
 date: '2021-04-05T23:02:57.000Z'
 update: '2021-04-05T23:02:57.000Z'
-releaseDate: 'T03:00:00.000Z'
+releaseDate: '2003-04-05T03:00:00.000Z'
 imdb:
   rating: 'n/A' # 8.5
   id: '' # tt0470752

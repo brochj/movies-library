@@ -7,7 +7,7 @@ synopsis: ["Imbuída por um espírito maligno, uma boneca é a responsável por 
 originalTitle: "A Bonequinha da Mamãe"
 date: '2021-04-05T19:46:10.000Z'
 update: '2021-04-05T19:46:10.000Z'
-releaseDate: 'T03:00:00.000Z'
+releaseDate: '2017-04-05T03:00:00.000Z'
 imdb:
   rating: '6.9' # 8.5
   id: '' # tt0470752
