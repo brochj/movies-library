@@ -5,10 +5,10 @@ import Head from 'next/head'
 import markdownToHtml from '../../lib/markdownToHtml'
 import { getAllMovies, getMovieBySlug } from '../../lib/movies'
 import { BLOG_NAME, HOME_URL } from '../../lib/constants'
+import { brazilFormat } from '../../utils/date-formatter'
 import Container from '../../components/container'
 import DownloadMovie from '../../components/movie/download-movie'
 import FileInfo from '../../components/movie/file-info'
-import Header from '../../components/header'
 import Layout from '../../components/layout'
 import MovieCover from '../../components/movie/movie-cover'
 import MovieInfo from '../../components/movie/movie-info'
@@ -41,9 +41,8 @@ export default function Post({ movie, preview }) {
               {/* <meta property="og:url" content={`${HOME_URL}/movies/${movie.slug}`} key="og:url" /> */}
             </Head>
             <h1 className="text-center text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight md:tracking-tighter leading-tight mb-10 mt-3 dark:text-dark-onPrimary">{movie.title}</h1>
-
             <div className="my-3 flex flex-col items-center md:flex-row">
-              <div className="md:">
+              <div>
                 <MovieCover title={movie.title} src={movie.images.cover}/>
                 <TrailerModal videoId={movie.trailer.urls[0]}/>
               </div>
@@ -71,6 +70,7 @@ export default function Post({ movie, preview }) {
               videoQuality={movie.videoQuality}
             />
             <DownloadMovie download={movie.download}/>
+            <time className="pt-5 text-sm dark:text-gray-500" dateTime={movie.date}>Adicionado em {brazilFormat(movie.date)}</time>
             
           </article>
         )}
