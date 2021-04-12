@@ -1,1 +1,1 @@
-Sitemap: https://download-filmes.vercel.app/sitemap.xml
+Sitemap: https://brokfilmes.vercel.app/sitemap.xml
