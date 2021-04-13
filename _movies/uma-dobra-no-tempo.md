@@ -1,12 +1,12 @@
 ---
-id: 'ec8853de-e623-40a0-85c0-abdb2b2c0c63'
+id: 'ee66f292-c6df-424d-8157-9d518a166153'
 type: 'movie' # Filme, Série, Anime
 title: "Uma Dobra no Tempo"
 synopsis: ["Os irmãos Meg (Storm Reid) e Charles (Deric McCabe) decidem reencontrar o pai, um cientista que trabalha para o governo e está desaparecido desde que se envolveu em um misterioso projeto. Eles contarão com a ajuda do colega Calvin (Levi Miller) e de três excêntricas mulheres em uma ousada jornada por diferentes lugares do universo.",
 ]
 originalTitle: "A Wrinkle in Time"
-date: '2021-04-05T22:11:12.000Z'
-update: '2021-04-05T22:11:12.000Z'
+date: '2021-04-13T09:22:43.000Z'
+update: '2021-04-13T09:22:43.000Z'
 releaseDate: '2018-03-08T03:00:00.000Z'
 imdb:
   rating: '4.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'UhZ56rcWwRQ',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Aventura', 'Fantasia'] #
+genre: ['Aventura', 'Fantasia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

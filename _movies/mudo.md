@@ -1,12 +1,12 @@
 ---
-id: '9e17ce92-6164-4fe7-8aea-876847fa0621'
+id: '1f2b0060-4ab7-464d-a331-dc2cbd69027f'
 type: 'movie' # Filme, Série, Anime
 title: "Mudo"
 synopsis: ["Em um futuro próximo, um homem mudo procura por sua namorada desaparecida no impiedoso submundo de Berlim, onde atitudes valem muito mais do que palavras.",
 ]
 originalTitle: "Mute"
-date: '2021-04-05T22:26:52.000Z'
-update: '2021-04-05T22:26:52.000Z'
+date: '2021-04-13T09:24:46.000Z'
+update: '2021-04-13T09:24:46.000Z'
 releaseDate: '2018-02-23T03:00:00.000Z'
 imdb:
   rating: '5.5' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'ma8te7ywEio',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Mistério'] #
+genre: ['Ficção científica', 'Mistério'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

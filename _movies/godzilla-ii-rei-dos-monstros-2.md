@@ -1,12 +1,12 @@
 ---
-id: '7a23bb9f-6dd1-4b13-bde1-5f57c59af12b'
+id: 'd5c97960-5ca3-4374-a89e-5e2c1c4badd2'
 type: 'movie' # Filme, Série, Anime
 title: "Godzilla II: Rei dos Monstros"
 synopsis: ["A nova história segue os esforços heróicos da agência de criptografia zoológico Monarch como seus membros enfrentam uma bateria de monstros do tamanho de Deus, incluindo o poderoso Godzilla, que colide com Mothra, Rodan e seu inimigo final, o rei de três cabeças Ghidorah. Quando essas antigas superespécies – pensadas como mitos – voltam a crescer, todas disputam a supremacia, deixando a própria existência da humanidade na balança.",
 ]
 originalTitle: "Godzilla: King of the Monsters"
-date: '2021-04-05T21:01:19.000Z'
-update: '2021-04-05T21:01:19.000Z'
+date: '2021-04-13T09:15:40.000Z'
+update: '2021-04-13T09:15:40.000Z'
 releaseDate: '2019-05-29T03:00:00.000Z'
 imdb:
   rating: '6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'yyJBHeU0sBE',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

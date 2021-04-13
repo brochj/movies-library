@@ -1,12 +1,12 @@
 ---
-id: '6857c2af-9c15-46af-826d-3ff5c5c66ab0'
+id: 'e23dcfb4-8503-4ceb-9d65-f46fd92c6b8c'
 type: 'movie' # Filme, Série, Anime
 title: "O Mensageiro"
 synopsis: ["Em 2013, após uma guerra que destruiu grande parte dos Estados Unidos, inclusive o governo, vive em um contexto de caos quase absoluto um andarilho (Kevin Costner), que tenta sobreviver interpretando Shakespeare nas localidades por onde passa. Ele é capturado pelos “Holnistas”, um grupo guerrilheiro que inspira terror, mas consegue escapar dos seus captores e encontra um carteiro morto. Ele veste suas roupas para se aquecer e chega a cidade mais próxima dizendo ser um representante oficial, pois o governo tinha sido restaurado. Nada era verdade, mas era uma forma de chegar em um lugar um estranho e ser, dentro do possível, bem tratado e alimentado enquanto distribuía esperança para a população. Mas a realidade era outra e os “Holnistas” estavam a qualquer momento sempre prontos para atacar, pilhar e assassinar.",
 ]
 originalTitle: "The Postman"
-date: '2021-04-05T22:34:47.000Z'
-update: '2021-04-05T22:34:47.000Z'
+date: '2021-04-13T09:25:53.000Z'
+update: '2021-04-13T09:25:53.000Z'
 releaseDate: '1997-12-25T03:00:00.000Z'
 imdb:
   rating: '6.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'V43K5yFn5GM',
   ]
 tags: ['720p']
-genre: ['Aventura', 'Drama'] #
+genre: ['Aventura', 'Drama', 'Ficção científica'] #
 quality: 'BluRay 720p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

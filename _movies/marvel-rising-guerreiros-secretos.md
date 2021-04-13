@@ -1,12 +1,12 @@
 ---
-id: '6c2c9036-90bd-4ba6-b923-f52c96653903'
+id: '52e7ff72-972a-4605-a5f8-45e0d6be7732'
 type: 'movie' # Filme, Série, Anime
 title: "Marvel Rising - Guerreiros Secretos"
 synopsis: ["Quando uma ameaça que ninguém poderia esperar tem impacto sobre o Universo Marvel, esse bando de adolescentes inexperientes não tem escolha a não ser se unir e provar ao mundo que às vezes a diferença entre um herói e um “desajustado” está apenas o nome.",
 ]
 originalTitle: "Marvel Rising: Secret Warriors"
-date: '2021-04-05T21:25:58.000Z'
-update: '2021-04-05T21:25:58.000Z'
+date: '2021-04-13T09:18:09.000Z'
+update: '2021-04-13T09:18:09.000Z'
 releaseDate: '2018-09-30T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '6UiNnW_2STI',
   ]
 tags: ['720p', '720p']
-genre: ['Ação', 'Animação', 'Comédia'] #
+genre: ['Ação', 'Animação', 'Comédia', 'Ficção científica'] #
 quality: 'WEBRip 720p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

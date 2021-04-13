@@ -1,12 +1,12 @@
 ---
-id: 'ce1f16d7-bead-4dff-a86b-a50b5ca488e3'
+id: '0d5e66a0-b965-4099-92f1-2937a0826a3b'
 type: 'movie' # Filme, Série, Anime
 title: "Kronos: O Fim Da Humanidade?"
 synopsis: ["Em 2020, Elias van Dorne (John Cusack), CEO da VA Industries, a maior empresa de robótica do mundo, apresenta sua invenção mais poderosa – Kronos, um super computador projetado para acabar com todas as guerras. Quando Kronos está online, ele determina rapidamente que a humanidade, em si, é a maior ameaça para a paz mundial e lança um ataque robótico mundial para livrar o mundo da “infecção” do homem. Noventa e sete anos depois, uma pequena banda de seres humanos permanece viva, mas fugida do exército robótico. Um adolescente, Andrew (Julian Schaffner) e uma adolescente, Calia (Jeannine Wacker), formam uma aliança improvável para chegar a um novo mundo, onde está rumores de que a humanidade existe sem medo de perseguição robô. Mas esse mundo realmente existe? E eles viverão o tempo suficiente para descobrir?",
 ]
 originalTitle: "Singularity"
-date: '2021-04-05T21:18:57.000Z'
-update: '2021-04-05T21:18:57.000Z'
+date: '2021-04-13T09:17:15.000Z'
+update: '2021-04-13T09:17:15.000Z'
 releaseDate: '2017-11-24T03:00:00.000Z'
 imdb:
   rating: '3.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'hEoobyOBxO8',
   ]
 tags: ['720p', '1080p', '720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

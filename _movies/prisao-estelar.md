@@ -1,12 +1,12 @@
 ---
-id: '147b8f3a-454a-4eef-824e-7116ed189c7f'
+id: '755e8a86-e0ef-4d5c-9a07-495214e3951d'
 type: 'movie' # Filme, Série, Anime
 title: "Prisão Estelar"
 synopsis: ["Em um futuro não tão distante, a Estação Espacial Internacional é uma prisão secreta. Quando os terroristas encarcerados iniciam um motim e a transformam em um míssil dirigido a Moscou, um piloto terá que fazer o impossível para impedir uma guerra.",
 ]
 originalTitle: "Incoming"
-date: '2021-04-05T21:32:38.000Z'
-update: '2021-04-05T21:32:38.000Z'
+date: '2021-04-13T09:19:15.000Z'
+update: '2021-04-13T09:19:15.000Z'
 releaseDate: '2018-05-04T03:00:00.000Z'
 imdb:
   rating: '3.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'klqZn-HC0Cg',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

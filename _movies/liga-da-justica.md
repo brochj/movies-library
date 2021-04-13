@@ -1,12 +1,12 @@
 ---
-id: 'e55a39b5-fb6e-4fe1-b375-59773f81069f'
+id: '17d7693b-5874-4354-961a-3ab5c5eb1f8f'
 type: 'movie' # Filme, Série, Anime
 title: "Liga da Justiça"
 synopsis: ["Movido pela fé restaurada na humanidade e inspirado pelo ato de coragem do Superman, Bruce Wayne e a sua nova aliada, Diana Prince, enfrentam um inimigo ainda maior. Juntos, Batman e Mulher-Maravilha vão recrutar uma equipa de meta-humanos e fazer frente à mais recente ameaça mundial. A eles juntam-se Aquaman, Flash e o Cyborg, mas será que chegam a tempo de salvar o mundo?",
 ]
 originalTitle: "Justice League"
-date: '2021-04-05T22:26:58.000Z'
-update: '2021-04-05T22:26:58.000Z'
+date: '2021-04-13T09:24:52.000Z'
+update: '2021-04-13T09:24:52.000Z'
 releaseDate: '2017-11-15T03:00:00.000Z'
 imdb:
   rating: '6.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '3cxixDgHUYw',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura', 'Fantasia'] #
+genre: ['Ação', 'Aventura', 'Fantasia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

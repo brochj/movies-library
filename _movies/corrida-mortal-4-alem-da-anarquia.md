@@ -1,12 +1,12 @@
 ---
-id: '35a4d40f-da98-4332-9058-37bd9efceefa'
+id: '121f2b16-00a2-42ab-95bb-da4bf42b3183'
 type: 'movie' # Filme, Série, Anime
 title: "Corrida Mortal 4 - Além da Anarquia"
 synopsis: ["Danny Trejo retorna como o bookie implacável, Goldberg, no mais selvagem e mais sangrento da Death Race. Após um ataque fracassado contra o detentor e motorista lendário, Frankenstein, especialista da Black Ops Connor Gibson (McGowan) infiltra uma prisão federal super-máxima com um objetivo – entre na iminente e ilegal Death Race e tira Frankenstein. Connor recruta a ajuda de Baltimore Bob (Glover) e Lists (Koehler), e inesperadamente se apaixona pela bartending beauty, Jane (Marzano). Connor terá que lutar por mais do que sua vida neste mundo brutal, sem guardas, sem regras, sem trilha e sem medo.",
 ]
 originalTitle: "Death Race: Beyond Anarchy"
-date: '2021-04-05T21:25:36.000Z'
-update: '2021-04-05T21:25:36.000Z'
+date: '2021-04-13T09:18:04.000Z'
+update: '2021-04-13T09:18:04.000Z'
 releaseDate: '2018-01-30T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '8392gC88H_U',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

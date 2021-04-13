@@ -1,12 +1,12 @@
 ---
-id: '490160a7-1e90-44c5-b27b-1bebb5dbc581'
+id: 'fb6e29f7-3b73-4719-af1a-c3d53973d874'
 type: 'movie' # Filme, Série, Anime
 title: "Hotel Artemis"
 synopsis: ["Num futuro próximo, no subsolo de um hospital em Los Angeles, os criminosos mais sinistros da cidade recebem cuidados especiais. A enfermeira (Jodie Foster), que controla o lugar, acaba descobrindo que um de seus pacientes está lá para cometer um assassinato.",
 ]
 originalTitle: "Hotel Artemis"
-date: '2021-04-05T21:22:50.000Z'
-update: '2021-04-05T21:22:50.000Z'
+date: '2021-04-13T09:17:50.000Z'
+update: '2021-04-13T09:17:50.000Z'
 releaseDate: '2018-06-07T03:00:00.000Z'
 imdb:
   rating: '6.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'JqfuKsoEEms',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

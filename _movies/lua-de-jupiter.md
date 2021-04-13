@@ -1,12 +1,12 @@
 ---
-id: 'fdd91bbb-3aa4-4b01-9f86-016f2cabac6e'
+id: '75c840e4-0d81-4719-a9cb-3d6cfeeea2ee'
 type: 'movie' # Filme, Série, Anime
 title: "Lua de Júpiter"
 synopsis: ["Aryan, um jovem migrante, é baleado ao tentar ilegalmente cruzar a fronteira da Hungria. Depois do choque provocado pelo acidente, descobre que adquiriu o poder de levitar e agora, preso em um campo refugiados, precisa contar com a ajuda do Dr. Stern, que tem interesses muito específicos na habilidade sobrenatural.",
 ]
 originalTitle: "Jupiter holdja"
-date: '2021-04-05T21:19:36.000Z'
-update: '2021-04-05T21:19:36.000Z'
+date: '2021-04-13T09:17:27.000Z'
+update: '2021-04-13T09:17:27.000Z'
 releaseDate: '2017-11-01T03:00:00.000Z'
 imdb:
   rating: '6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'ou5oxqQq95Q',
   ]
 tags: ['720p', '1080p', '720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Húngaro' # Dublado, Legendado, Dual Audio, Dub & Leg

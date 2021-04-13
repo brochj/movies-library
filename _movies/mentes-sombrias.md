@@ -1,12 +1,12 @@
 ---
-id: '0783e512-4b06-41f7-bbb3-a197d022c168'
+id: '7f960096-d4cb-4c56-a6d2-ac0079d2ce03'
 type: 'movie' # Filme, Série, Anime
 title: "Mentes Sombrias"
 synopsis: ["Em um mundo apocalíptico, onde uma pandemia mata a maioria das crianças e adolescentes da América, alguns sobreviventes desenvolvem poderes sobrenaturais. Eles então são tirados pelo governo de suas famílias e enviados para campos de custódia. Ruby (Amandla Stenberg), uma das sobreviventes, consegue escapar com outras crianças e sua vida muda para sempre.",
 ]
 originalTitle: "The Darkest Minds"
-date: '2021-04-05T21:29:45.000Z'
-update: '2021-04-05T21:29:45.000Z'
+date: '2021-04-13T09:18:44.000Z'
+update: '2021-04-13T09:18:44.000Z'
 releaseDate: '2018-08-02T03:00:00.000Z'
 imdb:
   rating: '5.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'tN8o_E_f9FQ',
   ]
 tags: ['720p', '1080p', '720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: 'c1615c73-dd31-4b0d-8ac7-c3f7b9abec17'
+id: '9e27454a-a66f-4520-9a73-d3e61aaa4755'
 type: 'movie' # Filme, Série, Anime
 title: "Mad Max: Estrada da Fúria"
 synopsis: ["Assombrado por seu turbulento passado, Max Rockatansky (Tom Hardy) acredita que a melhor maneira de sobreviver é vagar sozinho. No entanto, após ser capturado pelos homens do tirano Immortan Joe (Hugh Keays-Byrne), o guerreiro das estradas se vê no meio de uma guerra mortal, iniciada pela Imperatriz Furiosa (Charlize Theron) na tentativa de resgatar um grupo de garotas e retornar à sua terra natal. Enfurecido, o senhor da guerra convoca os seus garotos de guerra e caça impiedosamente os rebeldes nas estradas do deserto da Austrália. Também tentando fugir, Max aceita ajudar Furiosa em sua luta contra Joe e se vê dividido mais uma vez entre seguir o seu caminho sozinho ou ficar com o grupo.",
 ]
 originalTitle: "Mad Max: Fury Road"
-date: '2021-04-05T21:27:47.000Z'
-update: '2021-04-05T21:27:47.000Z'
+date: '2021-04-13T09:18:24.000Z'
+update: '2021-04-13T09:18:24.000Z'
 releaseDate: '2015-05-13T03:00:00.000Z'
 imdb:
   rating: '8.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'hEJnMQG9ev8',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

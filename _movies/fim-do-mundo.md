@@ -1,12 +1,12 @@
 ---
-id: 'f610e3f3-ad17-487c-a00e-429ed6dbf42d'
+id: '37ce4f04-7a26-4f4f-98ec-2933b02dd522'
 type: 'movie' # Filme, Série, Anime
 title: "Fim do Mundo"
 synopsis: ["Depois de um ataque extraterrestre, a humanidade só tem uma esperança: um grupo de quatro adolescentes sem nada em comum isolados no seu acampamento de férias.",
 ]
 originalTitle: "Rim of the World"
-date: '2021-04-05T22:49:07.000Z'
-update: '2021-04-05T22:49:07.000Z'
+date: '2021-04-13T09:27:52.000Z'
+update: '2021-04-13T09:27:52.000Z'
 releaseDate: '2019-05-24T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'JM4kWeRaEfs',
   ]
 tags: ['720p', '720p', '720p']
-genre: ['Ação', 'Aventura', 'Comédia'] #
+genre: ['Ação', 'Aventura', 'Comédia', 'Ficção científica'] #
 quality: 'WEB-DL' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: '.MKV / .MP4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

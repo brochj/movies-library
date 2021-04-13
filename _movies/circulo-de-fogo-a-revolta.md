@@ -1,12 +1,12 @@
 ---
-id: '2fd52502-1f81-4945-b772-e92075f54489'
+id: '06292ab0-dae8-4622-8a3b-e4ac16fe9ecf'
 type: 'movie' # Filme, Série, Anime
 title: "Círculo de Fogo: A Revolta"
 synopsis: ["Jake Pentecost, filho de Stacker Pentecost, se junta a Mako Mori para liderar uma nova geração de pilotos Jaeger, incluindo seu rival Lambert e uma hacker de 15 anos, Amara, contra uma nova ameaça Kaiju.",
 ]
 originalTitle: "Pacific Rim: Uprising"
-date: '2021-04-05T22:10:05.000Z'
-update: '2021-04-05T22:10:05.000Z'
+date: '2021-04-13T09:22:32.000Z'
+update: '2021-04-13T09:22:32.000Z'
 releaseDate: '2018-03-21T03:00:00.000Z'
 imdb:
   rating: '5.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '_EhiLLOhVis',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura', 'Fantasia'] #
+genre: ['Ação', 'Aventura', 'Fantasia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

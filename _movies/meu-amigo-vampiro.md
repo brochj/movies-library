@@ -1,12 +1,12 @@
 ---
-id: 'bb6a7735-48a0-42bb-8b86-40a0e5538ed1'
+id: '218f4074-fb46-4bb7-8f8d-2a7d9295225b'
 type: 'movie' # Filme, Série, Anime
 title: "Meu Amigo Vampiro"
 synopsis: ["Entendiado em seu 13º aniversário pelo 300º ano, o vampiro Rudolph decidiu iniciar uma ousada aventura: vai para o mundo real dos humanos buscar por novidades. Lá, onde apenas pessoas vivas têm espaço, ele vai começar uma amizade improvável com Tony, um adolescente de 12 anos apaixonado por lendas vampirescas. Mas o que ele não imagina é que Roque, um caçador, pretender capturá-lo a qualquer custo.",
 ]
 originalTitle: "The Little Vampire 3D"
-date: '2021-04-05T22:20:28.000Z'
-update: '2021-04-05T22:20:28.000Z'
+date: '2021-04-13T09:24:01.000Z'
+update: '2021-04-13T09:24:01.000Z'
 releaseDate: '2017-10-04T03:00:00.000Z'
 imdb:
   rating: '5.5' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'wCo-B07dfdk',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Animação', 'Aventura', 'Comédia', 'Fantasia', 'Terror'] #
+genre: ['Animação', 'Aventura', 'Comédia', 'Fantasia', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

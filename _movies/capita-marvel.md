@@ -1,12 +1,12 @@
 ---
-id: '6fb9dd85-15e2-4c93-ad07-df8aa90bbce3'
+id: 'c75e55cc-088b-4551-ae40-e5342b0a7214'
 type: 'movie' # Filme, Série, Anime
 title: "Capitã Marvel"
 synopsis: ["A história segue Carol Danvers e como ela se torna um dos heróis mais poderosos do universo quando a Terra é pega no meio de uma guerra galáctica entre duas raças alienígenas. Situado na década de 1990, Capitã Marvel é uma nova aventura de um período inédito na história do universo cinematográfico da Marvel.",
 ]
 originalTitle: "Captain Marvel"
-date: '2021-04-05T22:48:55.000Z'
-update: '2021-04-05T22:48:55.000Z'
+date: '2021-04-13T09:27:47.000Z'
+update: '2021-04-13T09:27:47.000Z'
 releaseDate: '2019-03-06T03:00:00.000Z'
 imdb:
   rating: '6.9' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '0LHxvxdRnYc',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

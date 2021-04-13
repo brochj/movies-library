@@ -1,12 +1,12 @@
 ---
-id: '4d6bb594-53a5-4c2b-a873-ac70c83a2205'
+id: '786ae74e-acea-46c6-9a50-a2c3b1eb9ec2'
 type: 'movie' # Filme, Série, Anime
 title: "Estado de Calamidade"
 synopsis: ["No ano de 2030, quando sérios problemas ambientais aconteceram devido ao aquecimento global, o estado vive em recessão. Na tentativa de controlar a recessão econômica, uma agência governamental chamada The Humanity Bureau exila membros da sociedade considerados improdutivos para uma colônia conhecida como Novo Éden. Um assistente social ambicioso e imparcial, Noah (Nicolas Cage), investiga o caso de uma mãe (Sarah Lind) e seu filho (Jakob Davies). Sabendo do injusto destino do garoto inocente, ele parte para salvar suas vidas e expor a verdade sobre a agência governamental.",
 ]
 originalTitle: "The Humanity Bureau"
-date: '2021-04-05T22:18:40.000Z'
-update: '2021-04-05T22:18:40.000Z'
+date: '2021-04-13T09:23:44.000Z'
+update: '2021-04-13T09:23:44.000Z'
 releaseDate: '2017-07-11T03:00:00.000Z'
 imdb:
   rating: '4.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'nb29-EyUOrI',
   ]
 tags: ['720p', '1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

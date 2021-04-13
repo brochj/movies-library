@@ -1,12 +1,12 @@
 ---
-id: 'b646bdc3-9de4-4527-adb4-96c74ed1bfba'
+id: '6f75cd0a-c71d-49ed-ab20-b01438a3ba34'
 type: 'movie' # Filme, Série, Anime
 title: "A Pele Fria"
 synopsis: ["Em 1914, logo após o assassinato de Franz Ferdinand que eventualmente causou a Primeira Guerra Mundial, um navio a vapor se aproxima de uma ilha desolada à beira do Círculo Antártico. Um jovem está preparado para assumir o cargo de observador do clima, para viver na solidão nos confins da Terra por um ano inteiro, até a chegada do seu substituto. Nos próximos doze meses, seu mundo consistirá em uma cabana deserta, no mar circundante e em seres perigosos e estranhos que ele descobre e que compartilham a ilha.",
 ]
 originalTitle: "Cold Skin"
-date: '2021-04-05T21:26:37.000Z'
-update: '2021-04-05T21:26:37.000Z'
+date: '2021-04-13T09:18:16.000Z'
+update: '2021-04-13T09:18:16.000Z'
 releaseDate: '2017-10-20T03:00:00.000Z'
 imdb:
   rating: '6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'X2FOi4YZCDM',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Terror'] #
+genre: ['Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

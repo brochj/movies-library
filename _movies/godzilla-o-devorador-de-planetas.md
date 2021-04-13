@@ -1,12 +1,12 @@
 ---
-id: '15a61713-1087-4916-80e4-24fc7896795a'
+id: 'd5242834-233b-4788-b78c-549a8ba729bb'
 type: 'movie' # Filme, Série, Anime
 title: "Godzilla: O Devorador de Planetas"
 synopsis: ["Com o enfraquecimento da aliança com a Terra, Haruo considera se aliar aos Exifs, praticantes de um culto mortal que pode destruir o mundo.",
 ]
 originalTitle: "GODZILLA -星を喰う者-"
-date: '2021-04-05T21:19:49.000Z'
-update: '2021-04-05T21:19:49.000Z'
+date: '2021-04-13T09:17:34.000Z'
+update: '2021-04-13T09:17:34.000Z'
 releaseDate: '2018-11-03T03:00:00.000Z'
 imdb:
   rating: '5.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'ZkIe8xlfolU',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Animação', 'Aventura', 'Fantasia'] #
+genre: ['Ação', 'Animação', 'Aventura', 'Fantasia', 'Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Japonês' # Dublado, Legendado, Dual Audio, Dub & Leg

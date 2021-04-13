@@ -1,5 +1,5 @@
 ---
-id: '8c9f9061-deeb-4d9e-9820-553ea41bc223'
+id: '48ba8df5-20b2-4d03-99c7-86618b80f3e5'
 type: 'movie' # Filme, Série, Anime
 title: "Vingadores: Ultimato OPEN MATTE"
 synopsis: ["Após os eventos devastadores de “Vingadores: Guerra Infinita”, o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.",
@@ -9,8 +9,8 @@ synopsis: ["Após os eventos devastadores de “Vingadores: Guerra Infinita”, 
 "",
 ]
 originalTitle: "Avengers: Endgame"
-date: '2021-04-05T20:58:47.000Z'
-update: '2021-04-05T20:58:47.000Z'
+date: '2021-04-13T09:15:27.000Z'
+update: '2021-04-13T09:15:27.000Z'
 releaseDate: '2019-04-24T03:00:00.000Z'
 imdb:
   rating: '8.4' # 8.5
@@ -21,7 +21,7 @@ trailer:
     'PgrmbRID0eY',
   ]
 tags: ['1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'WEB-DL' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

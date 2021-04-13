@@ -1,12 +1,12 @@
 ---
-id: 'c110af2d-0b0d-4b8c-8b44-623ad3afb80c'
+id: '68afafa6-bfd5-4c46-b511-646b38596348'
 type: 'movie' # Filme, Série, Anime
 title: "Pokémon: Detetive Pikachu"
 synopsis: ["A história começa quando o detective particular Harry Goodman desaparece misteriosamente, levando seu filho Tim, de 21 anos, a tentar descobrir o que aconteceu. Quem ajuda na investigação é o antigo parceiro Pokémon de Harry, o Detetive Pikachu: um adorável superdetetive divertido e brincalhão que é um enigma até para si mesmo. Após descobrirem que são capazes de se comunicar um com o outro, Tim e Pikachu unem forças em uma aventura para desvendar esse mistério. Reunindo pistas pelas ruas de Ryme City – uma gigantesca metrópole moderna onde seres humanos e Pokémons convivem lado a lado em um mundo hiper-realista – eles encontram pelo caminho um elenco diversificado de personagens Pokémon e revelam uma trama chocante que poderia arruinar essa coexistência pacífica e ameaçar todo o universo Pokémon.",
 ]
 originalTitle: "Pokémon Detective Pikachu"
-date: '2021-04-05T21:09:25.000Z'
-update: '2021-04-05T21:09:25.000Z'
+date: '2021-04-13T09:16:28.000Z'
+update: '2021-04-13T09:16:28.000Z'
 releaseDate: '2019-05-03T03:00:00.000Z'
 imdb:
   rating: '6.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'c6205wjdN-g',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura', 'Comédia', 'Mistério'] #
+genre: ['Ação', 'Aventura', 'Comédia', 'Ficção científica', 'Mistério'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

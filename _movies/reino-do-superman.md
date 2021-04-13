@@ -1,12 +1,12 @@
 ---
-id: '39d21b60-57d2-49ba-a31a-5a747f1422da'
+id: 'ff5054a0-9392-4d58-b38c-d4cb33d39693'
 type: 'movie' # Filme, Série, Anime
 title: "Reino do Superman"
 synopsis: ["Adaptando a história lendária da batalha fatal do Superman com o Apocalypse, esse será o segundo filme original do DC Universe à adaptar o material. O primeiro – de 2007 – Superman: Doomsday, foi muito condensado e trouxe o evento dos quadrinhos para dentro de 75 minutos de duração. A próxima adaptação será mais fiel ao material de origem, muito menos condensada e incluirá muitos dos momentos de fãs da história que foram deixados de fora do Apocalypse.",
 ]
 originalTitle: "Reign of the Supermen"
-date: '2021-04-05T21:18:08.000Z'
-update: '2021-04-05T21:18:08.000Z'
+date: '2021-04-13T09:17:03.000Z'
+update: '2021-04-13T09:17:03.000Z'
 releaseDate: '2019-01-13T03:00:00.000Z'
 imdb:
   rating: '6.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'JUM70fOy4Vk',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Animação'] #
+genre: ['Ação', 'Animação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

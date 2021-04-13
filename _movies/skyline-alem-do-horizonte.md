@@ -1,12 +1,12 @@
 ---
-id: '85f8c126-2467-4fd3-8784-426fb0ba3cb3'
+id: 'f26113b7-fe3b-4f09-ba18-cd510f40b96c'
 type: 'movie' # Filme, Série, Anime
 title: "Skyline - Além do Horizonte"
 synopsis: ["Refilmagem de Skyline, de outro ponto de vista, onde um detetive durão embarca em uma busca implacável para libertar seu filho de uma torturante espaçonave alienígena.",
 ]
 originalTitle: "Beyond Skyline"
-date: '2021-04-05T22:23:44.000Z'
-update: '2021-04-05T22:23:44.000Z'
+date: '2021-04-13T09:24:30.000Z'
+update: '2021-04-13T09:24:30.000Z'
 releaseDate: '2017-10-20T03:00:00.000Z'
 imdb:
   rating: '5.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'M2w1HMGaqFM',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Aventura', 'Terror'] #
+genre: ['Ação', 'Aventura', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

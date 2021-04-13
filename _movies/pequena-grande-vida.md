@@ -1,12 +1,12 @@
 ---
-id: '28efa102-847a-43a6-9082-5bd1b8470331'
+id: 'efb6d69e-39e8-4bd1-a599-a7f83856e11b'
 type: 'movie' # Filme, Série, Anime
 title: "Pequena Grande Vida"
 synopsis: ["Na cidade de Omaha, as pessoas descobrem a possibilidade de reduzir de tamanho para uma versão minúscula, a fim de terem menos gastos vivendo em pequenas comunidades que se espalham pelo mundo. Um homem (Matt Damon) aceita passar por esse processo.",
 ]
 originalTitle: "Downsizing"
-date: '2021-04-05T22:23:58.000Z'
-update: '2021-04-05T22:23:58.000Z'
+date: '2021-04-13T09:24:36.000Z'
+update: '2021-04-13T09:24:36.000Z'
 releaseDate: '2017-12-22T03:00:00.000Z'
 imdb:
   rating: '5.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'UCrBICYM0yM',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Comédia', 'Drama'] #
+genre: ['Comédia', 'Drama', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

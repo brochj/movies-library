@@ -1,12 +1,12 @@
 ---
-id: '30bcfb54-7c27-401b-aebe-52424bde1a2b'
+id: '6da84539-1d8b-4bbe-92f2-439e3e96dd0a'
 type: 'movie' # Filme, Série, Anime
 title: "Os Jovens Titãs em Ação! Nos Cinemas"
 synopsis: ["Robin, Ciborgue, Estelar, Ravena e Mutano são os Jovens Titãs. Ao perceberem que todos os super-heróis estão estrelando filmes, eles decidem se mobilizar para também ter espaço nas telonas. O líder do grupo, Robin, está determinado a ser visto como um astro e com ideias malucas e até uma canção eles partem em busca de um diretor de Hollywood, mas acabam enganados por um supervilão.",
 ]
 originalTitle: "Teen Titans Go! To the Movies"
-date: '2021-04-05T21:30:21.000Z'
-update: '2021-04-05T21:30:21.000Z'
+date: '2021-04-13T09:18:49.000Z'
+update: '2021-04-13T09:18:49.000Z'
 releaseDate: '2018-07-27T03:00:00.000Z'
 imdb:
   rating: '6.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'r9WhJyyTtqo',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Animação', 'Comédia'] #
+genre: ['Ação', 'Animação', 'Comédia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

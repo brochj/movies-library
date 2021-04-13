@@ -1,11 +1,11 @@
 ---
-id: 'ce2728da-e50d-4887-b266-2d95f45041c3'
+id: '91fe51e0-e395-4f10-a1e3-da6672c666b9'
 type: 'movie' # Filme, Série, Anime
 title: "Momentum"
 synopsis: []
 originalTitle: "Momentum"
-date: '2021-04-05T21:04:20.000Z'
-update: '2021-04-05T21:04:20.000Z'
+date: '2021-04-13T09:16:12.000Z'
+update: '2021-04-13T09:16:12.000Z'
 releaseDate: '2003-03-26T03:00:00.000Z'
 imdb:
   rating: '4.7' # 8.5
@@ -16,7 +16,7 @@ trailer:
     'QOsR_yDdHxQ',
   ]
 tags: ['720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português' # Dublado, Legendado, Dual Audio, Dub & Leg

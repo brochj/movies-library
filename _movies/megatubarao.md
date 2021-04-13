@@ -1,12 +1,12 @@
 ---
-id: 'dd21a5bb-8b1f-4517-9008-106e239798e4'
+id: '2d66df93-0623-4c83-b08e-67b677aeeffe'
 type: 'movie' # Filme, Série, Anime
 title: "Megatubarão"
 synopsis: ["Na fossa mais profunda do Oceano Pacífico, a tripulação de um submarino fica presa dentro do local após ser atacada por uma criatura pré-histórica que se achava estar extinta, um tubarão de mais de 20 metros de comprimento, o Megalodonte. Para salvá-los, um oceanógrafo chinês (Winston Chao) contrata Jonas Taylor (Jason Statham), mergulhador especializado em resgates em águas profundas que já encontrou com a criatura anteriormente.",
 ]
 originalTitle: "The Meg"
-date: '2021-04-05T21:30:27.000Z'
-update: '2021-04-05T21:30:27.000Z'
+date: '2021-04-13T09:18:53.000Z'
+update: '2021-04-13T09:18:53.000Z'
 releaseDate: '2018-08-09T03:00:00.000Z'
 imdb:
   rating: '5.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'udm5jUA-2bs',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

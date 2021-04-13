@@ -1,12 +1,12 @@
 ---
-id: '81faa0ad-78eb-427c-923b-65a656df0904'
+id: 'fff8f61c-bb75-4169-84dd-b6f450d5cf51'
 type: 'movie' # Filme, Série, Anime
 title: "A Morte do Superman"
 synopsis: ["Um monstro gigantesco batizado de Doomsday surge do mundo subterrâneo para começar uma destruição em massa na cidade de Metropolis. A Liga da Justiça precisa intervir imediatamente, mas parece que só os poderes do Superman são compatíveis com o do terrível monstro. Em uma luta mortal, o destino do super-herói torna-se incerto.",
 ]
 originalTitle: "The Death of Superman"
-date: '2021-04-05T21:39:08.000Z'
-update: '2021-04-05T21:39:08.000Z'
+date: '2021-04-13T09:21:42.000Z'
+update: '2021-04-13T09:21:42.000Z'
 releaseDate: '2018-07-03T03:00:00.000Z'
 imdb:
   rating: '7.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'J5aMJ1qMgA8',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Animação', 'Drama'] #
+genre: ['Ação', 'Animação', 'Drama', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

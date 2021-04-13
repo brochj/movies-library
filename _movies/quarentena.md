@@ -1,12 +1,12 @@
 ---
-id: '03c3d30c-d7dc-4b32-b34f-3316cdde502b'
+id: 'ab6c68e3-3352-4258-8be1-54de936d75fc'
 type: 'movie' # Filme, Série, Anime
 title: "Quarentena"
 synopsis: ["Angela Vidal (Jennifer Carpenter) é uma repórter de TV que, juntamente com seu operador de câmera Scott Percival (Steve Harris), são enviados para cobrir o turno noturno de dois bombeiros. Após uma noite tranqüila, um chamado de emergência os leva a um pequeno prédio no centro da cidade. Ao chegarem alguns policiais já estão no local, devido aos gritos horripilantes que vêm de um apartamento do 3º andar. Ansiosos por um furo de reportagem, Angela e Scott decidem filmar tudo o que acontece no local.",
 ]
 originalTitle: "Quarantine"
-date: '2021-04-05T19:21:50.000Z'
-update: '2021-04-05T19:21:50.000Z'
+date: '2021-04-13T09:14:31.000Z'
+update: '2021-04-13T09:14:31.000Z'
 releaseDate: '2008-10-10T03:00:00.000Z'
 imdb:
   rating: '5.9' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '',
   ]
 tags: ['720p']
-genre: ['Terror'] #
+genre: ['Ficção científica', 'Terror'] #
 quality: 'BluRay Rip' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'MKV' # MKV, MP4, TS
 audio: 'Português' # Dublado, Legendado, Dual Audio, Dub & Leg

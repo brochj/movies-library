@@ -1,12 +1,12 @@
 ---
-id: 'b17920d2-994d-43a6-a2f8-4b41b2f82fe2'
+id: '6845dcfd-531c-4b2b-a6ed-4b5d5e771408'
 type: 'movie' # Filme, Série, Anime
 title: "Brinquedo Assassino"
 synopsis: ["Um boneco altamente tecnológico adentra a vida de um grupo de crianças. Mal sabem elas que o boneco está amaldiçoado e vai trazer todo tipo de horror para o dia a dia delas. Reboot de Brinquedo Assassino.",
 ]
 originalTitle: "Child's Play"
-date: '2021-04-05T20:56:44.000Z'
-update: '2021-04-05T20:56:44.000Z'
+date: '2021-04-13T09:15:04.000Z'
+update: '2021-04-13T09:15:04.000Z'
 releaseDate: '2019-06-19T03:00:00.000Z'
 imdb:
   rating: '5.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '6HqSAtciV3U',
   ]
 tags: ['720p', '1080p']
-genre: ['Terror'] #
+genre: ['Ficção científica', 'Terror'] #
 quality: 'WEBRip' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

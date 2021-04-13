@@ -1,12 +1,12 @@
 ---
-id: 'ce38fb75-2ecc-4ec6-be9f-1fb654f98787'
+id: '29c85482-9b5a-4a04-ae52-f09651f847e6'
 type: 'movie' # Filme, Série, Anime
 title: "O Fim do Dia"
 synopsis: ["Anos depois de uma misteriosa praga ter devastado o planeta e transformado a maioria da humanidade em criaturas sanguinárias, um andarilho malandro em uma caçada vingativa se depara com um grupo de sobreviventes em uma delegacia abandonada e concorda em tentar ajudá-los a se defender e escapar para o santuário que tão desesperadamente necessitam.",
 ]
 originalTitle: "Daylight's End"
-date: '2021-04-05T22:36:26.000Z'
-update: '2021-04-05T22:36:26.000Z'
+date: '2021-04-13T09:26:09.000Z'
+update: '2021-04-13T09:26:09.000Z'
 releaseDate: '2016-04-16T03:00:00.000Z'
 imdb:
   rating: '5.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'NgM1nWRbibw',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

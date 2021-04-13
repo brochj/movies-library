@@ -1,12 +1,12 @@
 ---
-id: '04254aea-e1d4-4e55-8282-a039e4dfece8'
+id: '501a082e-7b4c-4832-be59-5d2edf3ab296'
 type: 'movie' # Filme, Série, Anime
 title: "Venom"
 synopsis: ["Eddie Brock (Tom Hardy) é um jornalista investigativo, que tem um quadro próprio em uma emissora local. Um dia, ele é escalado para entrevistar Carlton Drake (Riz Ahmed), o criador da Fundação Vida, que tem investido bastante em missões espaciais de forma a encontrar possíveis usos medicinais para a humanidade. Após acessar um documento sigiloso enviado à sua namorada, a advogada Anne Weying (Michelle Williams), Brock descobre que Drake tem feito experimentos científicos em humanos. Ele resolve denunciar esta situação durante a entrevista, o que faz com que seja demitido. Seis meses depois, o ainda desempregado Brock é procurado pela dra. Dora Skirth (Jenny Slate) com uma denúncia: Drake estaria usando simbiontes alienígenas em testes com humanos, muitos deles mortos como cobaias.",
 ]
 originalTitle: "Venom"
-date: '2021-04-05T21:22:01.000Z'
-update: '2021-04-05T21:22:01.000Z'
+date: '2021-04-13T09:17:45.000Z'
+update: '2021-04-13T09:17:45.000Z'
 releaseDate: '2018-09-28T03:00:00.000Z'
 imdb:
   rating: '6.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '1eWpCICE610',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

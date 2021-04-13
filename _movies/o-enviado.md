@@ -1,12 +1,12 @@
 ---
-id: 'd59c38f3-203e-49b8-8935-ab15f0f690d0'
+id: '1127b16e-760b-4a21-99d0-8d115b4a174e'
 type: 'movie' # Filme, Série, Anime
 title: "O Enviado"
 synopsis: ["Adam, o filho de oito anos de Jessie e Paul, morre num acidente no dia de seu aniversário. Logo depois o casal conhece Richard, um doutor renomado da pesquisa genética, que ao saber do caso, resolve ajudá-los. Ele propõe ao casal que eles participem de uma experiência de clonagem. Depois de muito pensar, eles aceitam e a experiência que dá certo. Adam “renasce” igualzinho, mas só até completar oito anos. A partir de então, uma nova personalidade começa a se manifestar em Adam… Sinistra e aterrorizante!",
 ]
 originalTitle: "Godsend"
-date: '2021-04-05T22:14:31.000Z'
-update: '2021-04-05T22:14:31.000Z'
+date: '2021-04-13T09:22:57.000Z'
+update: '2021-04-13T09:22:57.000Z'
 releaseDate: '2004-04-30T03:00:00.000Z'
 imdb:
   rating: '4.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Drama', 'Terror'] #
+genre: ['Drama', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

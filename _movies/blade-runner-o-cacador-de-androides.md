@@ -1,12 +1,12 @@
 ---
-id: '194f4db4-5477-430a-9737-e1cc226d5e2e'
+id: '2f2c294d-3188-4b17-bf1d-b7678716c700'
 type: 'movie' # Filme, Série, Anime
 title: "Blade Runner: O Caçador de Andróides"
 synopsis: ["No início do século XXI, uma grande corporação desenvolve um robô que é mais forte e ágil que o ser humano e se equiparando em inteligência. São conhecidos como replicantes e utilizados como escravos na colonização e exploração de outros planetas. Mas, quando um grupo dos robôs mais evoluídos provoca um motim, em uma colônia fora da Terra, este incidente faz os replicantes serem considerados ilegais na Terra, sob pena de morte. A partir de então, policiais de um esquadrão de elite, conhecidos como Blade Runner, têm ordem de atirar para matar em replicantes encontrados na Terra, mas tal ato não é chamado de execução e sim de remoção. Até que, em novembro de 2019, em Los Angeles, quando cinco replicantes chegam à Terra, um ex-Blade Runner (Harrison Ford) é encarregado de caçá-los.",
 ]
 originalTitle: "Blade Runner"
-date: '2021-04-05T22:35:00.000Z'
-update: '2021-04-05T22:35:00.000Z'
+date: '2021-04-13T09:25:57.000Z'
+update: '2021-04-13T09:25:57.000Z'
 releaseDate: '1982-06-25T03:00:00.000Z'
 imdb:
   rating: '8.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'gCcx85zbxz4',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Drama'] #
+genre: ['Drama', 'Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

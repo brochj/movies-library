@@ -1,12 +1,12 @@
 ---
-id: 'a477f987-d682-432e-9bad-f908b1325d89'
+id: 'd6eb5f60-14d9-4439-8e6f-d8c4a3a00c51'
 type: 'movie' # Filme, Série, Anime
 title: "Transformers: O Último Cavaleiro"
 synopsis: ["Optimus Prime encontra seu planeta natal, Cybertron, agora um planeta morto, e descobre que foi responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.",
 ]
 originalTitle: "Transformers: The Last Knight"
-date: '2021-04-05T22:46:10.000Z'
-update: '2021-04-05T22:46:10.000Z'
+date: '2021-04-13T09:27:33.000Z'
+update: '2021-04-13T09:27:33.000Z'
 releaseDate: '2017-06-16T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'AntcyqJ6brc',
   ]
 tags: ['1080p', '1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'REMUX 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

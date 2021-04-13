@@ -1,12 +1,12 @@
 ---
-id: '5e719351-7d86-449d-8469-98f93d9bd50d'
+id: '873898cc-8ae3-4221-86cd-95082f9b72db'
 type: 'movie' # Filme, Série, Anime
 title: "Maligna"
 synopsis: ["Um psicólogo envolve um perigoso, jovem gênio em uma batalha de inteligências, desconhecendo do poder sobrenatural que a menina possui, que o leva sua vida em jogo.",
 ]
 originalTitle: "Prodigy"
-date: '2021-04-05T22:56:03.000Z'
-update: '2021-04-05T22:56:03.000Z'
+date: '2021-04-13T09:28:15.000Z'
+update: '2021-04-13T09:28:15.000Z'
 releaseDate: '2017-03-04T03:00:00.000Z'
 imdb:
   rating: '5.9' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'BC4cyYRxjFk',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Drama'] #
+genre: ['Drama', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: '5639f323-af15-47a8-b6aa-8ae9dd16754f'
+id: '0cb991ba-9580-4cec-bea2-2107c191c400'
 type: 'movie' # Filme, Série, Anime
 title: "A Torre Negra"
 synopsis: ["Um pistoleiro chamado Roland Deschain (Idris Elba) percorre o mundo em busca da famosa Torre Negra, prédio mágico que está prestes a desaparecer. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto (Matthew McConaughey), passagens entre tempos diferentes, encontros intensos e confusões entre o real e o imaginário. Baseado na obra literária homônima de Stephen King.",
 ]
 originalTitle: "The Dark Tower"
-date: '2021-04-05T22:43:59.000Z'
-update: '2021-04-05T22:43:59.000Z'
+date: '2021-04-13T09:27:14.000Z'
+update: '2021-04-13T09:27:14.000Z'
 releaseDate: '2017-08-03T03:00:00.000Z'
 imdb:
   rating: '5.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'GjwfqXTebIY',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Fantasia', 'Faroeste', 'Terror'] #
+genre: ['Ação', 'Fantasia', 'Faroeste', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

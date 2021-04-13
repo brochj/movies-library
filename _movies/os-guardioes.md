@@ -1,12 +1,12 @@
 ---
-id: '9399382a-e876-4d89-b904-6391ef2194fc'
+id: 'ddf8e362-0928-47bc-b50a-5ee9fb8fdb5d'
 type: 'movie' # Filme, Série, Anime
 title: "Os Guardiões"
 synopsis: ["Em plena Guerra Fria, uma organização secreta chamada “Patriota” recrutou um grupo de super-heróis russos, modificando o DNA de quatro indivíduos, com o objetivo de defender o país de ameaças sobrenaturais. Arsus, Khan, Ler e Xenia representam os diferentes povos que compõem a União Soviética, e mantêm suas identidades bem guardadas para, também, não expor aqueles que têm a missão de proteger.",
 ]
 originalTitle: "Защитники"
-date: '2021-04-05T22:38:14.000Z'
-update: '2021-04-05T22:38:14.000Z'
+date: '2021-04-13T09:26:28.000Z'
+update: '2021-04-13T09:26:28.000Z'
 releaseDate: '2017-02-14T03:00:00.000Z'
 imdb:
   rating: '4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'AH_D8COMbhc',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Fantasia'] #
+genre: ['Ação', 'Fantasia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Russo' # Dublado, Legendado, Dual Audio, Dub & Leg

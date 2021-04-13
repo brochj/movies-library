@@ -1,12 +1,12 @@
 ---
-id: 'b58451eb-f8d5-4a04-ab47-658ff9a7de46'
+id: '36a00a52-f893-42ab-8052-110a6e256a45'
 type: 'movie' # Filme, Série, Anime
 title: "Os Curados"
 synopsis: ["Uma contaminação que gerou uma praga zumbi é curada. É iniciado um processo de reintegrar os comedores de carne infectados anteriormente, mas a sociedade passa a discriminá-los, inclusive suas próprias famílias. Problemas sociais emergem, gerando uma interferência governamental militante.",
 ]
 originalTitle: "The Cured"
-date: '2021-04-05T22:14:10.000Z'
-update: '2021-04-05T22:14:10.000Z'
+date: '2021-04-13T09:22:46.000Z'
+update: '2021-04-13T09:22:46.000Z'
 releaseDate: '2018-02-23T03:00:00.000Z'
 imdb:
   rating: '5.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'fSutgzDY_I4',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Drama', 'Terror'] #
+genre: ['Drama', 'Ficção científica', 'Terror'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

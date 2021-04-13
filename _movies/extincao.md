@@ -1,12 +1,12 @@
 ---
-id: '5452782d-ead2-4ddb-9afa-214cb86bc133'
+id: 'dcee8092-dceb-4d25-b307-87b97429b4c6'
 type: 'movie' # Filme, Série, Anime
 title: "Extinção"
 synopsis: ["Atormentado por sonhos com uma invasão alienígena, um homem vê seu pesadelo se tornar realidade quando uma força extraterrestre ataca o planeta Terra.",
 ]
 originalTitle: "Extinction"
-date: '2021-04-05T21:41:01.000Z'
-update: '2021-04-05T21:41:01.000Z'
+date: '2021-04-13T09:21:54.000Z'
+update: '2021-04-13T09:21:54.000Z'
 releaseDate: '2018-07-15T03:00:00.000Z'
 imdb:
   rating: '5.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '-ePDPGXkvlw',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Drama'] #
+genre: ['Ação', 'Drama', 'Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

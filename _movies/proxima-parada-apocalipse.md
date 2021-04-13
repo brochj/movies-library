@@ -1,12 +1,12 @@
 ---
-id: '354d05e0-d59e-4588-a335-ebe8767d1b74'
+id: 'bf307309-2744-4692-a859-5b64df084dc8'
 type: 'movie' # Filme, Série, Anime
 title: "Próxima Parada: Apocalipse"
 synopsis: ["Quando uma misteriosa catástrofe transforma os Estados Unidos em uma zona de guerra, um homem decide cruzar o país com seu futuro sogro em busca da noiva grávida.",
 ]
 originalTitle: "How It Ends"
-date: '2021-04-05T21:43:57.000Z'
-update: '2021-04-05T21:43:57.000Z'
+date: '2021-04-13T09:22:01.000Z'
+update: '2021-04-13T09:22:01.000Z'
 releaseDate: '2018-07-13T03:00:00.000Z'
 imdb:
   rating: '5' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'WJyyJ7lexnM',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura', 'Mistério'] #
+genre: ['Ação', 'Aventura', 'Ficção científica', 'Mistério'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

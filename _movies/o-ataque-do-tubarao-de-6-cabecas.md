@@ -1,12 +1,12 @@
 ---
-id: 'edc3f8d8-dada-4196-89b7-6031a5f6a1c9'
+id: 'e5d54afb-6d2b-47af-a3cc-e563d237d768'
 type: 'movie' # Filme, Série, Anime
 title: "O Ataque do Tubarão de 6 Cabeças"
 synopsis: ["O que é suposto ser um acampamento de casamento em uma ilha remota se transforma no teste final para a sobrevivência quando um tubarão de 6 cabeças começa a atacar a praia. Presos com armas mínimas, eles tentam combater o tubarão, mas descobrem rapidamente que ninguém está seguro na água ou em terra.",
 ]
 originalTitle: "6-Headed Shark Attack"
-date: '2021-04-05T21:19:15.000Z'
-update: '2021-04-05T21:19:15.000Z'
+date: '2021-04-13T09:17:22.000Z'
+update: '2021-04-13T09:17:22.000Z'
 releaseDate: '2018-08-18T03:00:00.000Z'
 imdb:
   rating: '2.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'Ksmjm7OeX_E',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

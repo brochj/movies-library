@@ -1,12 +1,12 @@
 ---
-id: '89a8bc68-152b-43a5-9dc7-3d4a30432399'
+id: '178fb91a-e539-4aa2-bd2a-e14fd4dd3007'
 type: 'movie' # Filme, Série, Anime
 title: "A Inundação"
 synopsis: ["Um cientista constrói uma enorme arca após seus avisos de inundação do planeta serem ignorados. Quando o desastre se aproxima, aqueles que desdenharam dele, agora imploram por uma vaga em sua embarcação antes que o mundo se torne em um oceano infinito.",
 ]
 originalTitle: "Oceans Rising"
-date: '2021-04-05T22:31:54.000Z'
-update: '2021-04-05T22:31:54.000Z'
+date: '2021-04-13T09:25:23.000Z'
+update: '2021-04-13T09:25:23.000Z'
 releaseDate: '2017-01-17T03:00:00.000Z'
 imdb:
   rating: '2.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '2LYid5DFj08',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: '0a68d9fa-51ec-4765-b6f2-b1b945ca4bbe'
+id: 'cb595935-1e3a-42a7-8ad2-e40f71447df1'
 type: 'movie' # Filme, Série, Anime
 title: "Brightburn - Filho das Trevas"
 synopsis: ["Quando uma criança alienígena cai no terreno de um casal da parte rural dos Estados Unidos, eles decidem criar o menino como seu filho. Porém, ao começar a descobrir seus poderes, ao invés de se tornar um herói para a humanidade, ele passa a aterrorizar a pequena cidade onde vive, se tornando uma força obscura na Terra",
 ]
 originalTitle: "Brightburn"
-date: '2021-04-05T21:03:35.000Z'
-update: '2021-04-05T21:03:35.000Z'
+date: '2021-04-13T09:16:00.000Z'
+update: '2021-04-13T09:16:00.000Z'
 releaseDate: '2019-05-09T03:00:00.000Z'
 imdb:
   rating: '6.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'CszWzQwOtoE',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Terror'] #
+genre: ['Ficção científica', 'Terror'] #
 quality: 'WEB-DL' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

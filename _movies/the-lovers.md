@@ -1,12 +1,12 @@
 ---
-id: 'a5a5fb7c-fbbc-46f5-919f-070e422556fa'
+id: '63449d4e-5785-4cc6-8951-71c00067100b'
 type: 'movie' # Filme, Série, Anime
 title: "The Lovers"
 synopsis: ["Após uma expedição em alto-mar, Jay Fennel (Josh Hartnett) acaba sofrendo um grave acidente e entra em coma. Mas, graças a um anel que encontrou na mesma expedição, ele acaba indo parar em outro tempo, deixando para trás Jay e sua esposa Laura Fennel (Tamsin Egerton). Na outra realidade, ele se encontra como James Stewart, e conhece a jovem Tujala Naik (Bipasha Basu), por quem se apaixona. Agora, James se encontra dividido em dois períodos com dois amores que o fazem querer voltar e ao mesmo tempo permanecer onde está.",
 ]
 originalTitle: "The Lovers"
-date: '2021-04-05T21:34:20.000Z'
-update: '2021-04-05T21:34:20.000Z'
+date: '2021-04-13T09:19:31.000Z'
+update: '2021-04-13T09:19:31.000Z'
 releaseDate: '2015-02-13T03:00:00.000Z'
 imdb:
   rating: '4.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'nk-T71VhP8I',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Aventura', 'Romance'] #
+genre: ['Ação', 'Aventura', 'Ficção científica', 'Romance'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

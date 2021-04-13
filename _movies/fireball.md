@@ -1,12 +1,12 @@
 ---
-id: '3bcd1607-c98b-453b-afa6-589b74004f50'
+id: 'a8cc3b0c-12e5-49be-ae59-44199e0c3953'
 type: 'movie' # Filme, Série, Anime
 title: "Fireball"
 synopsis: ["Tai, preso durante um ano, fica livre da prisão graças à seu irmão, Tan. Mas, assim que ele volta para a rua, descobre através de sua cunhada, Pang, que o irmão ficou em coma durante todo o ano. A partir daí, o jovem decide traçar os caminhos de Tan para descobrir o que aconteceu, e acaba entrando em um perigoso jogo de basquete ilegal chamado Fireball, que já custou a vida de muitos participantes.",
 ]
 originalTitle: "Ta chon / Fireball"
-date: '2021-04-05T22:55:23.000Z'
-update: '2021-04-05T22:55:23.000Z'
+date: '2021-04-13T09:28:08.000Z'
+update: '2021-04-13T09:28:08.000Z'
 releaseDate: '2009-01-29T03:00:00.000Z'
 imdb:
   rating: '5.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'IB_mm-8spPo',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Tailandês' # Dublado, Legendado, Dual Audio, Dub & Leg

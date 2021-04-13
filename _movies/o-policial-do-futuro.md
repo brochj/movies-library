@@ -1,12 +1,12 @@
 ---
-id: '3dd382c1-4567-4f7c-8d92-e979f607ae67'
+id: '4ff46f92-b58e-49aa-84cb-6a8f953bee9e'
 type: 'movie' # Filme, Série, Anime
 title: "O Policial do Futuro"
 synopsis: ["Um detetive de homicídios danificado (Johnny Messner ) deve impedir que um pai em luto de desencadear um “vírus robótico ” que ele acredita que irá destruir a célula terrorista que assassinou seu filho, mas a um custo inimaginável.",
 ]
 originalTitle: "Weaponized"
-date: '2021-04-05T22:14:15.000Z'
-update: '2021-04-05T22:14:15.000Z'
+date: '2021-04-13T09:22:49.000Z'
+update: '2021-04-13T09:22:49.000Z'
 releaseDate: '2016-03-01T03:00:00.000Z'
 imdb:
   rating: '4.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'ZICkczbWFpM',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

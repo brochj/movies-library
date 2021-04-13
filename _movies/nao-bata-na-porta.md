@@ -1,12 +1,12 @@
 ---
-id: '4532fe4b-d866-4a34-982b-62a5bee95404'
+id: '71d7751f-666b-495e-ae8f-cbf3a8f68cd1'
 type: 'movie' # Filme, Série, Anime
 title: "Não Bata na Porta"
 synopsis: ["Depois que Grace e seus amigos ignoram as advertências de uma lenda urbana local, eles desencadeiam uma criatura horrível conhecida como Never Knock, que usa seus piores medos para perseguir e matá-los um a um.",
 ]
 originalTitle: "Neverknock"
-date: '2021-04-05T22:19:09.000Z'
-update: '2021-04-05T22:19:09.000Z'
+date: '2021-04-13T09:23:51.000Z'
+update: '2021-04-13T09:23:51.000Z'
 releaseDate: '2017-10-15T03:00:00.000Z'
 imdb:
   rating: '4.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'IEqfkmQi03Y',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Terror'] #
+genre: ['Ficção científica', 'Terror'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

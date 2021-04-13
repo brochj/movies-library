@@ -1,12 +1,12 @@
 ---
-id: '08ef7eef-f44b-44a0-8e1f-d6e91976660f'
+id: '6d70f4df-fed9-453c-950f-8d48db2e31ee'
 type: 'movie' # Filme, Série, Anime
 title: "A-X-L: O Cão Robô"
 synopsis: ["Desenvolvido exclusivamente pelo governo para fins secretos, A.X.L é um cão robótico dotado de extrema rapidez e força acima da média. Porém, quando ele conhece o jovem Miles, surge um inesperado sentimento recíproco de amor e carinho que faz com o robô faça qualquer coisa para proteger seu novo dono, que agora se torna foragido por roubar um protótipo governamental.",
 ]
 originalTitle: "A-X-L"
-date: '2021-04-05T21:06:28.000Z'
-update: '2021-04-05T21:06:28.000Z'
+date: '2021-04-13T09:16:23.000Z'
+update: '2021-04-13T09:16:23.000Z'
 releaseDate: '2018-08-23T03:00:00.000Z'
 imdb:
   rating: '5.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'Eix-Ujvko-0',
   ]
 tags: ['720p', '1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

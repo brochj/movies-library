@@ -1,12 +1,12 @@
 ---
-id: '9373529e-731d-428b-be08-d10ec38a2fa8'
+id: '29c36e10-88d7-4fbc-bd6c-a5a81a8a63ac'
 type: 'movie' # Filme, Série, Anime
 title: "MIB: Homens de Preto - Internacional"
 synopsis: ["Por décadas a agência Homens de Preto protegeu a Terra da escória do universo, mas agora precisa lidar com a maior das ameaças: um traidor, justo quando a agência torna-se internacional. É neste contexto que Em tenta se tornar agente, já que teve uma experiência extraterrestre quando jovem e não teve sua memória apagada. Quem irá auxiliá-la nesta jornada é o atrapalhado agente H.",
 ]
 originalTitle: "Men in Black: International"
-date: '2021-04-05T20:56:48.000Z'
-update: '2021-04-05T20:56:48.000Z'
+date: '2021-04-13T09:15:09.000Z'
+update: '2021-04-13T09:15:09.000Z'
 releaseDate: '2019-06-12T03:00:00.000Z'
 imdb:
   rating: '5.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '7rJF4cOo3_4',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura', 'Comédia'] #
+genre: ['Ação', 'Aventura', 'Comédia', 'Ficção científica'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

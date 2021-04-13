@@ -1,12 +1,12 @@
 ---
-id: 'aa50140a-c79e-4198-846f-5c2e53bfac53'
+id: 'b7966526-2f06-42cc-825d-5b85f5526107'
 type: 'movie' # Filme, Série, Anime
 title: "Jurassic World: Reino Ameaçado"
 synopsis: ["Quatro anos após o fechamento do Jurassic World, um vulcão prestes a entrar em erupção põe em risco a vida na ilha Nublar. No local não há mais qualquer presença humana, com os dinossauros vivendo livremente. Diante da situação, é preciso tomar uma decisão: deve-se retornar à ilha para salvar os animais ou abandoná-los para uma nova extinção? Decidida a resgatá-los, Claire (Bryce Dallas Howard) convoca Owen (Chris Pratt) a retornar à ilha com ela.",
 ]
 originalTitle: "Jurassic World: Fallen Kingdom"
-date: '2021-04-05T21:33:13.000Z'
-update: '2021-04-05T21:33:13.000Z'
+date: '2021-04-13T09:19:19.000Z'
+update: '2021-04-13T09:19:19.000Z'
 releaseDate: '2018-06-06T03:00:00.000Z'
 imdb:
   rating: '6.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'vn9mMeWcgoM',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

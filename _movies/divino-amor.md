@@ -1,12 +1,12 @@
 ---
-id: '33f2cb1e-18be-4b7e-8878-b5714e2a2dc4'
+id: '571cabe7-9488-48c0-84d0-921310814b58'
 type: 'movie' # Filme, Série, Anime
 title: "Divino Amor"
 synopsis: ["Joana usa sua posição no trabalho para salvar casais que chegam para se divorciar. Ela faz de tudo para seduzir os clientes a participarem de uma terapia religiosa de reconciliação no grupo Divino Amor. Tudo é em nome de um projeto maior para a manutenção da família sagrada dentro da fé e da fidelidade conjugal",
 ]
 originalTitle: "Divino Amor"
-date: '2021-04-05T21:02:38.000Z'
-update: '2021-04-05T21:02:38.000Z'
+date: '2021-04-13T09:15:52.000Z'
+update: '2021-04-13T09:15:52.000Z'
 releaseDate: '2019-03-21T03:00:00.000Z'
 imdb:
   rating: '6.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '4ZTVxQOQdMY',
   ]
 tags: ['1080p', '1080p']
-genre: ['Drama'] #
+genre: ['Drama', 'Ficção científica'] #
 quality: 'WEB-DL' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português' # Dublado, Legendado, Dual Audio, Dub & Leg

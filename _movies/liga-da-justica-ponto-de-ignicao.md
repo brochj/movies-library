@@ -1,12 +1,12 @@
 ---
-id: 'a7788eaa-c56d-42b7-bcb7-8c2d80889ef6'
+id: 'd3a16a39-b1cf-4d76-8b67-00476fba2cee'
 type: 'movie' # Filme, Série, Anime
 title: "Liga da Justiça: Ponto de Ignição"
 synopsis: ["Barry Allen, o herói Flash, nunca conseguiu esquecer o dia em que sua mãe foi vítima de um horrendo crime e faleceu. Determinado a mudar a sua história, ele quebra as barreiras do tempo com sua hipervelocidade e volta no tempo, para impedir que a tragédia aconteça. No entanto, mexer com a linha temporal traz sérias consequências para o presente. Por conta da sua volta, o mundo é devastado por uma grande guerra entre as amazonas da Mulher-Maravilha e o exército de Atlantis, liderados por Aquaman. Junto com o Batman dessa nova realidade, mais violento e destemido, e a ajuda do Cyborg, ele tenta restaurar o fluxo temporal e impedir que esse mundo alternativo se concretize.",
 ]
 originalTitle: "Justice League: The Flashpoint Paradox"
-date: '2021-04-05T22:33:03.000Z'
-update: '2021-04-05T22:33:03.000Z'
+date: '2021-04-13T09:25:42.000Z'
+update: '2021-04-13T09:25:42.000Z'
 releaseDate: '2013-07-28T03:00:00.000Z'
 imdb:
   rating: '8.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'Q3tochTgPVc',
   ]
 tags: ['1080p']
-genre: ['Ação', 'Animação', 'Aventura', 'Fantasia'] #
+genre: ['Ação', 'Animação', 'Aventura', 'Fantasia', 'Ficção científica'] #
 quality: 'BluRay 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mp4' # MKV, MP4, TS
 audio: 'Português' # Dublado, Legendado, Dual Audio, Dub & Leg

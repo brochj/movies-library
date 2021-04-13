@@ -1,12 +1,12 @@
 ---
-id: 'de5b8f78-b2c9-4b16-9a50-89df18797900'
+id: '184cdce5-14b1-4587-99db-2c7ef413e2a1'
 type: 'movie' # Filme, Série, Anime
 title: "Hellboy"
 synopsis: ["Ao chegar à Terra ainda criança, após ser invocado por um feiticeiro contratado pelo governo nazista, Hellboy (David Harbour) foi criado como um filho por Trevor Bruttenholm (Ian McShane), um professor que estava no local no momento em que emergiu do inferno. Já adulto, Hellboy se torna um aliado dos humanos na batalha contra monstros de todo tipo. Quando a poderosa feiticeira Nimue (Milla Jovovich), também conhecida com a Rainha Sangrenta, insinua seu retorno, ele logo é convocado para enfrentá-la.",
 ]
 originalTitle: "Hellboy"
-date: '2021-04-05T21:01:15.000Z'
-update: '2021-04-05T21:01:15.000Z'
+date: '2021-04-13T09:15:34.000Z'
+update: '2021-04-13T09:15:34.000Z'
 releaseDate: '2019-04-10T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'ZsBO4b3tyZg',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura', 'Fantasia', 'Terror'] #
+genre: ['Ação', 'Aventura', 'Fantasia', 'Ficção científica', 'Terror'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

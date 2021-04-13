@@ -1,12 +1,12 @@
 ---
-id: '8047ebde-efef-40a4-8a16-3774ffc53788'
+id: 'db1910da-2543-47dd-98c1-b5512b6c11b3'
 type: 'movie' # Filme, Série, Anime
 title: "Reaper"
 synopsis: ["Uma jovem mochileira se vê em uma cidade misteriosa com um perigoso assassino em série as soltas. Ela é forçada a se unir a um grupo de bandidos assustadores para poder sobreviver e derrotar o Ceifeiro.",
 ]
 originalTitle: "Reaper"
-date: '2021-04-05T21:42:54.000Z'
-update: '2021-04-05T21:42:54.000Z'
+date: '2021-04-13T09:21:58.000Z'
+update: '2021-04-13T09:21:58.000Z'
 releaseDate: '2015-06-05T03:00:00.000Z'
 imdb:
   rating: '5.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'xI7pN3jtdIQ',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Crime', 'Terror'] #
+genre: ['Crime', 'Ficção científica', 'Terror'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

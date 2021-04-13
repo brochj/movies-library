@@ -1,12 +1,12 @@
 ---
-id: 'ea74f5b9-cbe6-41f8-b9f8-4a7d78333044'
+id: '554c2a31-d9ca-45b7-a385-b67cf214f88c'
 type: 'movie' # Filme, Série, Anime
 title: "Street Fighter - A Lenda de Chun-Li"
 synopsis: ["Bangkok. Bison (Neal McDonough) é o chefe de uma organização criminosa de grande poder, cujo passado guarda um grande segredo. O cartel de Bison, Shadaloo, está assumindo o controle das áreas mais pobres da cidade. A tarefa está a cargo do assassino Balrog (Michael Clarke Duncan), que conta ainda com a ajuda de Vega (Taboo) e Cantana (Josie Ho). Em meio ao caos vive Chun-Li (Kristin Kreuk), que abriu mão de uma vida de facilidades para se tornar uma street fighter, de forma que pudesse lutar por outras pessoas. Seu mentor é Gen (Robin Shou), que no passado foi um grande malfeitor mas hoje está regenerado. A dupla está decidida a deter Bison, assim como o detetive Charlie Nash (Chris Klein) e sua parceira Maya Sunee (Moon Bloodgood).",
 ]
 originalTitle: "Street Fighter: The Legend of Chun-Li"
-date: '2021-04-05T22:09:48.000Z'
-update: '2021-04-05T22:09:48.000Z'
+date: '2021-04-13T09:22:17.000Z'
+update: '2021-04-13T09:22:17.000Z'
 releaseDate: '2009-02-27T03:00:00.000Z'
 imdb:
   rating: '3.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'hupTLpAa2IM',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Espanhol' # Dublado, Legendado, Dual Audio, Dub & Leg

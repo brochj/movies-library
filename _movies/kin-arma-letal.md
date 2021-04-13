@@ -1,12 +1,12 @@
 ---
-id: '126da2bc-4adf-42c3-8f15-91fb81f9ba1e'
+id: '337f1178-4c93-4d8f-9e9d-e0d0c9e5423e'
 type: 'movie' # Filme, Série, Anime
 title: "Kin - Arma Letal"
 synopsis: ["Um ex-condenado e seu irmão mais novo são forçados a fugir de um vingativo criminoso, federais e uma série de soldados de outro mundo. A única proteção que eles possuem é uma arma de procedência misteriosa. Enquanto coisas estranhas acontecem com os irmãos, uma agente do FBI (Carrie Coon) é chamada para investigar o caso.",
 ]
 originalTitle: "Kin"
-date: '2021-04-05T21:28:45.000Z'
-update: '2021-04-05T21:28:45.000Z'
+date: '2021-04-13T09:18:33.000Z'
+update: '2021-04-13T09:18:33.000Z'
 releaseDate: '2018-08-29T03:00:00.000Z'
 imdb:
   rating: '5.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'Ac5wrM2uYbk',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

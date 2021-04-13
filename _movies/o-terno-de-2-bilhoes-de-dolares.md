@@ -1,12 +1,12 @@
 ---
-id: '9f4ca146-cad8-4b74-ad54-c15d83a591dc'
+id: 'a5f22750-517c-4c80-9b28-09798a2cc5fc'
 type: 'movie' # Filme, Série, Anime
 title: "O Terno de 2 Bilhões de Dólares"
 synopsis: ["Jackie Chan (A Hora do Rush) e Jennifer Love Hewitt (Doce Trapaça) são parceiros de muita ação em O Terno de 2 Bilhões de Dólares, uma aventura espetacular, recheada de risos e cenas de ação radicais e malucas. Jimmy Tong (Chan) é o simpático motorista particular de um milionário que acaba sofrendo um acidente. De volta para casa, Tong prova o terno do patrão que lhe dá super poderes. Confeccionado para enfrentar confusões, o smoking de luxo faz Chan e sua inexperiente parceira (Love Hewitt) entrarem no perigoso mundo da espionagem internacional.",
 ]
 originalTitle: "The Tuxedo"
-date: '2021-04-05T20:57:01.000Z'
-update: '2021-04-05T20:57:01.000Z'
+date: '2021-04-13T09:15:12.000Z'
+update: '2021-04-13T09:15:12.000Z'
 releaseDate: '2002-09-27T03:00:00.000Z'
 imdb:
   rating: '5.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'nWqbjZ3bGWU',
   ]
 tags: ['1080p']
-genre: ['Ação', 'Comédia'] #
+genre: ['Ação', 'Comédia', 'Ficção científica'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

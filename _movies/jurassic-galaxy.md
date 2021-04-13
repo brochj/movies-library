@@ -1,11 +1,11 @@
 ---
-id: 'dbbc9f62-dcf7-4a3b-9c58-7b410fef1969'
+id: '0ac9c0d7-44df-432c-b3c9-e166cd328a96'
 type: 'movie' # Filme, Série, Anime
 title: "Jurassic Galaxy"
 synopsis: []
 originalTitle: "Jurassic Galaxy"
-date: '2021-04-05T21:12:53.000Z'
-update: '2021-04-05T21:12:53.000Z'
+date: '2021-04-13T09:16:42.000Z'
+update: '2021-04-13T09:16:42.000Z'
 releaseDate: '2018-08-20T03:00:00.000Z'
 imdb:
   rating: '2.3' # 8.5
@@ -16,7 +16,7 @@ trailer:
     'DgS3OT_9dPc',
   ]
 tags: ['720p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

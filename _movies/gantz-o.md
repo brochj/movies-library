@@ -1,12 +1,12 @@
 ---
-id: '1da4da34-4c2c-49e6-8376-f1cb426a9ba5'
+id: '831d807e-8594-451a-9524-9211001d4072'
 type: 'movie' # Filme, Série, Anime
 title: "Gantz: O"
 synopsis: ["Masaru Kato morreu em um acidente de carro. Surpreendentemente, ele acorda em um quarto que nunca viu. Lá ele conhece os membros do chamado Time Tokyo, cujo líder acabou de morrer. Junto com o Time Tokyo, Kato se vê no meio do fogo cruzado contra o Time Osaka, que são um bando de bandidos. Em meio a vários incidentes, Kato continua lutando com o objetivo de chegar em casa para o seu irmão.",
 ]
 originalTitle: "GANTZ:O"
-date: '2021-04-05T22:36:46.000Z'
-update: '2021-04-05T22:36:46.000Z'
+date: '2021-04-13T09:26:16.000Z'
+update: '2021-04-13T09:26:16.000Z'
 releaseDate: '2016-10-14T03:00:00.000Z'
 imdb:
   rating: '7.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'r37ARGRJC-k',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Animação'] #
+genre: ['Ação', 'Animação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

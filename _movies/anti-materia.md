@@ -1,12 +1,12 @@
 ---
-id: '39345bdd-4d4f-4a96-92e2-f08d26727949'
+id: '442f5372-a6eb-40fa-8b59-8dc086f55fc9'
 type: 'movie' # Filme, Série, Anime
 title: "Anti Matéria"
 synopsis: ["Ana, uma estudante, começa a ter problemas de memória após uma experiência para viajar através de um buraco de minhoca. A história segue seus desesperados esforços para entender o que aconteceu e achar quem ou o quê está por trás do crescente terror em sua vida.",
 ]
 originalTitle: "Anti Matter"
-date: '2021-04-05T22:38:31.000Z'
-update: '2021-04-05T22:38:31.000Z'
+date: '2021-04-13T09:26:34.000Z'
+update: '2021-04-13T09:26:34.000Z'
 releaseDate: '2016-09-26T03:00:00.000Z'
 imdb:
   rating: '5.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'JfRGj4EZXEI',
   ]
 tags: ['720p', '1080p', '720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

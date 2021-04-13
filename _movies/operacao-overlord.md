@@ -1,12 +1,12 @@
 ---
-id: '7a4dc623-6527-40c2-a924-95f598a46d80'
+id: '5b78ea07-d8ec-40f4-af62-d931a861de87'
 type: 'movie' # Filme, Série, Anime
 title: "Operação Overlord"
 synopsis: ["Uma tropa de paraquedistas americanos é lançada atrás das linhas inimigas para uma missão crucial. Mas, quando se aproximam do alvo percebem que não é só uma simples operação militar e tem mais coisas acontecendo no lugar, que está ocupado por nazistas.",
 ]
 originalTitle: "Overlord"
-date: '2021-04-05T22:50:03.000Z'
-update: '2021-04-05T22:50:03.000Z'
+date: '2021-04-13T09:27:58.000Z'
+update: '2021-04-13T09:27:58.000Z'
 releaseDate: '2018-11-01T03:00:00.000Z'
 imdb:
   rating: '6.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'USPd0vX2sdc',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Guerra', 'Terror'] #
+genre: ['Ficção científica', 'Guerra', 'Terror'] #
 quality: 'BluRay 720p | 108p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

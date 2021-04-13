@@ -1,12 +1,12 @@
 ---
-id: '47228b13-856a-472e-a15a-626f50e0cd37'
+id: '05d6a454-62b0-4554-8f8f-faeffcf24c7a'
 type: 'movie' # Filme, Série, Anime
 title: "G.I. Joe - A Origem de Cobra"
 synopsis: ["James McCullen (Christopher Eccleston) é o maior comerciante de armas do planeta. Ele está prestes a lançar sua nova arma, os nanomites, microscópicos robôs que podem destruir tudo o que encontram pela frente, independente do material que seja feito, e que podem ser desligados no momento que for desejado. McCullen envia quatro ogivas de nanomites para serem entregues por uma força especial do exército norte-americano, na qual estão presentes Duke (Channing Tatum) e Ripcord (Marlon Wayans). Porém o comboio é atacado por forças desconhecidas, comandadas pela Baronesa (Sienna Miller). O ataque é impedido pelos G.I. Joe, que levam as armas para o quartel-general do grupo internacional de agentes de elite, aonde são aguardados por seu líder, o general Hawk (Dennis Quaid).",
 ]
 originalTitle: "G.I. Joe: The Rise of Cobra"
-date: '2021-04-05T22:56:48.000Z'
-update: '2021-04-05T22:56:48.000Z'
+date: '2021-04-13T09:28:34.000Z'
+update: '2021-04-13T09:28:34.000Z'
 releaseDate: '2009-08-04T03:00:00.000Z'
 imdb:
   rating: '5.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'lDVvFUbnqEM',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

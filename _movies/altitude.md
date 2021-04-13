@@ -1,12 +1,12 @@
 ---
-id: 'e7df84d7-81ac-439f-912f-f13231b65afe'
+id: '0fe5a653-f2e4-4516-b1a8-26d3139e976e'
 type: 'movie' # Filme, Série, Anime
 title: "Altitude"
 synopsis: ["Perdidos entre nuvens, uma piloto novata e seus quatro jovens amigos devem lidar com uma estranha falha mecânica que envia seu pequeno avião para uma altura impossível de atingir e depois para névoas infindáveis. Após recuperar o controle, os sobreviventes confrontam uma assustadora realidade: a terra abaixo deles desapareceu e uma maléfica força os espreita nas nuvens, querendo matá-los.",
 ]
 originalTitle: "Altitude"
-date: '2021-04-05T21:16:54.000Z'
-update: '2021-04-05T21:16:54.000Z'
+date: '2021-04-13T09:16:57.000Z'
+update: '2021-04-13T09:16:57.000Z'
 releaseDate: '2010-10-10T03:00:00.000Z'
 imdb:
   rating: '4.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'JMdkofVdSIY',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

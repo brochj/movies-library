@@ -1,12 +1,12 @@
 ---
-id: '718cf583-8ec3-401c-9ba7-78aec86773f5'
+id: '3d00d24b-5d39-4ebc-b4db-51681989aa43'
 type: 'movie' # Filme, Série, Anime
 title: "Desculpe Te Incomodar"
 synopsis: ["A trama segue um operador de telemarketing negro com problemas de auto-estima que descobre a chave para o sucesso comercial: mesclar a sua voz com a de um ator branco. Subindo na hierarquia da empresa, ele acaba descobrindo o segredo terrível dos chefes, sendo obrigado a tomar uma importante decisão.",
 ]
 originalTitle: "Sorry to Bother You"
-date: '2021-04-05T21:14:16.000Z'
-update: '2021-04-05T21:14:16.000Z'
+date: '2021-04-13T09:16:47.000Z'
+update: '2021-04-13T09:16:47.000Z'
 releaseDate: '2018-07-06T03:00:00.000Z'
 imdb:
   rating: '6.9' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'XthLQZWIshQ',
   ]
 tags: ['720p', '1080p']
-genre: ['Comédia', 'Fantasia'] #
+genre: ['Comédia', 'Fantasia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

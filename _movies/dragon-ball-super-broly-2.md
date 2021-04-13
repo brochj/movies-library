@@ -1,15 +1,15 @@
 ---
-id: '693e5f75-6f04-43fd-8669-24ffde62168e'
+id: 'b60fb768-3d12-495d-8edc-1a8b78a224b0'
 type: 'movie' # Filme, Série, Anime
 title: "Dragon Ball Super: Broly"
 synopsis: ["Esta é a história de um novo Saiyajin. A Terra está em paz depois do fim do ‘Torneio do Poder’. Goku não quer nada além de treinar, já que agora compreende quantas pessoas fortes existem nos universos que ele ainda não conheceu. Então, um dia, um Saiyajin desconhecido chamado ‘Broly’ aparece diante de Goku e Vegeta. Como é possível que um Saiyajin esteja na Terra quando ele deveria ter sido destruído junto com o Planeta Vegeta? De volta do inferno mais uma vez, Freeza também aparece e os três Saiyajins que tiveram caminhos completamente diferentes se encontram em um intenso conflito.",
 ]
 originalTitle: "ドラゴンボール超スーパー ブロリー"
-date: '2021-04-05T22:16:45.000Z'
-update: '2021-04-05T22:16:45.000Z'
+date: '2021-04-13T09:23:34.000Z'
+update: '2021-04-13T09:23:34.000Z'
 releaseDate: '2018-12-14T03:00:00.000Z'
 imdb:
-  rating: '7.9' # 8.5
+  rating: '7.8' # 8.5
   id: '' # tt0470752
 duration: '1h 40m'
 trailer:
@@ -17,7 +17,7 @@ trailer:
     'FHgm89hKpXU',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Animação', 'Aventura', 'Comédia', 'Fantasia'] #
+genre: ['Ação', 'Animação', 'Aventura', 'Comédia', 'Fantasia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: '10' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: '354ae63d-e31f-4895-bb12-65474bdb050e'
+id: 'b91f875c-3bcd-4063-8499-ed3bcbd42bb1'
 type: 'movie' # Filme, Série, Anime
 title: "Brilho Eterno de uma Mente sem Lembranças"
 synopsis: ["Joel (Jim Carrey) e Clementine (Kate Winslet) formavam um casal que, durante anos, tentaram fazer com que o relacionamento desse certo. Desiludida com o fracasso, Clementine decide esquecer Joel para sempre e, para tanto, aceita se submeter a um tratamento experimental, que retira de sua memória os momentos vividos com ele. Após saber de sua atitude, Joel entra em depressão, frustrado por ainda estar apaixonado por alguém que quer esquecê-lo. Decidido a superar a questão, Joel também se submete ao tratamento experimental. Porém ele acaba desistindo de tentar esquecê-la e começa a encaixar Clementine em momentos de sua memória os quais ela não participa.",
 ]
 originalTitle: "Eternal Sunshine of the Spotless Mind"
-date: '2021-04-05T20:57:17.000Z'
-update: '2021-04-05T20:57:17.000Z'
+date: '2021-04-13T09:15:18.000Z'
+update: '2021-04-13T09:15:18.000Z'
 releaseDate: '2004-03-19T03:00:00.000Z'
 imdb:
   rating: '8.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'yEFJPhmZl1c',
   ]
 tags: ['1080p']
-genre: ['Drama', 'Romance'] #
+genre: ['Drama', 'Ficção científica', 'Romance'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: 'e380e8e8-c68b-49b0-b0ee-564d6061c562'
+id: '42ccb70a-b208-422d-8aa0-456799592195'
 type: 'movie' # Filme, Série, Anime
 title: "Han Solo: Uma História Star Wars"
 synopsis: ["Embarque na Millennium Falcon e viaje para uma galáxia distante em uma nova aventura com o mais amado canalha da galáxia. Através de uma série de ousadas aventuras no obscuro e perigoso submundo do crime, Han Solo encontra seu poderoso futuro copiloto Chewbacca e encontra o famoso jogador Lando Calrissian, em uma jornada que definirá o curso de um dos heróis mais improváveis da saga Star Wars.",
 ]
 originalTitle: "Solo: A Star Wars Story"
-date: '2021-04-05T21:33:21.000Z'
-update: '2021-04-05T21:33:21.000Z'
+date: '2021-04-13T09:19:24.000Z'
+update: '2021-04-13T09:19:24.000Z'
 releaseDate: '2018-05-15T03:00:00.000Z'
 imdb:
   rating: '6.9' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'jPEYpryMp2s',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

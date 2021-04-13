@@ -1,12 +1,12 @@
 ---
-id: '87d04b43-e504-4398-bfb8-caa6b1c4ca9a'
+id: '5e9033a4-484f-4861-a58c-53dec3c3ac48'
 type: 'movie' # Filme, Série, Anime
 title: "Cyborg X"
 synopsis: ["O sistema da X-Corp, uma fabricante de armas, é invadido. Um grupo de sobreviventes deve lutar para salvar a humanidade de um exército de máquinas controlado por um vírus cibernético.",
 ]
 originalTitle: "Cyborg X"
-date: '2021-04-05T21:40:54.000Z'
-update: '2021-04-05T21:40:54.000Z'
+date: '2021-04-13T09:21:50.000Z'
+update: '2021-04-13T09:21:50.000Z'
 releaseDate: '2016-05-17T03:00:00.000Z'
 imdb:
   rating: '3.9' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'tpPeijOhu68',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

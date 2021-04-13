@@ -1,12 +1,12 @@
 ---
-id: '2090bfe4-0dfb-419e-8187-e080ecb45620'
+id: '5a69eacf-473a-4675-9c79-64f552d3a60a'
 type: 'movie' # Filme, Série, Anime
 title: "Planeta dos Macacos: A Guerra"
 synopsis: ["Humanos e macacos cruzam os caminhos novamente. César e seu grupo são forçados a entrar em uma guerra contra um exército de soldados liderados por um impiedoso coronel. Depois que vários macacos perdem suas vidas no conflito, César luta contra seus instintos e parte em busca de vingança. Dessa jornada, o futuro do planeta poderá estar em jogo.",
 ]
 originalTitle: "War for the Planet of the Apes"
-date: '2021-04-05T22:43:54.000Z'
-update: '2021-04-05T22:43:54.000Z'
+date: '2021-04-13T09:27:06.000Z'
+update: '2021-04-13T09:27:06.000Z'
 releaseDate: '2017-07-11T03:00:00.000Z'
 imdb:
   rating: '7.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'qxjPjPzQ1iU',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Drama', 'Guerra'] #
+genre: ['Drama', 'Ficção científica', 'Guerra'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

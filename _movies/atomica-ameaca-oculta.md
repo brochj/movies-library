@@ -1,12 +1,12 @@
 ---
-id: '35ddb762-b737-46fd-87fc-1108e271e6ca'
+id: '6fa920d8-a310-4721-a366-ba7c40654a01'
 type: 'movie' # Filme, Série, Anime
 title: "Atomica: Ameaça Oculta"
 synopsis: ["Em um Futuro próximo, quando as comunicações ficam off-line em uma usina nuclear remota e isolada no deserto,uma Jovem Inspetora de Segurança, Abby Dixon, é forçada a voar para trazê-los de volta on-line. Uma vez dentro da instalação, pistas misteriosas e comportamentos estranhos fazem com que Abby tenha dúvidas sobre sua sanidade e sobre as identidades dos dois funcionários no local.",
 ]
 originalTitle: "Atomica"
-date: '2021-04-05T22:41:35.000Z'
-update: '2021-04-05T22:41:35.000Z'
+date: '2021-04-13T09:26:52.000Z'
+update: '2021-04-13T09:26:52.000Z'
 releaseDate: '2017-03-17T03:00:00.000Z'
 imdb:
   rating: '4.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'Y1unHs_WoCs',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: '99edc474-6d92-4f3f-ab79-47949b69e32c'
+id: 'd8135cb0-5187-4f97-8b08-0148d3b879fc'
 type: 'movie' # Filme, Série, Anime
 title: "A Primeira Noite de Crime"
 synopsis: ["Quando um novo partido político, o New Founding Fathers of America, ascende, é anunciado um novo experimento social. São 12 horas sem lei, em que o governo incentiva as pessoas a perderem toda e qualquer inibição. A participação não é obrigatória, mas como estímulo, 5.000 dólares é dado para quem fica na cidade, e mais prêmios para quem participa.",
 ]
 originalTitle: "The First Purge"
-date: '2021-04-05T21:28:04.000Z'
-update: '2021-04-05T21:28:04.000Z'
+date: '2021-04-13T09:18:30.000Z'
+update: '2021-04-13T09:18:30.000Z'
 releaseDate: '2018-07-04T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'UL29y0ah92w',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

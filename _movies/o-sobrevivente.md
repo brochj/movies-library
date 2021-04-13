@@ -1,12 +1,12 @@
 ---
-id: '8a5eceb6-9eef-4003-a515-4d7bd20dd326'
+id: '72a25225-17d9-44e7-a898-a976b64793a2'
 type: 'movie' # Filme, Série, Anime
 title: "O Sobrevivente"
 synopsis: ["No ano de 2017, os Estados Unidos passam por um regime totalitário em que cada pessoa perdeu toda sua liberdade pessoal. Livros são queimados, discos destruídos e escolas fechadas. A única diversão do povo é a TV, e o programa mais popular é um cruel jogo em que o único prêmio é a sobrevivência. No meio desse caos, um homem é culpado de um crime que não cometeu, assim sua sentença é ou ir para a cadeia, ou entrar para o jogo, que o deixa constantemente entre a vida e a morte.",
 ]
 originalTitle: "The Running Man"
-date: '2021-04-05T22:48:40.000Z'
-update: '2021-04-05T22:48:40.000Z'
+date: '2021-04-13T09:27:41.000Z'
+update: '2021-04-13T09:27:41.000Z'
 releaseDate: '1987-11-13T03:00:00.000Z'
 imdb:
   rating: '6.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'i2FMhBg0h_8',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

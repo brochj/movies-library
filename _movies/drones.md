@@ -1,15 +1,15 @@
 ---
-id: '3828ff72-1877-4a2f-adb0-61f6d72c3463'
+id: '89e0fc34-ce6a-401a-80e1-9c08fb634908'
 type: 'movie' # Filme, Série, Anime
 title: "Drones"
 synopsis: ["Em um futuro próximo, a destruição do meio ambiente causou escassez de alimento por todo o planeta. Deixados sem outra opção, trabalhadores agrícolas usam de tecnologia para aumentar o rendimento das poucas terras férteis que ainda restam. Claudia (Cleopatra Coleman) e John (Craig muMs Grant) trabalham para ajudar fazendeiros doentes com sua saúde. Porém, quando John morre misteriosamente, Claudia começa a desvendar uma conexão entre o estado de saúde de seus clientes e a tecnologia que eles usam.",
 ]
 originalTitle: "Hover"
-date: '2021-04-05T22:51:13.000Z'
-update: '2021-04-05T22:51:13.000Z'
+date: '2021-04-13T09:28:02.000Z'
+update: '2021-04-13T09:28:02.000Z'
 releaseDate: '2018-06-30T03:00:00.000Z'
 imdb:
-  rating: '3.8' # 8.5
+  rating: '3.7' # 8.5
   id: '' # tt0470752
 duration: '1h 26m'
 trailer:
@@ -17,7 +17,7 @@ trailer:
     'Ahzf1Q0qb3M',
   ]
 tags: ['720p', '1080p', '720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

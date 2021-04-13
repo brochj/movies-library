@@ -1,12 +1,12 @@
 ---
-id: 'bdfe6280-6585-4d71-8523-e779a43e0e43'
+id: 'dfd8d929-4583-4cd6-b2e2-f627bc109cf4'
 type: 'movie' # Filme, Série, Anime
 title: "Melanie: A Última Esperança"
 synopsis: ["Em um futuro distópico, algumas crianças são mantidas como reféns por um cientista em busca da cura para uma doença que infestou todo o planeta. Melanie (Sennia Nanua), uma garotinha com dons muito especiais, chama a atenção de Helen Justineau (Gemma Arterton) e da Dr. Caroline Caldwell (Glenn Close), que decidem embarcar em uma jornada com a menina.",
 ]
 originalTitle: "The Girl with All the Gifts"
-date: '2021-04-05T22:43:24.000Z'
-update: '2021-04-05T22:43:24.000Z'
+date: '2021-04-13T09:27:03.000Z'
+update: '2021-04-13T09:27:03.000Z'
 releaseDate: '2016-09-23T03:00:00.000Z'
 imdb:
   rating: '6.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'HjGkB_oWTe0',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Drama', 'Terror'] #
+genre: ['Drama', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

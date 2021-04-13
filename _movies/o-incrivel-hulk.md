@@ -1,12 +1,12 @@
 ---
-id: '61963cc2-527d-4402-a26f-8cb7bfba2ff8'
+id: '25aa9a13-dbf1-4242-9045-4261fce6544a'
 type: 'movie' # Filme, Série, Anime
 title: "O Incrível Hulk"
 synopsis: ["Vivendo escondido e longe de Betty Ross (Liv Tyler), a mulher que ama, o cientista Bruce Banner (Edward Norton) busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross (William Hurt), seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.",
 ]
 originalTitle: "The Incredible Hulk"
-date: '2021-04-05T22:16:36.000Z'
-update: '2021-04-05T22:16:36.000Z'
+date: '2021-04-13T09:23:27.000Z'
+update: '2021-04-13T09:23:27.000Z'
 releaseDate: '2008-06-12T03:00:00.000Z'
 imdb:
   rating: '6.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'xbqNb2PFKKA',
   ]
 tags: ['720p', '720p', '720p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

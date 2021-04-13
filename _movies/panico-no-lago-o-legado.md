@@ -1,12 +1,12 @@
 ---
-id: '329cd7d1-a012-48b0-96b4-258e52ca437f'
+id: '63735367-7da9-4d07-ab49-e02558c6048b'
 type: 'movie' # Filme, Série, Anime
 title: "Pânico No Lago: O Legado"
 synopsis: ["Legacy descobre a equipe de jovens exploradores para revelar os segredos de uma área removida dos mapas modernos e escondida atrás de cercas elétricas. No entanto, uma vez que eles chegam ao centro do lago, eles descobrem uma ilha que abriga uma instalação abandonada com um legado horrível: a ilha é o lar de um predador mortal ansioso para se divertir com aqueles idiotas o suficiente para ignorar os avisos. Mas antes que eles possam voltar atrás, nossos infelizes heróis são arrastados para uma batalha por suas vidas – e precisarão trabalhar juntos se quiserem sobreviver.",
 ]
 originalTitle: "Lake Placid: Legacy"
-date: '2021-04-05T21:35:18.000Z'
-update: '2021-04-05T21:35:18.000Z'
+date: '2021-04-13T09:21:33.000Z'
+update: '2021-04-13T09:21:33.000Z'
 releaseDate: '2018-05-28T03:00:00.000Z'
 imdb:
   rating: '3.5' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'yqppikTC5us',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

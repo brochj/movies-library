@@ -1,12 +1,12 @@
 ---
-id: '8c37b53e-f6b1-447d-894c-4776bd4c9edd'
+id: '8fed85ac-d947-4d8b-9193-d806a6068258'
 type: 'movie' # Filme, Série, Anime
 title: "O Amanhecer Mais Escuro"
 synopsis: ["Dirigido pelo premiado diretor Drew Casson, o filme conta a história de duas irmãs adolescentes cujas vidas são viradas de cabeça para baixo quando a Grã-Bretanha vai para um apocalipse alienígena.",
 ]
 originalTitle: "The Darkest Dawn"
-date: '2021-04-05T22:19:47.000Z'
-update: '2021-04-05T22:19:47.000Z'
+date: '2021-04-13T09:23:56.000Z'
+update: '2021-04-13T09:23:56.000Z'
 releaseDate: '2016-10-31T03:00:00.000Z'
 imdb:
   rating: '4.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '-2DugohmEC8',
   ]
 tags: ['720p', '1080p', '720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Espanhol' # Dublado, Legendado, Dual Audio, Dub & Leg

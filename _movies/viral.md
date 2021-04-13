@@ -1,12 +1,12 @@
 ---
-id: 'e7ff94ce-3627-4fc0-b3b4-fd2e2105550a'
+id: '0383b6b3-b585-4190-a833-5014d15a1ce9'
 type: 'movie' # Filme, Série, Anime
 title: "Viral"
 synopsis: ["Emma (Sofia Black-D’Elia) e sua irmã levam uma vida normal em um pequena cidade, ao menos até um vírus começar a se espalhar. Com a cidade em quarentena, os pais das garotas ficam presos do outro lado da barreira. Elas passam a viver de fast food e festas, mas, quando o vírus começa a atingir pessoas que elas conhecem, as duas se unem com o vizinho Evan (Travis Tope), paixão secreta de Emma, e fazem um barricada em sua casa. Porém pode ser tarde, pois o vírus já está entre eles.",
 ]
 originalTitle: "Viral"
-date: '2021-04-05T19:22:13.000Z'
-update: '2021-04-05T19:22:13.000Z'
+date: '2021-04-13T09:14:42.000Z'
+update: '2021-04-13T09:14:42.000Z'
 releaseDate: '2016-02-18T03:00:00.000Z'
 imdb:
   rating: '5.5' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'dl9vgZZ5sKw',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Drama', 'Terror'] #
+genre: ['Drama', 'Ficção científica', 'Terror'] #
 quality: 'BluRay Rip' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mp4 | Mkv' # MKV, MP4, TS
 audio: 'Português | Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

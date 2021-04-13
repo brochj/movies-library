@@ -1,12 +1,12 @@
 ---
-id: '3ae02c16-c78c-4c81-a9c0-2b26a91bb39b'
+id: 'd9699ca1-7800-476b-bb65-012e728f579b'
 type: 'movie' # Filme, Série, Anime
 title: "O Predador"
 synopsis: ["Uma perseguição entre naves alienígenas traz à Terra um novo predador, que acaba sendo capturado por humanos. Antes disso, ele tem seu capacete e bracelete roubados por Quinn McKenna (Boyd Holbrook), um atirador de elite que estava em missão no local onde a nave caiu. A bióloga Casey Brackett (Olivia Munn) é então chamada para examinar o ser recém-descoberto, mas ele logo consegue escapar do laboratório em que é mantido cativeiro. Ao tentar recapturá-lo Casey encontra McKenna, que está em um ônibus repleto de ex-militares com problemas. Juntos, eles buscam um meio de sobreviver e, ao mesmo tempo, proteger o pequeno Rory (Jacob Tremblay), filho de McKenna, que está com os artefatos alienígenas pegos pelo pai.",
 ]
 originalTitle: "The Predator"
-date: '2021-04-05T21:23:00.000Z'
-update: '2021-04-05T21:23:00.000Z'
+date: '2021-04-13T09:17:56.000Z'
+update: '2021-04-13T09:17:56.000Z'
 releaseDate: '2018-09-05T03:00:00.000Z'
 imdb:
   rating: '5.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '50_Ala5BKBo',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura', 'Terror'] #
+genre: ['Ação', 'Aventura', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

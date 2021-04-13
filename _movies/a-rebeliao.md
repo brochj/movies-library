@@ -1,12 +1,12 @@
 ---
-id: 'eae85f10-025d-43ad-b518-4a82ad34dff1'
+id: '28b20fc8-df8f-49d1-9b70-8094e674be61'
 type: 'movie' # Filme, Série, Anime
 title: "A Rebelião"
 synopsis: ["Em um bairro de Chicago, quase uma década após uma invasão alienígena no planeta Terra, acompanhamos como é a vida das pessoas nos dois lados do conflito, o dos colaboradores e o dos dissidentes.",
 ]
 originalTitle: "Captive State"
-date: '2021-04-05T22:16:06.000Z'
-update: '2021-04-05T22:16:06.000Z'
+date: '2021-04-13T09:23:13.000Z'
+update: '2021-04-13T09:23:13.000Z'
 releaseDate: '2019-03-15T03:00:00.000Z'
 imdb:
   rating: '6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'i68xCzI406A',
   ]
 tags: ['720p', '1080p', '720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

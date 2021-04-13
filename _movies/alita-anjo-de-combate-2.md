@@ -1,12 +1,12 @@
 ---
-id: 'd857b43b-98af-40ec-a09f-70923a8e8577'
+id: '3382794b-e3ef-4e4c-9baa-581bef08df0e'
 type: 'movie' # Filme, Série, Anime
 title: "Alita: Anjo de Combate"
 synopsis: ["Uma ciborgue é descoberta por um cientista. Ela não tem memórias de sua criação, mas possui grande conhecimento de artes marciais. Enquanto busca informações sobre seu passado, trabalha como caçadora de recompensas e descobre um interesse amoroso.",
 ]
 originalTitle: "Alita: Battle Angel"
-date: '2021-04-05T21:12:33.000Z'
-update: '2021-04-05T21:12:33.000Z'
+date: '2021-04-13T09:16:39.000Z'
+update: '2021-04-13T09:16:39.000Z'
 releaseDate: '2019-01-31T03:00:00.000Z'
 imdb:
   rating: '7.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'bF6wNMjPwJY',
   ]
 tags: ['1080p', '1080p', '720p', '1080p', '720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'WEB-DL' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: '.MKV' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

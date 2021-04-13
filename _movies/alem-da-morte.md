@@ -1,12 +1,12 @@
 ---
-id: '598c7adc-9e01-407b-ab5e-8f452c42fd49'
+id: '3c9ab0a5-0ff1-43eb-8597-dd4c5709753b'
 type: 'movie' # Filme, Série, Anime
 title: "Além da Morte"
 synopsis: ["Na esperança de fazer algumas descobertas, estudantes de medicina começam a explorar o reino das experiências de quase morte. Cada um deles passa pela experiência de ter o coração parado e depois revivido. Eles passam a ter visões em flash, como pesadelos da infância, e a refletir sobre pecados que cometeram. Os experimentos se intensificam, e eles passam a serem afetados fisicamente por suas visões enquanto tentam achar uma cura para a morte.",
 ]
 originalTitle: "Flatliners"
-date: '2021-04-05T22:37:01.000Z'
-update: '2021-04-05T22:37:01.000Z'
+date: '2021-04-13T09:26:21.000Z'
+update: '2021-04-13T09:26:21.000Z'
 releaseDate: '2017-09-28T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'a1S52y5ZVlY',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Drama'] #
+genre: ['Drama', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

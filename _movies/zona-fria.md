@@ -1,12 +1,12 @@
 ---
-id: '1b0cdac8-228c-42c0-95a0-1e0cf7dbff2c'
+id: '91bceecb-aadc-4c18-8168-408294f05db5'
 type: 'movie' # Filme, Série, Anime
 title: "Zona Fria"
 synopsis: ["Uma tempestade gelada está chegando. Ninguém podia prever. Uma família deve lutar pela sobrevivência nessa zona gelada.",
 ]
 originalTitle: "Cold Zone"
-date: '2021-04-05T22:33:34.000Z'
-update: '2021-04-05T22:33:34.000Z'
+date: '2021-04-13T09:25:48.000Z'
+update: '2021-04-13T09:25:48.000Z'
 releaseDate: '2017-05-16T03:00:00.000Z'
 imdb:
   rating: '3.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'T1axKZJ3eA0',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

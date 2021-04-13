@@ -1,12 +1,12 @@
 ---
-id: '6d5a3ff4-eb1d-4115-bbcf-cb47d02e950c'
+id: 'e44bbd2c-e45c-4d93-b622-35d3c4036f3c'
 type: 'movie' # Filme, Série, Anime
 title: "Jogador N° 1"
 synopsis: ["Num futuro distópico, situado em 2044, Wade Watts, como o resto da humanidade, prefere a realidade virtual do jogo OASIS ao mundo real. No jogo, seus usuários devem descobrir a chave de um quebra-cabeça diabólico, baseado na cultura do final do século XX, para conquistar um prêmio de valor inestimável. Para vencê-lo, porém, Watts terá de abandonar a existência virtual e ceder a uma vida de amor e realidade da qual sempre tentou fugir.",
 ]
 originalTitle: "Ready Player One"
-date: '2021-04-05T22:09:58.000Z'
-update: '2021-04-05T22:09:58.000Z'
+date: '2021-04-13T09:22:23.000Z'
+update: '2021-04-13T09:22:23.000Z'
 releaseDate: '2018-03-28T03:00:00.000Z'
 imdb:
   rating: '7.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'cSp1dM2Vj48',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Aventura'] #
+genre: ['Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

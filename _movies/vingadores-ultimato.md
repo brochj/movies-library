@@ -1,12 +1,12 @@
 ---
-id: '80e2c3ac-06fe-4a77-89e6-99183a41cc69'
+id: '6d7ee224-2cf6-4a1c-ba0d-1b1a6a673ed6'
 type: 'movie' # Filme, Série, Anime
 title: "Vingadores: Ultimato"
 synopsis: ["Após os eventos devastadores de Vingadores: Guerra Infinita, o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.",
 ]
 originalTitle: "Avengers: Endgame"
-date: '2021-04-05T21:05:42.000Z'
-update: '2021-04-05T21:05:42.000Z'
+date: '2021-04-13T09:16:18.000Z'
+update: '2021-04-13T09:16:18.000Z'
 releaseDate: '2019-04-24T03:00:00.000Z'
 imdb:
   rating: '8.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '4QRdB4RAQMs',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

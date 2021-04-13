@@ -1,12 +1,12 @@
 ---
-id: 'b623b162-d315-4873-8d0f-b6d3890634cd'
+id: '63aa7c80-13ce-4dc2-a289-d0e8a6b66727'
 type: 'movie' # Filme, Série, Anime
 title: "Amigos Alienígenas"
 synopsis: ["A vida de Louis, um menino de doze anos, muda completamente quando a nave espacial de três alienígenas cai nos fundos do quintal de sua casa. Seu pai, um ufologista famoso, congelaria os novos amigos na primeira oportunidade, por isso ele precisa protegê-los e ajudá-los a descobrir o paradeiro da nave mãe, para que só assim eles consigam voltar para casa.",
 ]
 originalTitle: "Luis and the Aliens"
-date: '2021-04-05T21:20:18.000Z'
-update: '2021-04-05T21:20:18.000Z'
+date: '2021-04-13T09:17:40.000Z'
+update: '2021-04-13T09:17:40.000Z'
 releaseDate: '2018-05-09T03:00:00.000Z'
 imdb:
   rating: '6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Animação', 'Aventura', 'Comédia'] #
+genre: ['Animação', 'Aventura', 'Comédia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

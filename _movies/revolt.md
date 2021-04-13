@@ -1,12 +1,12 @@
 ---
-id: '94a569b9-841d-42cd-9abd-267aed663ed8'
+id: 'f1b0a138-1b4d-4684-b945-11d743587748'
 type: 'movie' # Filme, Série, Anime
 title: "Revolt"
 synopsis: ["A trama acompanha um soldado americano (Lee Pace) e uma trabalhadora voluntária francesa (Bérénice Marlohe) que, na África, fazem parte do último núcleo de resistência da humanidade contra uma invasão alienígena.",
 ]
 originalTitle: "Revolt"
-date: '2021-04-05T22:21:07.000Z'
-update: '2021-04-05T22:21:07.000Z'
+date: '2021-04-13T09:24:06.000Z'
+update: '2021-04-13T09:24:06.000Z'
 releaseDate: '2017-07-01T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Guerra'] #
+genre: ['Ação', 'Ficção científica', 'Guerra'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: '7e6acf8d-02f4-4bea-8118-0f340f4b948d'
+id: '8b5a0255-6718-4906-9837-61d9892d76bf'
 type: 'movie' # Filme, Série, Anime
 title: "Aniquilação"
 synopsis: ["Depois que seu marido desaparece em uma missão secreta, a bióloga Lena embarca numa expedição à uma misteriosa região interditada pelo governo dos EUA.",
 ]
 originalTitle: "Annihilation"
-date: '2021-04-05T22:24:17.000Z'
-update: '2021-04-05T22:24:17.000Z'
+date: '2021-04-13T09:24:42.000Z'
+update: '2021-04-13T09:24:42.000Z'
 releaseDate: '2018-02-22T03:00:00.000Z'
 imdb:
   rating: '6.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '89OP78l9oF0',
   ]
 tags: ['720p', '1080p', '720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

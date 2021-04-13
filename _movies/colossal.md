@@ -1,12 +1,12 @@
 ---
-id: 'eff498c2-8267-49bc-aead-61c9da826028'
+id: '1957c52a-1b22-4d15-8d20-f15ab6b5423e'
 type: 'movie' # Filme, Série, Anime
 title: "Colossal"
 synopsis: ["Gloria (Anne Hathaway) deixa Nova York e volta para sua cidade natal após perder o emprego e o noivo. Ao acompanhar as notícias sobre o ataque de um lagarto gigante a Seul, ela descobre que está misteriosamente conectada mentalmente ao evento. Para evitar novos casos parecidos e uma eventual destruição total do planeta, Gloria precisa controlar os poderes de sua mente e entender por que sua existência aparentemente insignificante tem tamanha responsabilidade no destino do mundo.",
 ]
 originalTitle: "Colossal"
-date: '2021-04-05T22:47:06.000Z'
-update: '2021-04-05T22:47:06.000Z'
+date: '2021-04-13T09:27:37.000Z'
+update: '2021-04-13T09:27:37.000Z'
 releaseDate: '2016-06-30T03:00:00.000Z'
 imdb:
   rating: '6.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'fqcZtz8VXXE',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Drama', 'Fantasia'] #
+genre: ['Drama', 'Fantasia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

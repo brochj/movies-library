@@ -1,12 +1,12 @@
 ---
-id: '405fa8d8-5c19-4b03-89fe-8ea1d45fac82'
+id: 'a8d5b42c-f279-473a-b316-2e77c7348135'
 type: 'movie' # Filme, Série, Anime
 title: "Invasor Zim e o Florpus"
 synopsis: ["ZIM descobre que seus líderes todo-poderosos nunca tiveram qualquer intenção de vir para a Terra e ele perde a confiança em si mesmo pela primeira vez em sua vida, o que é a grande chance de seu inimigo Dib, estava esperando.",
 ]
 originalTitle: "Invader ZIM: Enter the Florpus"
-date: '2021-04-05T21:02:14.000Z'
-update: '2021-04-05T21:02:14.000Z'
+date: '2021-04-13T09:15:46.000Z'
+update: '2021-04-13T09:15:46.000Z'
 releaseDate: '2019-07-24T03:00:00.000Z'
 imdb:
   rating: '7.5' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'TDnKp83IOPA',
   ]
 tags: ['720p', '1080p']
-genre: ['Animação', 'Comédia'] #
+genre: ['Animação', 'Comédia', 'Ficção científica'] #
 quality: 'WEB-DL' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

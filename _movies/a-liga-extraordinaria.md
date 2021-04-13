@@ -1,12 +1,12 @@
 ---
-id: '6f6516b9-8ce4-4aac-b078-97cbf9322c77'
+id: '9e968460-1e74-47b1-8512-52012f235453'
 type: 'movie' # Filme, Série, Anime
 title: "A Liga Extraordinária"
 synopsis: ["No final do século XIX a rainha Vitória nomeia uma legião de grandes nomes da época para combater um perigoso inimigo: um gênio do crime que deseja conquistar o planeta. Entre os convocados para enfrentá-lo estão Allan Quatermain (Sean Connery), Mina Harker (Peta Wilson), Dorian Gray (Stuart Townsend) e o Dr. Jekyll (Jason Flemyng).",
 ]
 originalTitle: "The League of Extraordinary Gentlemen"
-date: '2021-04-05T22:45:39.000Z'
-update: '2021-04-05T22:45:39.000Z'
+date: '2021-04-13T09:27:21.000Z'
+update: '2021-04-13T09:27:21.000Z'
 releaseDate: '2003-07-11T03:00:00.000Z'
 imdb:
   rating: '5.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '',
   ]
 tags: ['720p', '1080p']
-genre: ['Ação', 'Fantasia'] #
+genre: ['Ação', 'Fantasia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

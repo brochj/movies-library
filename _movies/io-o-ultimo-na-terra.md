@@ -1,12 +1,12 @@
 ---
-id: '6b3546aa-86b0-4892-b077-846252f9bb8f'
+id: 'c2a5176f-13b8-487a-9c58-2d2bc8a5ab1d'
 type: 'movie' # Filme, Série, Anime
 title: "IO – O Último na Terra"
 synopsis: ["Quando um jovem cientista procura uma maneira de salvar uma Terra agonizante, ela encontra uma conexão com um homem que está correndo para pegar o último ônibus espacial do planeta.",
 ]
 originalTitle: "IO"
-date: '2021-04-05T21:18:19.000Z'
-update: '2021-04-05T21:18:19.000Z'
+date: '2021-04-13T09:17:10.000Z'
+update: '2021-04-13T09:17:10.000Z'
 releaseDate: '2019-01-18T03:00:00.000Z'
 imdb:
   rating: '4.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'oC1npfCmhMw',
   ]
 tags: ['720p', '1080p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

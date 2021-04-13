@@ -1,12 +1,12 @@
 ---
-id: '97717cea-7079-452f-bbee-84144dcf3b42'
+id: 'de4b4c63-cd6b-4b22-9a33-f2c8d01244d0'
 type: 'movie' # Filme, Série, Anime
 title: "X-Men: Fênix Negra"
 synopsis: ["Ambientado em 1992, Charles Xavier (James McAvoy) está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey (Sophie Turner).",
 ]
 originalTitle: "Dark Phoenix"
-date: '2021-04-05T20:58:09.000Z'
-update: '2021-04-05T20:58:09.000Z'
+date: '2021-04-13T09:15:24.000Z'
+update: '2021-04-13T09:15:24.000Z'
 releaseDate: '2019-06-05T03:00:00.000Z'
 imdb:
   rating: '5.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'ib7m5FqU7QI',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

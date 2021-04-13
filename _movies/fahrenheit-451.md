@@ -1,12 +1,12 @@
 ---
-id: 'e26baa5a-db63-4bc8-9350-8f6736bcc08e'
+id: '176a732e-7f4a-45b5-9259-cb373ea2e8d9'
 type: 'movie' # Filme, Série, Anime
 title: "Fahrenheit 451"
 synopsis: ["Em um futuro opressivo dominado pela tecnologia, a posse de livros e a literatura são proibidas. Guy Montag (Michael B. Jordan) é um bombeiro, sua principal missão é queimar todos os livros que existem até que não sobre mais nenhum deles. No entanto, ele conhece Clarisse McClellan (Sofia Boutella), uma jovem misteriosa que faz com que ele comece a questionar suas atitudes e todo o sistema vigente.",
 ]
 originalTitle: "Fahrenheit 451"
-date: '2021-04-05T22:15:14.000Z'
-update: '2021-04-05T22:15:14.000Z'
+date: '2021-04-13T09:23:01.000Z'
+update: '2021-04-13T09:23:01.000Z'
 releaseDate: '2018-05-12T03:00:00.000Z'
 imdb:
   rating: '4.9' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Drama'] #
+genre: ['Drama', 'Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

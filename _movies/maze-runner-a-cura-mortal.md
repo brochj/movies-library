@@ -1,12 +1,12 @@
 ---
-id: 'dbc0d061-c4cd-456c-babe-6e9e7797dc5d'
+id: '27c7c701-c4c0-4fb1-a17f-5a392a518cc4'
 type: 'movie' # Filme, Série, Anime
 title: "Maze Runner: A Cura Mortal"
 synopsis: ["No terceiro filme da saga, Thomas (Dylan O’ Brien) embarca em uma missão para encontrar a cura para uma doença mortal e descobre que os planos da C.R.U.E.L podem trazer consequências catastróficas para a humanidade. Agora, ele tem que decidir se vai se entregar para a C.R.U.E.L e confiar na promessa da organização de que esse será seu último experimento.",
 ]
 originalTitle: "Maze Runner: The Death Cure"
-date: '2021-04-05T22:18:09.000Z'
-update: '2021-04-05T22:18:09.000Z'
+date: '2021-04-13T09:23:40.000Z'
+update: '2021-04-13T09:23:40.000Z'
 releaseDate: '2018-01-10T03:00:00.000Z'
 imdb:
   rating: '6.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '4-BTxXm8KSg',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

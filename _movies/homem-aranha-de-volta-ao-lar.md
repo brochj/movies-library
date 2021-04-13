@@ -1,12 +1,12 @@
 ---
-id: '50a7175d-eb58-4a33-98ce-249521fac6d7'
+id: '77ad8e71-30d0-49fb-b7ac-495d64187ef5'
 type: 'movie' # Filme, Série, Anime
 title: "Homem-Aranha: De Volta ao Lar"
 synopsis: ["Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.",
 ]
 originalTitle: "Spider-Man: Homecoming"
-date: '2021-04-05T22:45:45.000Z'
-update: '2021-04-05T22:45:45.000Z'
+date: '2021-04-13T09:27:26.000Z'
+update: '2021-04-13T09:27:26.000Z'
 releaseDate: '2017-07-05T03:00:00.000Z'
 imdb:
   rating: '7.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'n9DwoQ7HWvI',
   ]
 tags: ['720p', '1080p']
-genre: ['Ação', 'Aventura', 'Drama'] #
+genre: ['Ação', 'Aventura', 'Drama', 'Ficção científica'] #
 quality: 'WEBRip 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'MKv' # MKV, MP4, TS
 audio: 'Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

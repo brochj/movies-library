@@ -1,12 +1,12 @@
 ---
-id: '945c1838-b5c6-4c1f-90e6-de0422b6730c'
+id: '7295c686-4bb8-4583-888f-3c50f559b020'
 type: 'movie' # Filme, Série, Anime
 title: "Paralisia"
 synopsis: ["Ava ingere pílulas e álcool em uma noite de festa, vindo a passar mal e desmaiar. Desperta solitariamente e se dirige para casa. Porém ao deparar consigo deitada em sua cama, descobre que alguém apossou-se de seu corpo. Um viajante temporal está usurpando sua identidade e sua vida. Além disso não está sozinho, pois existem outros vivendo no presente para alterar o futuro. Sem o próprio corpo, Ava é um fantasma virtual, silencioso e invisível para o mundo. E diante das barreiras do impossível, ela sabe que é a única que pode conter os viajantes e colocar a linha temporal em seu curso.",
 ]
 originalTitle: "Stasis"
-date: '2021-04-05T22:35:35.000Z'
-update: '2021-04-05T22:35:35.000Z'
+date: '2021-04-13T09:26:02.000Z'
+update: '2021-04-13T09:26:02.000Z'
 releaseDate: '2017-06-02T03:00:00.000Z'
 imdb:
   rating: '3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'HEdsX-vzXBg',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Aventura'] #
+genre: ['Aventura', 'Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

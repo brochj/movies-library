@@ -1,12 +1,12 @@
 ---
-id: 'eca82d4f-f73d-48d9-be88-d82ee17cf81f'
+id: '75a7d2c4-1e34-4da2-b142-5c586c617e31'
 type: 'movie' # Filme, Série, Anime
 title: "Um Dia para Viver"
 synopsis: ["Um assassino (Ethan Hawke) ganha uma segunda chance quando seu empregador o traz de volta à vida temporariamente, logo após ter sido morto no trabalho. Ele ganha então 24 horas para realizar sua missão e se redimir.",
 ]
 originalTitle: "24 Hours to Live"
-date: '2021-04-05T21:40:25.000Z'
-update: '2021-04-05T21:40:25.000Z'
+date: '2021-04-13T09:21:46.000Z'
+update: '2021-04-13T09:21:46.000Z'
 releaseDate: '2017-10-26T03:00:00.000Z'
 imdb:
   rating: '5.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'PfeQX80tjdQ',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Mistério'] #
+genre: ['Ação', 'Ficção científica', 'Mistério'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

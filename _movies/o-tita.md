@@ -1,12 +1,12 @@
 ---
-id: '72324aa8-ca56-46b8-95c3-34e03243d787'
+id: '67998c3a-85fe-4739-b9b0-9e2ad49d5ff1'
 type: 'movie' # Filme, Série, Anime
 title: "O Titã"
 synopsis: ["O renomado piloto da Força Aérea, Rick Janssen (Sam Worthington), é um dos escolhidos para um experimento militar secreto que criará um ser humano capaz de sobreviver aos ambientes agressivos da lua de Saturno, Titã. O experimento é bem sucedido, transformando Rick em um super-humano, mas também criando efeitos colaterais mortais que ameaçam a vida de Rick, de sua família e até de toda a humanidade.",
 ]
 originalTitle: "The Titan"
-date: '2021-04-05T22:22:15.000Z'
-update: '2021-04-05T22:22:15.000Z'
+date: '2021-04-13T09:24:20.000Z'
+update: '2021-04-13T09:24:20.000Z'
 releaseDate: '2018-03-30T03:00:00.000Z'
 imdb:
   rating: '4.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'ctM8zpe3BHo',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Romance'] #
+genre: ['Ficção científica', 'Romance'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

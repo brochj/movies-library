@@ -1,12 +1,12 @@
 ---
-id: '1943072e-ef7e-40b5-b0f1-a879748f274f'
+id: 'c8ae29dc-ab8e-4810-9f46-6f61c6e4f0b8'
 type: 'movie' # Filme, Série, Anime
 title: "Rampage: Destruição Total"
 synopsis: ["O primatólogo Davis (Dwayne Johnson) compartilha um vínculo inabalável com George, o extraordinariamente inteligente gorila albino que está sob seus cuidados desde que era jovem. Quando o experimento genético de uma corporação movida a ganância dá errado, George e outros animais em todo o país são transformados em super criaturas agressivas que destroem tudo em seu caminho. Neste passeio repleto de adrenalina, Davis tenta encontrar um antídoto, não apenas para deter uma catástrofe global, mas também para salvar a temível criatura que já foi sua amiga.",
 ]
 originalTitle: "Rampage"
-date: '2021-04-05T22:10:02.000Z'
-update: '2021-04-05T22:10:02.000Z'
+date: '2021-04-13T09:22:29.000Z'
+update: '2021-04-13T09:22:29.000Z'
 releaseDate: '2018-04-12T03:00:00.000Z'
 imdb:
   rating: '6.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'xEm56vwsXaA',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura', 'Fantasia'] #
+genre: ['Ação', 'Aventura', 'Fantasia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

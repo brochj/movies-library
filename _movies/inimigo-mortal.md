@@ -1,12 +1,12 @@
 ---
-id: '9c0a6a21-27dc-49fd-aa7c-637243d91709'
+id: '55cff12f-a6cf-417b-83f0-3861d0aa8b34'
 type: 'movie' # Filme, Série, Anime
 title: "Inimigo Mortal"
 synopsis: ["No filme, Jackie Chan é um agente das forças especiais durão que acaba se envolvendo em uma misteriosa conspiração, ao mesmo tempo em que luta para proteger uma jovem de um perigoso grupo de criminosos. Estranhamente, ele sente que tem uma conexão especial com a moça, como se eles tivessem se conhecido em uma vida diferente.",
 ]
 originalTitle: "机器之血"
-date: '2021-04-05T21:26:44.000Z'
-update: '2021-04-05T21:26:44.000Z'
+date: '2021-04-13T09:18:21.000Z'
+update: '2021-04-13T09:18:21.000Z'
 releaseDate: '2017-12-18T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'PycUqhQxR1Y',
   ]
 tags: ['720p', '1080p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Chinês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: '6eb0632b-e4c2-41b4-afc4-ad1da8a783f2'
+id: 'e698dc3d-86d0-4393-98b6-b1568323cab2'
 type: 'movie' # Filme, Série, Anime
 title: "Sem Controle"
 synopsis: ["Quando os sonhos violentos de um jovem se fundem com a realidade e começam a espelhar assassinatos políticos, somente um médico pode ajudá-lo contra um sinistro programa governamental.",
 ]
 originalTitle: "The Shadow Effect"
-date: '2021-04-05T22:42:47.000Z'
-update: '2021-04-05T22:42:47.000Z'
+date: '2021-04-13T09:26:58.000Z'
+update: '2021-04-13T09:26:58.000Z'
 releaseDate: '2017-05-02T03:00:00.000Z'
 imdb:
   rating: '4.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'EjwFuLq_De8',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

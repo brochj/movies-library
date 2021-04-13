@@ -1,12 +1,12 @@
 ---
-id: 'a9191544-fd94-4b64-a690-44a8ee399a98'
+id: 'f182d981-d4c2-482e-8bc6-4812df8265af'
 type: 'movie' # Filme, Série, Anime
 title: "Saída Proibida"
 synopsis: ["É dia de Natal e a família Milgram encontra uma misteriosa substância negra ao redor de sua casa. Claramente algo está acontecendo bem à sua porta | Mas o que exatamente está acontecendo? :-seria um acidente industrial, um ataque terrorista, uma guerra nuclear? Apavorados, eles ligam a TV para obter qualquer informação. Na tela uma mensagem brilha sinistramente: ‘Fique dentro de casa e aguarde novas instruções’. Como a televisão exerce uma “atração” cada vez mais sinistra, a paranóia aumenta e se transforma em uma sangrenta carnificina.",
 ]
 originalTitle: "Await Further Instructions"
-date: '2021-04-05T21:14:21.000Z'
-update: '2021-04-05T21:14:21.000Z'
+date: '2021-04-13T09:16:53.000Z'
+update: '2021-04-13T09:16:53.000Z'
 releaseDate: '2018-08-26T03:00:00.000Z'
 imdb:
   rating: '4.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'xSOCk34vt1U',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Mistério', 'Terror'] #
+genre: ['Ficção científica', 'Mistério', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

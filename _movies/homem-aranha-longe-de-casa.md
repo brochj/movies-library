@@ -1,12 +1,12 @@
 ---
-id: '06dd9488-f3da-47e7-9d64-ec239d8486e1'
+id: 'bae24277-3785-441a-a134-5ee8d2429558'
 type: 'movie' # Filme, Série, Anime
 title: "Homem-Aranha: Longe de Casa"
 synopsis: ["Peter Parker está de volta em Homem-Aranha: Longe de Casa, novo capítulo da série De Volta Ao Lar. Nosso amigão da vizinhança decide se unir aos seus melhores amigos para passar férias na Europa. Mas o plano de Peter de abandonar seus feitos heroicos por algumas semanas logo são mudados quando ele concorda em ajudar Nick Fury a solucionar o mistério de ataques de criaturas elementais, criando uma destruição pelo continente…",
 ]
 originalTitle: "Spider-Man: Far from Home"
-date: '2021-04-05T20:54:36.000Z'
-update: '2021-04-05T20:54:36.000Z'
+date: '2021-04-13T09:15:00.000Z'
+update: '2021-04-13T09:15:00.000Z'
 releaseDate: '2019-06-28T03:00:00.000Z'
 imdb:
   rating: '7.5' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'tcG3Mc4XJpg',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

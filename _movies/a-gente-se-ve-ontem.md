@@ -1,12 +1,12 @@
 ---
-id: 'e41b7569-11aa-4834-bc50-cada0417fe3b'
+id: 'c84a1664-c830-4af5-9a52-989282d417fb'
 type: 'movie' # Filme, Série, Anime
 title: "A gente se vê ontem"
 synopsis: ["Dois jovens-prodígio tentam dominar a arte da viagem no tempo, mas um tiroteio trágico acaba os colocando em uma série de situações perigosas no passado.",
 ]
 originalTitle: "See You Yesterday"
-date: '2021-04-05T22:57:28.000Z'
-update: '2021-04-05T22:57:28.000Z'
+date: '2021-04-13T09:28:40.000Z'
+update: '2021-04-13T09:28:40.000Z'
 releaseDate: '2019-05-03T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '8MVRWQ1PnMo',
   ]
 tags: ['720p', '1080p']
-genre: ['Drama'] #
+genre: ['Drama', 'Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: 'e85f46ea-c6da-4b2b-b5fb-3ac8723e5e6b'
+id: 'b7fd209c-4239-4310-9530-c92ecdb979a7'
 type: 'movie' # Filme, Série, Anime
 title: "Vingadores: Era de Ultron"
 synopsis: ["Quando Tony Stark tenta reiniciar um programa de manutenção de paz, as coisas não dão certo e os super-heróis mais poderosos da Terra, incluindo Homem de Ferro, Capitão América, Thor, Hulk, Viúva Negra e Gavião Arqueiro, terão que passar no teste definitivo para salvar o planeta. Com o aparecimento do vilão Ultron, a equipe dos Vingadores tem a missão de neutralizar seus terríveis planos. Alianças complicadas e ação inesperada pavimentam o caminho para uma aventura épica global.",
 ]
 originalTitle: "Avengers: Age of Ultron"
-date: '2021-04-05T22:16:31.000Z'
-update: '2021-04-05T22:16:31.000Z'
+date: '2021-04-13T09:23:23.000Z'
+update: '2021-04-13T09:23:23.000Z'
 releaseDate: '2015-04-22T03:00:00.000Z'
 imdb:
   rating: '7.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'tmeOjFno6Do',
   ]
 tags: ['720p', '720p', '720p', '720p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

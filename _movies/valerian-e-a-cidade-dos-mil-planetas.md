@@ -1,12 +1,12 @@
 ---
-id: 'a636b9c0-3f7d-4097-8fa3-7b8250ea03cd'
+id: '2bfa5f5b-f602-4083-8014-27d20ea51922'
 type: 'movie' # Filme, Série, Anime
 title: "Valerian e a Cidade dos Mil Planetas"
 synopsis: ["Século XXVIII. Valérian é um agente viajante do tempo e do espaço que luta ao lado da parceira Laureline, por quem é apaixonado, em defesa da Terra e seus planetas aliados, continuamente atacados por bandidos intergaláticos. Quando chegam no planeta Alpha, eles precisarão acabar com uma operação comandada por grandes forças que deseja destruir os sonhos e as vidas dos dezessete milhões de habitantes do planeta.",
 ]
 originalTitle: "Valerian and the City of a Thousand Planets"
-date: '2021-04-05T22:41:24.000Z'
-update: '2021-04-05T22:41:24.000Z'
+date: '2021-04-13T09:26:45.000Z'
+update: '2021-04-13T09:26:45.000Z'
 releaseDate: '2017-07-20T03:00:00.000Z'
 imdb:
   rating: '6.5' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'cPeqNTqZNN0',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: '0f2e696a-154d-4f3c-af81-b149243128ac'
+id: 'd45c6bf4-9602-4281-8550-d62c2131af34'
 type: 'movie' # Filme, Série, Anime
 title: "O Ataque das Criaturas"
 synopsis: ["Dee Wallace (E.T. O Extra-Terrestre), que estrelou Criaturas originais como Helen Brown, vai afundar seus dentes na franquia pela segunda vez no misterioso papel de tia Dee. Inspirado pela série de filmes dos anos 80 e 90, Criaturas segue Drea (Tashiana Washington), de 20 anos, que relutantemente aceita um emprego como babá para um professor de uma faculdade que ela espera frequentar. Lutando para entreter os filhos do professor Trissy (Ava Preston) e Jake (Jack Fulton), junto com seu próprio irmãozinho Phillip (Jaeden Noel), Drea os leva em uma caminhada, sem saber que criaturas alienígenas misteriosas caíram e começaram a devorar cada coisa viva que eles encontram.",
 ]
 originalTitle: "Critters Attack!"
-date: '2021-04-05T21:09:52.000Z'
-update: '2021-04-05T21:09:52.000Z'
+date: '2021-04-13T09:16:34.000Z'
+update: '2021-04-13T09:16:34.000Z'
 releaseDate: '2019-07-23T03:00:00.000Z'
 imdb:
   rating: '3.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'xPDsz0UaXO4',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Comédia', 'Terror'] #
+genre: ['Comédia', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

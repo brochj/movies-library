@@ -1,12 +1,12 @@
 ---
-id: '05dac503-e15c-4409-b979-75e2c016b397'
+id: 'f5b8dd2c-52b3-4077-bcad-8d6b27c28c4f'
 type: 'movie' # Filme, Série, Anime
 title: "Pandemia"
 synopsis: ["Um vírus zumbi está dizimando a população e um grupo de cientistas precisa sair a campo para resgatar aquelas que ainda não foram contaminadas. A busca pela cura gera uma corrida contra o tempo, enquanto na rua todos lutam para sobreviver aos ataques de zumbis.",
 ]
 originalTitle: "Pandemic"
-date: '2021-04-05T19:22:17.000Z'
-update: '2021-04-05T19:22:17.000Z'
+date: '2021-04-13T09:14:48.000Z'
+update: '2021-04-13T09:14:48.000Z'
 releaseDate: '2016-02-26T03:00:00.000Z'
 imdb:
   rating: '4.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '',
   ]
 tags: ['720p', '1080p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'BluRay Rip' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'mp4' # MKV, MP4, TS
 audio: 'Português' # Dublado, Legendado, Dual Audio, Dub & Leg

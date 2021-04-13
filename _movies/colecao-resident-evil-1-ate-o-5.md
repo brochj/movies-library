@@ -1,5 +1,5 @@
 ---
-id: '91087453-b956-4793-8c1d-308c456db429'
+id: '8ee7604c-9698-4e01-a4fc-aad27706596e'
 type: 'movie' # Filme, Série, Anime
 title: "Coleção Resident Evil (Pentalogia) 1 até o 5"
 synopsis: ["Sinopse: Coleção – Resident Evil Torrent – BluRay Rip 1080p Dual Áudio 5.1 (2002-2012) O Hóspede Maldito: Baseado na famosa série homônima de games, o thriller de ação “Resident Evil – O Hóspede Maldito” coloca Alice (Milla Jovovich / O Quinto Elemento) e Rain (Michelle Rodriguez/ Velozes e Furiosos) numa batalha contra o tempo, entre o bem e o mal, entre humanos e computadores, entre vivos e mortos-vivos… O epicentro desse terrível combate é o laboratório subterrâneo de bioengenharia conhecido como Colmeia, administrado pela poderosa Umbrella Corporation.",
@@ -9,8 +9,8 @@ synopsis: ["Sinopse: Coleção – Resident Evil Torrent – BluRay Rip 1080p Du
 "Sinopse: Coleção – Resident Evil Torrent – BluRay Rip 1080p Dual Áudio 5.1 (2002-2012) Retribuição: O mortal vírus-T, desenvolvido pela Umbrella Corporation, continua dizimando o planeta Terra e transformando a população global em uma legião de mortos-vivos comedores de carne. A única e última esperança da raça humana, Alice (Milla Jovovich), desperta no centro de operações clandestinas da Umbrella, e descobre mais segredos do seu passado misterioso conforme se aprofunda no complexo.",
 ]
 originalTitle: "Resident Evil"
-date: '2021-04-05T19:21:36.000Z'
-update: '2021-04-05T19:21:36.000Z'
+date: '2021-04-13T09:14:19.000Z'
+update: '2021-04-13T09:14:19.000Z'
 releaseDate: '2002-03-15T03:00:00.000Z'
 imdb:
   rating: '6.7' # 8.5
@@ -21,7 +21,7 @@ trailer:
     '',
   ]
 tags: ['1080p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'BluRay Rip' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'MP4' # MKV, MP4, TS
 audio: 'Português | Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

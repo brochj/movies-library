@@ -1,12 +1,12 @@
 ---
-id: '47f3f0f0-41bb-492a-b98e-4850887b701d'
+id: '35055bc4-cc9e-471e-bc21-6491d698ad04'
 type: 'movie' # Filme, Série, Anime
 title: "Do Fundo do Mar 2"
 synopsis: ["Preservadora de tubarões, a Dr. Misty Calhoun (Danielle Savre) é convidada para ser consultora num projeto ultra-secreto do bilionário farmacêutico Carl Durant (Michael Beach). Ela acredita que o projeto, situado numa base subaquática, foca na extração de anticorpos dos tubarões para ajudar na cura de doenças humanas. Contudo, Misty fica espantada ao descobrir que a companhia está usando os imprevisíveis tubarões-cabeça-chata como teste e que Durant está usando bio-genética neles para gerar tubarões altamente inteligentes e rápidos, além de altamente agressivos.",
 ]
 originalTitle: "Deep Blue Sea 2"
-date: '2021-04-05T21:38:29.000Z'
-update: '2021-04-05T21:38:29.000Z'
+date: '2021-04-13T09:21:37.000Z'
+update: '2021-04-13T09:21:37.000Z'
 releaseDate: '2018-04-17T03:00:00.000Z'
 imdb:
   rating: '3.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'oSz9MDN-iac',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

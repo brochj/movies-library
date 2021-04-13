@@ -1,12 +1,12 @@
 ---
-id: '99bddbd8-9b62-4f7d-aeb8-5a011816aae7'
+id: '888da81d-0047-45f3-9655-4891cb1a0d18'
 type: 'movie' # Filme, Série, Anime
 title: "Quarentena 2"
 synopsis: ["Um avião é tomado por um misterioso vírus. Após fazer um pouso de emergência, o avião é colocado em quarentena. Com alguns sobreviventes, o grupo vai precisar se unir para superar esse período de observação que não tem escapatória.",
 ]
 originalTitle: "Quarantine 2: Terminal"
-date: '2021-04-05T19:21:46.000Z'
-update: '2021-04-05T19:21:46.000Z'
+date: '2021-04-13T09:14:25.000Z'
+update: '2021-04-13T09:14:25.000Z'
 releaseDate: '2011-06-16T03:00:00.000Z'
 imdb:
   rating: '5.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '',
   ]
 tags: ['720p']
-genre: ['Mistério', 'Terror'] #
+genre: ['Ficção científica', 'Mistério', 'Terror'] #
 quality: 'WEB-DL' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português' # Dublado, Legendado, Dual Audio, Dub & Leg

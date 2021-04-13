@@ -1,12 +1,12 @@
 ---
-id: '62f3e3f5-0639-42df-a3e3-fc3c10b945e1'
+id: '6236b47c-d156-4559-85c5-7716e94d71ed'
 type: 'movie' # Filme, Série, Anime
 title: "Illang: A Brigada Lobo"
 synopsis: ["Em 2029, o esquadrão de elite da polícia Illang combate um grupo terrorista que luta contra a reunificação das duas Coreias. Mas outro inimigo pode estar à espreita.",
 ]
 originalTitle: "인랑"
-date: '2021-04-05T21:30:43.000Z'
-update: '2021-04-05T21:30:43.000Z'
+date: '2021-04-13T09:18:58.000Z'
+update: '2021-04-13T09:18:58.000Z'
 releaseDate: '2018-07-25T03:00:00.000Z'
 imdb:
   rating: '6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '7rR2yuCjxRs',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Drama'] #
+genre: ['Ação', 'Drama', 'Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

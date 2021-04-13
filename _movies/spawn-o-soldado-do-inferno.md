@@ -1,12 +1,12 @@
 ---
-id: '13e3a4ac-7600-4375-be9d-67b86eac3024'
+id: '42a780a5-e96d-40d7-a609-8a2a3bbfcf3e'
 type: 'movie' # Filme, Série, Anime
 title: "Spawn: O Soldado do Inferno"
 synopsis: ["Al Simmons (Michael Jai White), o mais profissional agente de uma organização americana, é traído e morto por Jason Wynn (Martin Sheen), seu maquiavélico chefe, e Jessica Priest (Mindy Clarke), uma ambiciosa agente. Após cinco anos Al faz um pacto com Malebolgia, um dos demônios que comandam o inferno, para voltar à Terra para ver Wanda (Theresa Randle), sua esposa, que agora está casada com Terry Fitzgerald (D.B. Sweeney), um antigo colega de Al. Em troca Al irá liderar como Spawn os exércitos encarregados da destruição da raça humana. Na Terra Al é ajudado pelo Palhaço (John Leguizamo), um ser demoníaco que tem a missão de auxiliar Al em sua nova realidade e estimulá-lo a destruir Wynn e comandar os exércitos do inferno.",
 ]
 originalTitle: "Spawn"
-date: '2021-04-05T22:10:45.000Z'
-update: '2021-04-05T22:10:45.000Z'
+date: '2021-04-13T09:22:38.000Z'
+update: '2021-04-13T09:22:38.000Z'
 releaseDate: '1997-07-31T03:00:00.000Z'
 imdb:
   rating: '5.3' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Aventura', 'Fantasia', 'Terror'] #
+genre: ['Ação', 'Aventura', 'Fantasia', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

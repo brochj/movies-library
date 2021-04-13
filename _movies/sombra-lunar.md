@@ -1,12 +1,12 @@
 ---
-id: 'ea795528-7428-4c8e-9f79-8614ba842bbb'
+id: 'ec897a3e-e621-4c05-8402-a41c5ee26f18'
 type: 'movie' # Filme, Série, Anime
 title: "Sombra Lunar"
 synopsis: ["Filadélfia, 1988. Determinado a se tornar detetive, o policial Thomas Lockhart (Boyd Holbrook) segue os rastros de um misterioso serial killer que ataca a cada nove anos. Os crimes desafiam qualquer explicação científica e a obsessão de Lock em descobrir a verdade ameaça destruir sua carreira, sua família e sua sanidade.",
 ]
 originalTitle: "In the Shadow of the Moon"
-date: '2021-04-05T20:53:46.000Z'
-update: '2021-04-05T20:53:46.000Z'
+date: '2021-04-13T09:14:53.000Z'
+update: '2021-04-13T09:14:53.000Z'
 releaseDate: '2019-09-27T03:00:00.000Z'
 imdb:
   rating: '6.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'OBBxLdKpThk',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Crime', 'Mistério'] #
+genre: ['Crime', 'Ficção científica', 'Mistério'] #
 quality: 'WEB-DL' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: '9ea003d6-bd59-45c9-ad0f-215385f47557'
+id: 'a81566f2-7fc1-459a-9a3c-6b51f8c22079'
 type: 'movie' # Filme, Série, Anime
 title: "Escape Room"
 synopsis: ["Escape Room é um thriller psicológico sobre seis estranhos que se encontram em circunstancias que estão além do seu controle e precisam usar seus talentos para encontrar as pistas ou morrer.",
 ]
 originalTitle: "Escape Room"
-date: '2021-04-05T22:22:08.000Z'
-update: '2021-04-05T22:22:08.000Z'
+date: '2021-04-13T09:24:17.000Z'
+update: '2021-04-13T09:24:17.000Z'
 releaseDate: '2019-01-03T03:00:00.000Z'
 imdb:
   rating: '6.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'CpzgveGfTJ4',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Terror'] #
+genre: ['Ação', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

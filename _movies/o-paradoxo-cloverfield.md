@@ -1,12 +1,12 @@
 ---
-id: '26b8777a-d1a9-478b-a959-4ed82e8ad44a'
+id: '7953bfc1-e464-436e-830a-0aa8b5097b49'
 type: 'movie' # Filme, Série, Anime
 title: "O Paradoxo Cloverfield"
 synopsis: ["Orbitando um planeta à beira da guerra, cientistas testam um dispositivo para resolver uma crise de energia e acabam cara a cara com uma realidade alternativa obscura.",
 ]
 originalTitle: "The Cloverfield Paradox"
-date: '2021-04-05T22:28:00.000Z'
-update: '2021-04-05T22:28:00.000Z'
+date: '2021-04-13T09:24:58.000Z'
+update: '2021-04-13T09:24:58.000Z'
 releaseDate: '2018-02-04T03:00:00.000Z'
 imdb:
   rating: '5.5' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'jrxBaaINseI',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Mistério', 'Terror'] #
+genre: ['Ficção científica', 'Mistério', 'Terror'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

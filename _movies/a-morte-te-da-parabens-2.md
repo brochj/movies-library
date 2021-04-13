@@ -1,12 +1,12 @@
 ---
-id: 'f8271afc-7b14-4f0f-97b2-abfbd7034824'
+id: '3307a095-7c8b-461d-8c43-567b4a05f57d'
 type: 'movie' # Filme, Série, Anime
 title: "A Morte Te Dá Parabéns 2"
 synopsis: ["A Colegial Tree Gelbman acorda horrorizada ao saber que está presa em um universo paralelo. Seu namorado Carter está agora com outra pessoa, e seus amigos e colegas parecem ser versões completamente diferentes de si mesmos. Quando Tree descobre que o colega de quarto de Carter está alterando o tempo, ela se vê mais uma vez como alvo de um matador mascarado. Quando o psicopata começa a ir atrás de seu círculo íntimo, Tree logo percebe que ela deve morrer repetidamente para salvar a todos.",
 ]
 originalTitle: "Happy Death Day 2U"
-date: '2021-04-05T22:30:19.000Z'
-update: '2021-04-05T22:30:19.000Z'
+date: '2021-04-13T09:25:11.000Z'
+update: '2021-04-13T09:25:11.000Z'
 releaseDate: '2019-02-13T03:00:00.000Z'
 imdb:
   rating: '6.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '1NTaDm3atkc',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Comédia', 'Mistério', 'Terror'] #
+genre: ['Comédia', 'Ficção científica', 'Mistério', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: '507d05d9-c557-4799-9d93-edec53f4d978'
+id: 'e2c258df-defc-4d7a-a9d5-cacbfeb04811'
 type: 'movie' # Filme, Série, Anime
 title: "Tau"
 synopsis: ["Julia (Maika Monroe), foi sequestrada e agora é mantida em cativeiro para um experimento fatal. Ela é uma prisioneira de TAU, uma inteligência artificial avançada desenvolvida por Alex (Ed Skrein), o sequestrador. TAU controla uma casa futurista e inteligente, aparentemente à prova de fuga. Julia vai ter que correr contra o tempo para não ter o mesmo fim que as outras cobaias.",
 ]
 originalTitle: "Tau"
-date: '2021-04-05T22:09:17.000Z'
-update: '2021-04-05T22:09:17.000Z'
+date: '2021-04-13T09:22:07.000Z'
+update: '2021-04-13T09:22:07.000Z'
 releaseDate: '2018-06-20T03:00:00.000Z'
 imdb:
   rating: '5.8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'zD8UCPwyrQ4',
   ]
 tags: ['720p', '1080p', '720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

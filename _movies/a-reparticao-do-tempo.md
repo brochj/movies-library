@@ -1,12 +1,12 @@
 ---
-id: '18b6561b-672a-421e-ae48-f22a3f01817c'
+id: '04de713e-17ed-4863-b692-067df651e9b4'
 type: 'movie' # Filme, Série, Anime
 title: "A Repartição do Tempo"
 synopsis: ["Num rincão esquecido da vasta burocracia brasileira, um chefe psicótico usa uma máquina do tempo para duplicar seu quadro de funcionários e aumentar a produtividade da repartição.",
 ]
 originalTitle: "A Repartição do Tempo"
-date: '2021-04-05T22:21:48.000Z'
-update: '2021-04-05T22:21:48.000Z'
+date: '2021-04-13T09:24:13.000Z'
+update: '2021-04-13T09:24:13.000Z'
 releaseDate: '2016-09-24T03:00:00.000Z'
 imdb:
   rating: '6.1' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '7tfVRhT1KY4',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Comédia'] #
+genre: ['Comédia', 'Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português' # Dublado, Legendado, Dual Audio, Dub & Leg

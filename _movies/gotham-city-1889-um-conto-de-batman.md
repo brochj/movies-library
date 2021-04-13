@@ -1,12 +1,12 @@
 ---
-id: '1a747975-46f1-45ac-8f74-8bc823bbb963'
+id: '1d39fbec-c21d-4e72-a012-5e6eaed4861a'
 type: 'movie' # Filme, Série, Anime
 title: "Gotham City 1889: Um Conto de Batman"
 synopsis: ["Gotham, na virada do século, está passando por uma época de descoberta e indústria, mas nos becos mais sombrios há um assassino à solta. Trabalhando juntos, Batman e o comandante da Polícia James Gordon tentam capturar o temível Jack, o estripador.",
 ]
 originalTitle: "Batman: Gotham by Gaslight"
-date: '2021-04-05T22:29:47.000Z'
-update: '2021-04-05T22:29:47.000Z'
+date: '2021-04-13T09:25:06.000Z'
+update: '2021-04-13T09:25:06.000Z'
 releaseDate: '2018-01-12T03:00:00.000Z'
 imdb:
   rating: '6.7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'R7FuOmlAO1k',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação', 'Animação'] #
+genre: ['Ação', 'Animação', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

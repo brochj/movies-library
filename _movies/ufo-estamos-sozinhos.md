@@ -1,12 +1,12 @@
 ---
-id: '9a475d82-dde2-4173-9e0c-78bef3a57045'
+id: 'a1daf673-a72f-41e7-9843-751091a2f827'
 type: 'movie' # Filme, Série, Anime
 title: "Ufo - Estamos Sozinhos?"
 synopsis: ["Derek, um estudante brilhante, assombrado por um avistamento de UFO (OVNI) na infância, acredita que avistamentos misteriosos reportados em múltiplos aeroportos nos Estados Unidos são UFOS. Com ajuda de sua namorada, Natalie, e sua professora de Matemática Avançada, a Dra. Hendricks, Derek corre para desvendar o mistério com o agente especial do FBI, Franklin Ahls na sua cola.",
 ]
 originalTitle: "UFO"
-date: '2021-04-05T21:29:14.000Z'
-update: '2021-04-05T21:29:14.000Z'
+date: '2021-04-13T09:18:39.000Z'
+update: '2021-04-13T09:18:39.000Z'
 releaseDate: '2018-09-04T03:00:00.000Z'
 imdb:
   rating: '6.2' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '-rcCtmdtrUk',
   ]
 tags: ['720p', '1080p', '720p']
-genre: ['Ação'] #
+genre: ['Ação', 'Ficção científica'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

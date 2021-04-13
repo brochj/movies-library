@@ -1,12 +1,12 @@
 ---
-id: '7eb1d22e-6233-4fda-acda-f189752f0f48'
+id: '2c88dbbb-2733-4219-87ae-78c65156de39'
 type: 'movie' # Filme, Série, Anime
 title: "Homem-Aranha no Aranhaverso"
 synopsis: ["Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha.",
 ]
 originalTitle: "Spider-Man: Into the Spider-Verse"
-date: '2021-04-05T22:56:12.000Z'
-update: '2021-04-05T22:56:12.000Z'
+date: '2021-04-13T09:28:21.000Z'
+update: '2021-04-13T09:28:21.000Z'
 releaseDate: '2018-12-07T03:00:00.000Z'
 imdb:
   rating: '8.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'tg52up16eq0',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Animação', 'Aventura', 'Comédia'] #
+genre: ['Ação', 'Animação', 'Aventura', 'Comédia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

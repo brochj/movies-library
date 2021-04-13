@@ -1,15 +1,15 @@
 ---
-id: '2ed97c2a-b23d-40e2-a984-1f0c7a523ceb'
+id: 'ed36e395-92f1-49b5-b54a-71fb2d04f717'
 type: 'movie' # Filme, Série, Anime
 title: "Darken – O Universo Paralelo"
 synopsis: ["Em um universo paralelo composto de salas de labirinto, os habitantes são protegidos pela supervisora altruísta, Madre Darken. Quando uma estranha acidentalmente encontra seu caminho, ela se entrelaça em uma sangrenta batalha revolucionária.",
 ]
 originalTitle: "Darken"
-date: '2021-04-05T21:03:23.000Z'
-update: '2021-04-05T21:03:23.000Z'
+date: '2021-04-13T09:15:56.000Z'
+update: '2021-04-13T09:15:56.000Z'
 releaseDate: '2017-11-26T03:00:00.000Z'
 imdb:
-  rating: '4.2' # 8.5
+  rating: '4.1' # 8.5
   id: '' # tt0470752
 duration: '1h 22m'
 trailer:
@@ -17,7 +17,7 @@ trailer:
     'jvluKeW7x2E',
   ]
 tags: ['1080p', '720p']
-genre: ['Fantasia'] #
+genre: ['Fantasia', 'Ficção científica'] #
 quality: 'WEB-DL' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

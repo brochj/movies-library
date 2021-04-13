@@ -1,12 +1,12 @@
 ---
-id: 'ea8700d8-09fa-4f9b-9528-a25b6c881f5b'
+id: 'facb0eba-e988-47f3-88e9-672f48c6c58c'
 type: 'movie' # Filme, Série, Anime
 title: "Reviver"
 synopsis: ["Quando Marc é diagnosticado com câncer terminal, ele decide congelar seu corpo com a esperança de poder voltar a viver no futuro. No ano de 2048, Marc se transforma na primeira pessoa a ser ressuscitada. No entanto, logo ele se dá conta de que a nova vida não é como ele esperava, se arrependendo por ter deixado para trás o amor de sua vida.",
 ]
 originalTitle: "Proyecto Lázaro"
-date: '2021-04-05T22:39:42.000Z'
-update: '2021-04-05T22:39:42.000Z'
+date: '2021-04-13T09:26:38.000Z'
+update: '2021-04-13T09:26:38.000Z'
 releaseDate: '2016-12-13T03:00:00.000Z'
 imdb:
   rating: '5.9' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'Djlkn-8fTgU',
   ]
 tags: ['720p', '1080p', '720p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: '5e0efcf3-bbcc-4fdb-987a-99917f9a3eb9'
+id: 'bd3ad85a-26fd-4480-ab8f-7e10ac6746bc'
 type: 'movie' # Filme, Série, Anime
 title: "Homem-Formiga e a Vespa"
 synopsis: ["Após ter ajudado o Capitão América na batalha contra o Homem de Ferro na Alemanha, Scott Lang (Paul Rudd) é condenado a dois anos de prisão domiciliar, por ter quebrado o Tratado de Sokovia. Diante desta situação, ele foi obrigado a se aposentar temporariamente do posto de super-herói. Restando apenas três dias para o término deste prazo, ele tem um estranho sonho com Janet Van Dyne (Michelle Pfeiffer), que desapareceu 30 anos atrás ao entrar no mundo quântico em um ato de heroísmo. Ao procurar o dr. Hank Pym (Michael Douglas) e sua filha Hope (Evangeline Lilly) em busca de explicações, Scott é rapidamente cooptado pela dupla para que possa ajudá-los em sua nova missão: construir um túnel quântico, com o objetivo de resgatar Janet de seu limbo.",
 ]
 originalTitle: "Ant-Man and the Wasp"
-date: '2021-04-05T21:32:34.000Z'
-update: '2021-04-05T21:32:34.000Z'
+date: '2021-04-13T09:19:11.000Z'
+update: '2021-04-13T09:19:11.000Z'
 releaseDate: '2018-07-04T03:00:00.000Z'
 imdb:
   rating: '7' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'UUkn-enk2RU',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Ação', 'Aventura', 'Comédia'] #
+genre: ['Ação', 'Aventura', 'Comédia', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

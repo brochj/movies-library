@@ -1,12 +1,12 @@
 ---
-id: '2680aa79-7e22-4ecd-aa71-6a3476e0ed11'
+id: 'ecca0cba-eebf-4a35-a4b5-f95f5965061f'
 type: 'movie' # Filme, Série, Anime
 title: "The Avengers - Os Vingadores"
 synopsis: ["Loki retorna à Terra enviado pelos chitauri, uma raça alienígena que pretende dominar os humanos. Com a promessa de que será o soberano do planeta, ele rouba o cubo cósmico dentro de instalações da S.H.I.E.L.D. e, com isso, adquire grandes poderes. Loki os usa para controlar o dr. Erik Selvig e Clint Barton/Gavião Arqueiro, que passam a trabalhar para ele. No intuito de contê-los, Nick Fury convoca um grupo de pessoas com grandes habilidades, mas que jamais haviam trabalhado juntas: Homem de Ferro, Capitão América, Thor, Hulk e Viúva Negra. Só que, apesar do grande perigo que a Terra corre, não é tão simples assim conter o ego e os interesses de cada um deles para que possam agir em grupo.",
 ]
 originalTitle: "The Avengers"
-date: '2021-04-05T22:16:27.000Z'
-update: '2021-04-05T22:16:27.000Z'
+date: '2021-04-13T09:23:18.000Z'
+update: '2021-04-13T09:23:18.000Z'
 releaseDate: '2012-04-25T03:00:00.000Z'
 imdb:
   rating: '8' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'eOrNdBpGMv8',
   ]
 tags: ['720p', '720p', '720p']
-genre: ['Ação', 'Aventura'] #
+genre: ['Ação', 'Aventura', 'Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

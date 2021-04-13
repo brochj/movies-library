@@ -1,12 +1,12 @@
 ---
-id: 'ef248697-f3a5-42cd-aca7-c7555bdc33f7'
+id: '6125462d-2a79-477e-bd40-84f47e2895ef'
 type: 'movie' # Filme, Série, Anime
 title: "Arcade - Você Vai Entrar Nesse Jogo"
 synopsis: ["Funcionário de uma oficina de reparo de fliperamas, Oz fica responsável por vigiar o local quando o dono precisa viajar por algum tempo. Ao fazer uma velha máquina funcionar, Oz parece despertar uma misteriosa energia sobrenatural que estava guardada lá e que o leva por uma jornada surreal dentro de um jogo diferente. Quanto mais tempo passa conectado ao aparelho, mais fora da realidade o rapaz fica, alucinando, sem saber o que é real e o que é imaginação. Quando ele conhece a bela Tess, é questão de tempo até que ela também se envolva com a máquina e a coisas fujam do controle.",
 ]
 originalTitle: "Sequence Break"
-date: '2021-04-05T21:23:55.000Z'
-update: '2021-04-05T21:23:55.000Z'
+date: '2021-04-13T09:18:01.000Z'
+update: '2021-04-13T09:18:01.000Z'
 releaseDate: '2017-07-18T03:00:00.000Z'
 imdb:
   rating: '4.6' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '1R0a7nXg9c0',
   ]
 tags: ['720p', '1080p']
-genre: ['Romance', 'Terror'] #
+genre: ['Ficção científica', 'Romance', 'Terror'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

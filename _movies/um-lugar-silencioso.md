@@ -1,12 +1,12 @@
 ---
-id: '326c6ea4-0f3b-47e3-8b72-6ee0d9a5cc6c'
+id: '2c2c1edd-ec82-41ad-8f10-847f3f45da5f'
 type: 'movie' # Filme, Série, Anime
 title: "Um Lugar Silencioso"
 synopsis: ["Em uma fazenda dos Estados Unidos, uma família do meio-oeste é perseguida por uma entidade fantasmagórica assustadora. Para se protegerem, eles devem permanecer em silêncio absoluto, a qualquer custo, pois o perigo é ativado pela percepção do som.",
 ]
 originalTitle: "A Quiet Place"
-date: '2021-04-05T22:09:24.000Z'
-update: '2021-04-05T22:09:24.000Z'
+date: '2021-04-13T09:22:13.000Z'
+update: '2021-04-13T09:22:13.000Z'
 releaseDate: '2018-04-03T03:00:00.000Z'
 imdb:
   rating: '7.5' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'WR7cc5t7tv8',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: ['Drama', 'Terror'] #
+genre: ['Drama', 'Ficção científica', 'Terror'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg

@@ -1,12 +1,12 @@
 ---
-id: 'ea13c22d-f92d-4a41-8d42-a3d1e5a24d82'
+id: '7eb9fa27-f30a-4445-835b-f0bc0111a4fb'
 type: 'movie' # Filme, Série, Anime
 title: "Durante a Tormenta"
 synopsis: ["A interferência entre dois planos paralelos, 1989 e o presente, faz com que Vera, uma mãe feliz e casada, salve a vida de um menino que viveu a 25 anos atrás. Mas as consequências de sua boa ação provocam uma reação em cadeia que a faz acordar em uma nova realidade, onde sua filha nunca nasceu.",
 ]
 originalTitle: "Durante la tormenta"
-date: '2021-04-05T22:56:44.000Z'
-update: '2021-04-05T22:56:44.000Z'
+date: '2021-04-13T09:28:28.000Z'
+update: '2021-04-13T09:28:28.000Z'
 releaseDate: '2018-11-30T03:00:00.000Z'
 imdb:
   rating: '7.4' # 8.5
@@ -17,7 +17,7 @@ trailer:
     'DipMKbN6zxg',
   ]
 tags: ['1080p', '720p']
-genre: ['Drama', 'Romance'] #
+genre: ['Drama', 'Ficção científica', 'Romance'] #
 quality: 'WEB-DL 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Espanhol' # Dublado, Legendado, Dual Audio, Dub & Leg

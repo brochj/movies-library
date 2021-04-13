@@ -1,12 +1,12 @@
 ---
-id: 'f958d393-a0bb-44c8-be50-1cb07c4de0d4'
+id: '6e4a245c-3467-41bb-9a64-a671bcb41795'
 type: 'movie' # Filme, Série, Anime
 title: "O Último Suspiro"
 synopsis: ["Em um futuro próximo, a cidade de Paris é sitiada por uma névoa misteriosa capaz de matar seus moradores. Um jovem casal precisa garantir a sobrevivência de sua família dentro do caos que se instaura na região. Sem eletricidade, comida ou água, fica evidente que eles não receberão nenhum tipo de ajuda e para sobreviver será necessário deixar o local e enfrentar a terrível fumaça.",
 ]
 originalTitle: "Dans la brume"
-date: '2021-04-05T21:31:26.000Z'
-update: '2021-04-05T21:31:26.000Z'
+date: '2021-04-13T09:19:04.000Z'
+update: '2021-04-13T09:19:04.000Z'
 releaseDate: '2018-04-04T03:00:00.000Z'
 imdb:
   rating: '5.9' # 8.5
@@ -17,7 +17,7 @@ trailer:
     '4eU52Gh3P08',
   ]
 tags: ['720p', '1080p', '720p', '1080p']
-genre: [] #
+genre: ['Ficção científica'] #
 quality: 'BluRay 720p | 1080p' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv | Mp4' # MKV, MP4, TS
 audio: 'Português, Francês' # Dublado, Legendado, Dual Audio, Dub & Leg
