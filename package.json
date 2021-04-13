@@ -7,11 +7,6 @@
     "start": "next start",
     "cache-posts": "node scripts/cache.js"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "npm run cache-posts && git add cache/movies.js"
-    }
-  },
   "dependencies": {
     "@material-ui/core": "^4.11.2",
     "@material-ui/icons": "^4.11.2",
@@ -27,7 +22,6 @@
   },
   "devDependencies": {
     "autoprefixer": "10.0.4",
-    "husky": "^6.0.0",
     "postcss": "8.1.13",
     "postcss-preset-env": "^6.7.0",
     "tailwindcss": "2.0.1"
