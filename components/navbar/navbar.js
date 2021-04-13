@@ -1,10 +1,13 @@
 import React, { useState } from 'react';
 import Link from 'next/link'
+import SearchIcon from '@material-ui/icons/Search'
+import SearchModal from '../../components/search-modal'
 import { BLOG_NAME } from '../../lib/constants'
 
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
+  const [isModalOpen, setIsModalOpen] = useState(false);
 
   return (
       <div className="dark:bg-primary-600">
@@ -57,7 +60,12 @@ export default function Navbar() {
               </li>
 
             </ul>
+            <div className="cursor-pointer">
+              <SearchIcon onClick={() => setIsModalOpen(true)} fontSize="large" style={{color: '#FFF', marginTop: '1px'}}/>
+              <SearchModal isOpen={isModalOpen} handleClose={() => setIsModalOpen(false)}/>
+            </div>
             <div className="lg:hidden">
+               
               <button
                 aria-label="Abrir Menu"
                 title="Abrir Menu"
