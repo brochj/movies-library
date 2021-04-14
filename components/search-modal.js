@@ -18,7 +18,7 @@ export default function SearchModal({ isOpen, handleClose }) {
     setLoading(true)
     const query = event.target.value;
     setQuery(query)
-    if (query.length) {
+    if (query.length > 1) {
       fetch(searchEndpoint(query))
         .then(res => res.json())
         .then(res => {
@@ -65,7 +65,7 @@ export default function SearchModal({ isOpen, handleClose }) {
             aria-label="Limpar"
             title="Limpar"
             className="p-2 absolute top-1 right-4 transition duration-200 rounded-full hover:bg-primary "
-            onClick={() => setQuery('')}
+            onClick={() => {setQuery(''); searchInputRef.current.focus()}}
           >
             <svg className="w-7 text-gray-600 hover:text-onPrimary" viewBox="0 0 24 24">
               <path
@@ -87,6 +87,7 @@ export default function SearchModal({ isOpen, handleClose }) {
             >
               <li 
                 className="cursor-pointer dark:text-dark-onBackground p-4 text-lg trasition transform duration-300 hover:translate-x-2 hover:bg-primary-500" 
+                onClick={() => handleClose()}
               >
                 <a>{title}</a>
               </li>
