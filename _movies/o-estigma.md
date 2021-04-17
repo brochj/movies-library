@@ -6,7 +6,7 @@ synopsis: []
 originalTitle: "O Estigma"
 date: '2021-04-17T09:57:07.000Z'
 update: '2021-04-17T09:57:07.000Z'
-releaseDate: 'T03:00:00.000Z'
+releaseDate: '2021-04-17T03:00:00.000Z'
 imdb:
   rating: '5.1' # 8.5
   id: '' # tt0470752

@@ -7,7 +7,7 @@ synopsis: ["Jang Dong-Soo ( Ma Dong-Seok ) é um chefe de gangue em Cheonan. Ele
 originalTitle: "The Gangster, The Cop, The Devil"
 date: '2021-04-17T09:55:13.000Z'
 update: '2021-04-17T09:55:13.000Z'
-releaseDate: 'T03:00:00.000Z'
+releaseDate: '2021-04-17T03:00:00.000Z'
 imdb:
   rating: '6.9' # 8.5
   id: '' # tt0470752
