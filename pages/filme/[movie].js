@@ -13,6 +13,7 @@ import Layout from '../../components/layout'
 import MovieCover from '../../components/movie/movie-cover'
 import MovieInfo from '../../components/movie/movie-info'
 import TrailerModal from '../../components/movie/trailer-modal'
+import MovieJSONLD from '../../components/movie/movie-json-ld'
 
 
 export default function Post({ movie, preview }) {
@@ -38,7 +39,7 @@ export default function Post({ movie, preview }) {
               <meta property="og:description" content={movie.synopsis} key="og:description"/>
               <meta property="og:type" content="article" key="og:type"/>
               <meta property="og:image" content={`${HOME_URL}${movie.images.cover}`} key="og:image" />
-              {/* <meta property="og:url" content={`${HOME_URL}/movies/${movie.slug}`} key="og:url" /> */}
+              <meta property="og:url" content={`${HOME_URL}/filme/${movie.slug}`} key="og:url" />
             </Head>
             <h1 className="text-center text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight md:tracking-tighter leading-tight mb-10 mt-3 dark:text-dark-onPrimary">{movie.title}</h1>
             <div className="my-3 flex flex-col items-center md:flex-row">
@@ -71,7 +72,15 @@ export default function Post({ movie, preview }) {
             />
             <DownloadMovie download={movie.download}/>
             <time className="pt-5 text-sm dark:text-gray-500" dateTime={movie.date}>Adicionado em {brazilFormat(movie.date)}</time>
-            
+            <MovieJSONLD 
+                // TODO Fazer funcionar dentro do HEAD daqui, pois aí consigo utilizar um desse dentro do meta.js para ficar como padrão 
+                title={movie.title}
+                postUrl={`${HOME_URL}/filme/${movie.slug}`}
+                description={movie.description}
+                image={`${HOME_URL}${movie.images.cover}`}
+                datePublished={movie.date}
+                dateModified={movie.update}
+              />
           </article>
         )}
       </Container>
