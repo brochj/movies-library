@@ -39,8 +39,9 @@ export default function MovieJSONLD(props){
 
   return (
     <script
-      type="application/ld+json" key="application/ld+json">
-      {JSON.stringify(ldJson)}
-    </script>
+      type="application/ld+json" 
+      key="application/ld+json"
+      dangerouslySetInnerHTML={{__html: JSON.stringify(ldJson)}}
+    />
   )
 }
