@@ -23,7 +23,7 @@ format: 'MKV' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg
 subtitle: 'Português' # Português, inglês,
 size: '5.4 GB, 2.1 GB, 14 GB | 1.9 GB' # 4.8 GB
-audioQuality: ING 10 / PT-BR: 09
+audioQuality: 10
 videoQuality: 10
 directors: []
 #  - name: 'Lana Wachowski'
