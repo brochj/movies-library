@@ -46,7 +46,13 @@ download:
   - url: 'magnet:?xt=urn:btih:57f48940cfc81a34023a14e5c7713baf272efa59&dn=Sociedade.da.Justi%c3%a7a.2.Guerra.Mundial.2021.1080p.WEB-DL.DDP5.1.DUAL.COMANDO.TO&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce'
     resolution: '1080p' # 720p, 1080p, 4K,
     audio: 'Dual Áudio' # Dublado, Legendado, Dual Audio
-    size: '' # 4.8 GB
+    size: '1.9 GB' # 4.8 GB
+    quality: '' # BluRay, WEB-DL
+    format: '' # MKV
+  - url: 'magnet:?xt=urn:btih:c304c54bdd240f690b4028b308904969cddbf1b8&dn=Justice.Society.World.War.II.2021.1080p.WEBRip.DD5.1.x264-COMANDO.TO&tr=udp%3a%2f%2fpublic.popcorn-tracker.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=http%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f3rt.tace.ru%3a60889%2fannounce'
+    resolution: '1080p' # 720p, 1080p, 4K,
+    audio: 'Dual Áudio' # Dublado, Legendado, Dual Audio
+    size: '3.2 GB' # 4.8 GB
     quality: '' # BluRay, WEB-DL
     format: '' # MKV
 images:
