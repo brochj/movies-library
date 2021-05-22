@@ -6,7 +6,7 @@ export default function Meta() {
   return (
     <Head>
       {/* Google Adsense */}
-      {/* <script data-ad-client="ca-pub-9080032444400275" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> */}
+      <script data-ad-client="ca-pub-9080032444400275" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       {/*  Google Tag Manager */}
       <script async src={`https://www.googletagmanager.com/gtag/js?id=${GA_TRACKING_ID}`}/>
       <script
