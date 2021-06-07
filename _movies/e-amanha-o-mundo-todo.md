@@ -21,7 +21,7 @@ genre: ['Crime', 'Drama', 'Romance'] #
 quality: 'WEB-DL' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'MKV' # MKV, MP4, TS
 audio: 'Português, Alemão' # Dublado, Legendado, Dual Audio, Dub & Leg
-subtitle: 'Português (' # Português, inglês,
+subtitle: 'Português' # Português, inglês,
 size: '3 GB' # 4.8 GB
 audioQuality: 10
 videoQuality: 10

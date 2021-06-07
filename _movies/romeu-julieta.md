@@ -21,7 +21,7 @@ genre: ['Drama', 'Romance'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'MKV' # MKV, MP4, TS
 audio: 'Português, Inglês' # Dublado, Legendado, Dual Audio, Dub & Leg
-subtitle: 'Português (' # Português, inglês,
+subtitle: 'Português' # Português, inglês,
 size: '4.5 GB' # 4.8 GB
 audioQuality: 10
 videoQuality: 10

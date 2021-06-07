@@ -21,7 +21,7 @@ genre: ['Suspense'] #
 quality: 'BluRay' # BluRay, WEB-DL, HDTV, WEB-DL4K, WEB-DLe
 format: 'Mkv' # MKV, MP4, TS
 audio: 'Francês' # Dublado, Legendado, Dual Audio, Dub & Leg
-subtitle: 'Português (' # Português, inglês,
+subtitle: 'Português' # Português, inglês,
 size: '2.18 GB' # 4.8 GB
 audioQuality: 10
 videoQuality: 10
