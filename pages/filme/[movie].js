@@ -60,7 +60,7 @@ export default function Post({ movie, preview }) {
                 genre={movie.genre}
               />
             </div>
-            <FileInfo 
+            {/* <FileInfo 
               className="md:flex md:flex-col md:justify-center md:items-center"
               quality={movie.quality}
               format={movie.format}
@@ -69,8 +69,8 @@ export default function Post({ movie, preview }) {
               size={movie.size}
               audioQuality={movie.audioQuality}
               videoQuality={movie.videoQuality}
-            />
-            <DownloadMovie download={movie.download}/>
+            /> */}
+            {/* <DownloadMovie download={movie.download}/> */}
             <time className="pt-5 text-sm dark:text-gray-500" dateTime={movie.date}>Adicionado em {brazilFormat(movie.date)}</time>
             <MovieJSONLD 
                 // TODO Fazer funcionar dentro do HEAD daqui, pois aí consigo utilizar um desse dentro do meta.js para ficar como padrão 

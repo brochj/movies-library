@@ -36,7 +36,7 @@ export default function Genre({ allMovies, imdb }) {
           </div>
         }
         {allMovies.length < postNum && allMovies.length != 0 &&
-          <p className="mb-5 flex justify-center items-center text-2xl font-semibold uppercase dark:text-gray-500">Acabou os Filmes</p>
+          <p className="mb-5 flex justify-center items-center text-2xl font-semibold uppercase dark:text-gray-500">FIM</p>
         }
         {allMovies.length === 0 &&
           <p className="mb-5 flex justify-center items-center text-2xl font-semibold uppercase dark:text-gray-500">Nenhum Filme encontrado</p>

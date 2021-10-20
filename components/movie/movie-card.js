@@ -28,9 +28,9 @@ export default function MovieCard({
         />
       
       <div className="flex absolute top-0 left-0 ">
-        <p className="hidden 2xl:block px-3 py-1 mr-1 text-onPrimary dark:text-dark-onPrimary bg-black bg-opacity-60 rounded-tl-md rounded-br-md text-sm font-semibold leading-snug tracking-wide">
+        {/* <p className="hidden 2xl:block px-3 py-1 mr-1 text-onPrimary dark:text-dark-onPrimary bg-black bg-opacity-60 rounded-tl-md rounded-br-md text-sm font-semibold leading-snug tracking-wide">
           {audio}
-        </p>
+        </p> */}
 
       </div>
         <p className="absolute px-3 py-1 top-0 right-0 text-xs lg:text-sm text-onPrimary dark:text-dark-onPrimary bg-opacity-50 bg-black rounded-tr-md rounded-bl-md font-semibold leading-snug tracking-wide">

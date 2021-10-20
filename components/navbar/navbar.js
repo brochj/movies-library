@@ -47,7 +47,7 @@ export default function Navbar() {
                   </a>
                 </Link>
               </li>
-              <li>
+              {/* <li>
                 <Link href="#">
                   <a
                     aria-label="Ver Melhores Filmes"
@@ -57,7 +57,7 @@ export default function Navbar() {
                     Séries (Em breve)
                   </a>
                 </Link>
-              </li>
+              </li> */}
 
             </ul>
             <div className="cursor-pointer">
