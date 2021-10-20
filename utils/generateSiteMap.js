@@ -32,7 +32,7 @@ async function generateSiteMap() {
         .replace('index', '')
       return `
   <url>
-    <loc>${`https://brokfilmes.vercel.app/${path}`}</loc>
+    <loc>${`https://bibliotecafilmes.netlify.app/${path}`}</loc>
     <lastmod>${time}</lastmod>
   </url>
           `
@@ -45,7 +45,7 @@ async function generateSiteMap() {
           .replace('.md', '')
         return `
   <url>
-    <loc>${`https://brokfilmes.vercel.app/filme/${path}`}</loc>
+    <loc>${`https://bibliotecafilmes.netlify.app/filme/${path}`}</loc>
     <lastmod>${time}</lastmod>
   </url>
             `

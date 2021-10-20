@@ -1,1 +1,1 @@
-Sitemap: https://brokfilmes.vercel.app/sitemap.xml
+Sitemap: https://bibliotecafilmes.netlify.app/sitemap.xml

@@ -1,5 +1,5 @@
 {
-  "name": "blog-starter",
+  "name": "movie-library",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",

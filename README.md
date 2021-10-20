@@ -1,51 +1,115 @@
-# A statically generated blog example using Next.js and Markdown
+# A Movie Library Site
 
-This example showcases Next.js's [Static Generation](https://nextjs.org/docs/basic-features/pages) feature using Markdown files as the data source.
+<p align="center">
+  <a href="#about">About the Project</a> •
+  <a href="#demo">Demo</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#how-to-reach-me">How to reach me</a>
+</p>
 
-The blog posts are stored in `/_posts` as Markdown files with front matter support. Adding a new Markdown file in there will create a new blog post.
+![homepage](docs/screenshots/homepage.png)
 
-To create the blog posts we use [`remark`](https://github.com/remarkjs/remark) and [`remark-html`](https://github.com/remarkjs/remark-html) to convert the Markdown files into an HTML string, and then send it down as a prop to the page. The metadata of every post is handled by [`gray-matter`](https://github.com/jonschlinkert/gray-matter) and also sent in props to the page.
+<!-- ## Contents
+
+- [About the Project](#about)
+- [Demo](#demo)
+- [Screenshots](#screenshots)
+- [How to use](#how-to-use)
+- [How to reach me](#how-to-reach-me) -->
+
+## About the project <a name="about"/>
+- On this site you can:
+  - Browse the latest added movies
+  - Browse by movie genre
+  - Browse by IMDb ratings
+  - Search movie by its title
+  - View the top 30 movies
+
+#### Front-end
+<div style="display: inline block">
+
+<img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+<img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+
+<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+
+#### Static pages generator
+
+<img align="center" alt="next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+
+</div>
+
 
 ## Demo
 
-[https://next-blog-starter.now.sh/](https://next-blog-starter.now.sh/)
+See the live preview here:  
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://bibliotecafilmes.netlify.app)
 
-## Deploy your own
+[https://bibliotecafilmes.netlify.app](https://bibliotecafilmes.netlify.app)
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?c=1&s=https://github.com/vercel/next.js/tree/canary/examples/blog-starter)
+## Screenshots
 
-### Related examples
+### Homepage
+![homepage](docs/screenshots/homepage.png)
 
-- [WordPress](/examples/cms-wordpress)
-- [DatoCMS](/examples/cms-datocms)
-- [Sanity](/examples/cms-sanity)
-- [TakeShape](/examples/cms-takeshape)
-- [Prismic](/examples/cms-prismic)
-- [Contentful](/examples/cms-contentful)
-- [Strapi](/examples/cms-strapi)
-- [Agility CMS](/examples/cms-agilitycms)
-- [Cosmic](/examples/cms-cosmic)
-- [ButterCMS](/examples/cms-buttercms)
-- [Storyblok](/examples/cms-storyblok)
-- [GraphCMS](/examples/cms-graphcms)
-- [Kontent](/examples/cms-kontent)
+### Best Movies
+![best-movies](docs/screenshots/best-movies.png)
 
-## How to use
+### Movie Page <a name="movie-page"/>
+![movie-page](docs/screenshots/movie-page.png)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+<details><summary><b>See More Screenshots</b></summary>  
 
-```bash
-npx create-next-app --example blog-starter blog-starter-app
-# or
-yarn create next-app --example blog-starter blog-starter-app
+### Movies sorted by Genre
+![terror-page](docs/screenshots/terror-page.png)
+
+### Movies sorted by IMDB
+![imdb-ratings](docs/screenshots/imdb-ratings.png)
+
+### Genres Menu
+![movies-genres](docs/screenshots/movies-genres.png)
+
+</details>
+
+---
+
+## How to use <a name="how-to-use"/>
+
+1. Download the files
+```sh
+git clone https://github.com/brochj/movies-library.git
+```
+2. Go to the project folder
+```sh
+cd movies-library
+```
+3. Install the libraries
+```sh
+npm install
+```
+4. Build the project (_this may take a few minutes_)
+```sh
+npm run build
+```
+5. Run the project
+```sh
+npm run start
 ```
 
-Your blog should be up and running on [http://localhost:3000](http://localhost:3000)! If it doesn't work, post on [GitHub discussions](https://github.com/vercel/next.js/discussions).
+The site should be up and running on [http://localhost:3000](http://localhost:3000)!
 
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+---
 
-# Notes
+### 📫 How to reach me <a name="how-to-reach-me"/>
+<div> 
+  <a href = "mailto:brochj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/oscarbroch/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-This blog-starter uses [Tailwind CSS](https://tailwindcss.com). To control the generated stylesheet's filesize, this example uses Tailwind CSS' v2.0 [`purge` option](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css) to remove unused CSS.
+### `brochj@gmail.com`
